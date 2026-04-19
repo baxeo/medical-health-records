@@ -1,0 +1,94 @@
+{
+  "Gender": {
+    "Male": 0,
+    "Female": 1
+  },
+  "EducationLevel": {
+    "No formal qualification": 0,
+    "Secondary": 1,
+    "Vocational/Technical": 2,
+    "Diploma": 3,
+    "Higher Diploma": 4,
+    "Bachelor": 5
+  },
+  "DigitalSkillLevel": {
+    "Low": 0,
+    "Medium": 1,
+    "High": 2
+  },
+  "EnglishLevel": {
+    "Basic": 0,
+    "Intermediate": 1,
+    "Advanced": 2
+  },
+  "Region": {
+    "Arusha": 0,
+    "Dar es Salaam": 1,
+    "Dodoma": 2,
+    "Geita": 3,
+    "Iringa": 4,
+    "Kagera": 5,
+    "Katavi": 6,
+    "Kigoma": 7,
+    "Kilimanjaro": 8,
+    "Lindi": 9,
+    "Manyara": 10,
+    "Mara": 11,
+    "Mbeya": 12,
+    "Morogoro": 13,
+    "Mtwara": 14,
+    "Mwanza": 15,
+    "Njombe": 16,
+    "Pemba North": 17,
+    "Pemba South": 18,
+    "Pwani": 19,
+    "Rukwa": 20,
+    "Ruvuma": 21,
+    "Shinyanga": 22,
+    "Simiyu": 23,
+    "Singida": 24,
+    "Songwe": 25,
+    "Tabora": 26,
+    "Tanga": 27,
+    "Zanzibar South": 28,
+    "Zanzibar Urban/West": 29
+  },
+  "FieldOfStudy": {
+    "Agriculture": 0,
+    "Arts": 1,
+    "Business": 2,
+    "Education": 3,
+    "Engineering": 4,
+    "Finance": 5,
+    "Health": 6,
+    "Hospitality": 7,
+    "Information Technology": 8,
+    "Logistics": 9
+  },
+  "CurrentEmploymentStatus": {
+    "Full-time": 0,
+    "Informal work": 1,
+    "Internship": 2,
+    "Part-time": 3,
+    "Self-employed": 4,
+    "Unemployed": 5
+  },
+  "DesiredIndustry": {
+    "Agriculture": 0,
+    "Banking": 1,
+    "Construction": 2,
+    "Education": 3,
+    "Healthcare": 4,
+    "ICT": 5,
+    "Manufacturing": 6,
+    "Tourism": 7,
+    "Trade": 8,
+    "Transport": 9
+  },
+  "PreferredJobType": {
+    "Customer-facing": 0,
+    "Field": 1,
+    "Office": 2,
+    "Remote": 3
+  }
+}

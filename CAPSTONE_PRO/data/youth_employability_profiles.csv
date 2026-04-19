@@ -1,0 +1,1001 @@
+ProfileID,Age,Gender,Region,EducationLevel,FieldOfStudy,ExperienceYears,YearsSinceGraduation,DigitalSkillLevel,EnglishLevel,CurrentEmploymentStatus,DesiredIndustry,PreferredJobType,TechnicalSkills,SoftSkills,CertificationsCount
+1,23,Male,Tabora,Vocational/Technical,Business,0,1,Medium,Intermediate,Informal work,Manufacturing,Office,"Data analysis, Digital marketing","Adaptability, Leadership",2
+2,23,Female,Shinyanga,Secondary,Finance,2,3,Low,Basic,Internship,Tourism,Customer-facing,"Microsoft Office, Graphic design, Accounting","Problem solving, Critical thinking",0
+3,25,Female,Simiyu,Secondary,Information Technology,0,6,Medium,Advanced,Full-time,Banking,Field,"Digital marketing, Programming (Python), Customer service, English communication","Adaptability, Problem solving",1
+4,19,Male,Kilimanjaro,Higher Diploma,Logistics,0,1,Medium,Intermediate,Full-time,Manufacturing,Field,"Customer service, Mechanical maintenance, Web development, Network support","Leadership, Adaptability, Creativity",2
+5,24,Male,Pwani,Higher Diploma,Health,1,5,Medium,Intermediate,Informal work,Healthcare,Field,"Microsoft Office, Customer service, Logistics coordination","Customer focus, Critical thinking, Leadership",1
+6,20,Female,Katavi,Higher Diploma,Information Technology,0,0,High,Basic,Full-time,ICT,Remote,"Network support, Web development, Inventory management","Leadership, Communication, Problem solving",2
+7,25,Male,Pemba South,Secondary,Information Technology,4,4,Low,Intermediate,Self-employed,Construction,Field,"Database management, Mechanical maintenance","Customer focus, Creativity",1
+8,25,Female,Kigoma,Bachelor,Business,1,4,High,Advanced,Informal work,Manufacturing,Office,"Logistics coordination, Microsoft Office","Resilience, Leadership",0
+9,23,Male,Kilimanjaro,Diploma,Agriculture,2,3,Medium,Intermediate,Self-employed,Education,Remote,"Data analysis, Food preparation, Logistics coordination","Customer focus, Adaptability",0
+10,19,Female,Mbeya,Bachelor,Education,0,1,Medium,Basic,Part-time,Transport,Field,"Food preparation, Teaching support, Quality control, Customer service","Critical thinking, Adaptability, Problem solving",0
+11,18,Male,Songwe,Higher Diploma,Agriculture,0,0,Medium,Basic,Informal work,Education,Field,"Logistics coordination, Web development","Critical thinking, Teamwork",1
+12,26,Male,Morogoro,Secondary,Finance,1,8,High,Advanced,Informal work,Manufacturing,Field,"Social media management, Quality control","Adaptability, Critical thinking, Communication",0
+13,27,Male,Dodoma,Vocational/Technical,Hospitality,7,8,High,Basic,Informal work,ICT,Remote,"Accounting, Programming (Python), Food preparation, Quality control","Communication, Leadership",0
+14,21,Male,Singida,Higher Diploma,Finance,1,1,High,Advanced,Unemployed,ICT,Remote,"Digital marketing, Social media management, Inventory management, Accounting","Adaptability, Creativity, Customer focus",1
+15,18,Female,Shinyanga,Bachelor,Business,0,0,Medium,Intermediate,Self-employed,Transport,Field,"Project management, Microsoft Office, Database management, Digital marketing","Creativity, Time management",0
+16,25,Female,Pwani,Higher Diploma,Health,4,8,Low,Basic,Informal work,Construction,Remote,"Logistics coordination, Microsoft Office","Time management, Adaptability, Creativity",1
+17,23,Male,Rukwa,Higher Diploma,Logistics,3,5,Low,Basic,Unemployed,Agriculture,Customer-facing,"Web development, Logistics coordination","Leadership, Communication, Problem solving",0
+18,29,Male,Songwe,Bachelor,Engineering,8,9,High,Basic,Unemployed,Trade,Customer-facing,"Customer service, Sales","Leadership, Critical thinking, Teamwork",3
+19,28,Female,Mbeya,Bachelor,Finance,0,0,Medium,Basic,Informal work,Education,Customer-facing,"Sales, Network support","Resilience, Adaptability",1
+20,22,Female,Dar es Salaam,Bachelor,Agriculture,0,1,High,Basic,Unemployed,Manufacturing,Customer-facing,"Inventory management, Network support, Logistics coordination","Communication, Problem solving, Time management",0
+21,21,Male,Tanga,Diploma,Finance,0,3,Medium,Intermediate,Unemployed,Tourism,Remote,"Logistics coordination, Graphic design, Database management, Social media management","Creativity, Customer focus",2
+22,22,Female,Mwanza,Secondary,Health,3,5,Medium,Intermediate,Full-time,Education,Office,"Network support, Mechanical maintenance, English communication, Teaching support","Time management, Customer focus",1
+23,21,Male,Mwanza,Secondary,Education,0,1,High,Intermediate,Full-time,Manufacturing,Field,"English communication, Customer service, Graphic design, Microsoft Office","Communication, Adaptability",3
+24,24,Male,Mwanza,Bachelor,Engineering,3,3,Medium,Basic,Full-time,Trade,Remote,"Customer service, Mechanical maintenance, Inventory management","Communication, Leadership, Adaptability",3
+25,24,Female,Mwanza,Bachelor,Agriculture,3,5,Medium,Intermediate,Part-time,Transport,Office,"Quality control, Web development","Adaptability, Time management, Resilience",2
+26,19,Male,Zanzibar South,Diploma,Education,0,0,Medium,Advanced,Self-employed,Agriculture,Field,"Microsoft Office, Graphic design, Digital marketing","Critical thinking, Creativity, Resilience",1
+27,19,Female,Tanga,Bachelor,Engineering,0,0,Medium,Advanced,Unemployed,Tourism,Office,"Logistics coordination, Customer service, Quality control, Food preparation","Critical thinking, Resilience, Communication",1
+28,26,Female,Mara,Bachelor,Information Technology,2,2,Medium,Advanced,Full-time,Trade,Remote,"Social media management, Microsoft Office, Web development, Mechanical maintenance","Time management, Critical thinking",1
+29,23,Male,Kilimanjaro,Diploma,Engineering,3,6,High,Basic,Self-employed,Transport,Remote,"Customer service, Digital marketing, Programming (Python)","Adaptability, Customer focus",2
+30,20,Male,Dodoma,Secondary,Hospitality,0,0,Medium,Basic,Unemployed,ICT,Remote,"English communication, Sales","Time management, Critical thinking",1
+31,22,Female,Simiyu,Higher Diploma,Health,2,2,Medium,Basic,Informal work,Trade,Customer-facing,"Social media management, Database management, Digital marketing, Inventory management","Communication, Critical thinking, Resilience",0
+32,19,Male,Katavi,Diploma,Health,0,1,Medium,Advanced,Unemployed,Transport,Office,"Social media management, Food preparation, Project management","Adaptability, Problem solving, Time management",3
+33,19,Female,Rukwa,Vocational/Technical,Arts,1,1,High,Basic,Internship,Banking,Customer-facing,"Project management, Logistics coordination, Data analysis, Inventory management","Problem solving, Adaptability",2
+34,21,Female,Lindi,Diploma,Finance,3,3,Low,Basic,Unemployed,Education,Customer-facing,"Food preparation, Database management, Quality control, Inventory management","Critical thinking, Leadership, Creativity",1
+35,23,Male,Lindi,Higher Diploma,Logistics,0,0,High,Intermediate,Unemployed,ICT,Customer-facing,"Graphic design, English communication","Creativity, Teamwork",1
+36,24,Female,Geita,Bachelor,Agriculture,1,4,Medium,Intermediate,Self-employed,Trade,Customer-facing,"Quality control, Web development, Accounting","Communication, Time management",3
+37,22,Male,Shinyanga,No formal qualification,Agriculture,0,0,High,Intermediate,Unemployed,Education,Remote,"Social media management, Customer service, Inventory management, Network support","Resilience, Time management, Critical thinking",1
+38,24,Female,Tabora,Bachelor,Finance,1,3,High,Basic,Unemployed,Transport,Remote,"Data analysis, Social media management","Customer focus, Resilience, Time management",0
+39,22,Female,Mwanza,Diploma,Agriculture,2,2,Medium,Advanced,Unemployed,Manufacturing,Field,"Microsoft Office, Project management, Teaching support, Digital marketing","Teamwork, Time management",1
+40,20,Male,Katavi,Secondary,Finance,2,2,Medium,Basic,Full-time,Healthcare,Remote,"Programming (Python), Social media management, Accounting, Project management","Problem solving, Adaptability",3
+41,19,Female,Mtwara,Higher Diploma,Health,2,2,Medium,Basic,Informal work,Tourism,Office,"Quality control, Database management","Creativity, Customer focus, Problem solving",2
+42,21,Female,Simiyu,Vocational/Technical,Health,0,3,Medium,Basic,Unemployed,Tourism,Remote,"Logistics coordination, Web development, Social media management, Programming (Python)","Leadership, Creativity",2
+43,23,Male,Simiyu,Secondary,Engineering,1,2,Low,Intermediate,Self-employed,ICT,Field,"Mechanical maintenance, English communication, Logistics coordination, Data analysis","Problem solving, Adaptability, Customer focus",1
+44,21,Male,Songwe,Secondary,Agriculture,2,2,Medium,Intermediate,Part-time,Healthcare,Field,"Logistics coordination, Microsoft Office, Network support","Customer focus, Leadership",2
+45,22,Female,Songwe,Secondary,Arts,2,4,Low,Basic,Unemployed,ICT,Office,"Web development, Logistics coordination","Creativity, Customer focus, Critical thinking",1
+46,28,Female,Geita,Bachelor,Business,3,3,High,Intermediate,Self-employed,Healthcare,Office,"Microsoft Office, Quality control, Programming (Python)","Leadership, Creativity",2
+47,23,Male,Simiyu,Higher Diploma,Finance,5,6,Low,Basic,Internship,Construction,Customer-facing,"Network support, Digital marketing, Accounting, Teaching support","Resilience, Leadership, Communication",2
+48,23,Female,Mtwara,Bachelor,Engineering,0,5,Medium,Basic,Full-time,Manufacturing,Office,"English communication, Data analysis","Creativity, Communication",1
+49,23,Male,Dodoma,Diploma,Health,0,1,High,Intermediate,Part-time,Education,Office,"Microsoft Office, Customer service, Web development, Project management","Time management, Communication, Resilience",3
+50,26,Female,Arusha,Bachelor,Education,4,9,Medium,Intermediate,Unemployed,Construction,Field,"Quality control, Sales, Customer service","Customer focus, Creativity, Time management",3
+51,22,Female,Dar es Salaam,Diploma,Hospitality,0,5,Low,Intermediate,Informal work,Construction,Field,"Database management, Customer service, Graphic design, Project management","Problem solving, Communication",1
+52,27,Female,Tanga,Vocational/Technical,Information Technology,0,2,Low,Basic,Part-time,Education,Field,"Database management, Inventory management, Food preparation, Project management","Time management, Resilience",3
+53,24,Male,Njombe,Higher Diploma,Logistics,3,3,Low,Advanced,Unemployed,Tourism,Remote,"Logistics coordination, Sales, Web development","Time management, Critical thinking, Creativity",0
+54,20,Male,Pemba North,No formal qualification,Business,2,2,High,Basic,Informal work,Construction,Office,"Microsoft Office, Programming (Python)","Time management, Resilience",0
+55,25,Female,Geita,Diploma,Information Technology,6,8,Medium,Intermediate,Informal work,Manufacturing,Office,"Social media management, Project management, Programming (Python), Database management","Resilience, Customer focus",3
+56,25,Male,Ruvuma,Secondary,Arts,0,5,Medium,Basic,Self-employed,Healthcare,Remote,"Graphic design, Data analysis, Programming (Python), Accounting","Teamwork, Adaptability",0
+57,24,Male,Kagera,Diploma,Finance,0,0,Low,Basic,Self-employed,Construction,Field,"Data analysis, Microsoft Office","Creativity, Adaptability",1
+58,21,Female,Mtwara,Higher Diploma,Agriculture,0,3,Medium,Intermediate,Internship,Transport,Remote,"Inventory management, Customer service, Programming (Python)","Resilience, Communication, Leadership",3
+59,18,Male,Songwe,Higher Diploma,Business,0,0,Medium,Basic,Unemployed,ICT,Customer-facing,"Teaching support, Inventory management, English communication","Leadership, Critical thinking, Problem solving",2
+60,23,Female,Dodoma,Diploma,Agriculture,1,1,Medium,Basic,Unemployed,Healthcare,Office,"Sales, Accounting, Social media management","Time management, Creativity, Teamwork",2
+61,24,Male,Iringa,Higher Diploma,Health,1,5,Medium,Intermediate,Full-time,Banking,Remote,"Database management, Social media management, Programming (Python)","Customer focus, Time management, Creativity",0
+62,22,Female,Pemba South,Vocational/Technical,Information Technology,0,0,Low,Intermediate,Internship,ICT,Field,"Logistics coordination, Teaching support, Data analysis","Communication, Teamwork, Time management",2
+63,22,Male,Pemba North,Higher Diploma,Logistics,3,5,High,Intermediate,Informal work,Manufacturing,Field,"Social media management, Web development, Accounting","Creativity, Time management",2
+64,24,Female,Pwani,Higher Diploma,Finance,0,0,High,Intermediate,Part-time,Healthcare,Office,"Graphic design, Inventory management, Sales","Critical thinking, Problem solving, Time management",2
+65,26,Male,Pwani,No formal qualification,Business,0,0,Medium,Basic,Self-employed,Construction,Customer-facing,"Sales, Data analysis, Quality control","Teamwork, Customer focus, Critical thinking",1
+66,24,Female,Kagera,Bachelor,Hospitality,0,5,Medium,Intermediate,Part-time,Healthcare,Remote,"Food preparation, Social media management, Network support","Time management, Problem solving, Critical thinking",0
+67,19,Male,Pemba North,Vocational/Technical,Information Technology,0,1,High,Intermediate,Full-time,Tourism,Customer-facing,"Accounting, Customer service, Teaching support, Mechanical maintenance","Leadership, Problem solving",1
+68,24,Male,Njombe,Vocational/Technical,Health,0,2,High,Basic,Self-employed,Agriculture,Remote,"Quality control, Web development","Customer focus, Creativity, Leadership",0
+69,20,Male,Mara,No formal qualification,Hospitality,2,2,High,Intermediate,Self-employed,Banking,Customer-facing,"Digital marketing, Inventory management","Resilience, Leadership, Communication",1
+70,19,Female,Morogoro,Secondary,Education,0,0,Medium,Advanced,Informal work,Manufacturing,Field,"Customer service, Web development","Leadership, Customer focus, Teamwork",1
+71,24,Male,Manyara,Higher Diploma,Business,0,5,Medium,Intermediate,Part-time,Construction,Field,"Digital marketing, Food preparation, Microsoft Office","Time management, Critical thinking, Teamwork",1
+72,19,Female,Kigoma,Vocational/Technical,Arts,0,1,Medium,Advanced,Internship,Transport,Remote,"Social media management, Inventory management, Database management, Data analysis","Time management, Teamwork, Adaptability",1
+73,25,Male,Mwanza,Vocational/Technical,Hospitality,0,1,Medium,Advanced,Full-time,ICT,Office,"Mechanical maintenance, Teaching support","Resilience, Communication",1
+74,23,Male,Zanzibar Urban/West,Vocational/Technical,Hospitality,3,5,High,Basic,Informal work,Healthcare,Field,"Food preparation, Web development, Teaching support","Critical thinking, Leadership, Customer focus",3
+75,24,Male,Zanzibar South,No formal qualification,Health,4,5,Low,Intermediate,Part-time,Manufacturing,Customer-facing,"Mechanical maintenance, Project management","Leadership, Teamwork, Critical thinking",0
+76,25,Female,Pemba South,Bachelor,Health,0,0,High,Intermediate,Unemployed,Manufacturing,Customer-facing,"Data analysis, Accounting","Creativity, Teamwork",0
+77,22,Female,Dodoma,Diploma,Agriculture,0,3,Low,Basic,Unemployed,Agriculture,Office,"English communication, Customer service","Problem solving, Communication, Adaptability",1
+78,22,Male,Pwani,Bachelor,Information Technology,0,3,Medium,Intermediate,Internship,Construction,Office,"Teaching support, Database management","Customer focus, Critical thinking",1
+79,26,Female,Rukwa,Secondary,Information Technology,8,8,High,Advanced,Self-employed,Tourism,Customer-facing,"Data analysis, Database management, Digital marketing","Adaptability, Problem solving, Creativity",0
+80,24,Female,Pwani,Diploma,Education,2,2,Medium,Intermediate,Full-time,Agriculture,Remote,"Web development, Programming (Python), English communication, Graphic design","Adaptability, Communication",1
+81,26,Female,Tabora,Vocational/Technical,Health,2,3,Medium,Intermediate,Informal work,Banking,Customer-facing,"Database management, Social media management","Resilience, Critical thinking, Creativity",3
+82,23,Female,Kagera,Vocational/Technical,Health,4,6,High,Basic,Part-time,Tourism,Field,"English communication, Accounting, Sales, Digital marketing","Time management, Customer focus, Resilience",2
+83,23,Male,Kilimanjaro,Bachelor,Information Technology,2,2,Low,Basic,Informal work,Trade,Remote,"Network support, Database management, Inventory management, Mechanical maintenance","Teamwork, Resilience",0
+84,24,Female,Pwani,Vocational/Technical,Education,0,0,Medium,Advanced,Unemployed,Manufacturing,Field,"Database management, Network support, Accounting, Project management","Problem solving, Communication",2
+85,24,Female,Singida,Diploma,Information Technology,3,7,Low,Basic,Informal work,Healthcare,Field,"Microsoft Office, Digital marketing","Teamwork, Resilience, Problem solving",2
+86,22,Female,Mwanza,Diploma,Business,4,4,High,Basic,Self-employed,Agriculture,Customer-facing,"Customer service, Sales, Graphic design, Microsoft Office","Resilience, Communication",1
+87,27,Male,Katavi,Higher Diploma,Engineering,5,6,Medium,Intermediate,Internship,ICT,Remote,"Accounting, Digital marketing","Resilience, Leadership, Creativity",0
+88,27,Male,Ruvuma,Secondary,Hospitality,0,0,Medium,Basic,Self-employed,Education,Customer-facing,"English communication, Digital marketing, Project management, Graphic design","Teamwork, Time management, Problem solving",1
+89,25,Female,Manyara,Diploma,Health,4,5,High,Advanced,Self-employed,ICT,Customer-facing,"Graphic design, Food preparation, Social media management, Data analysis","Leadership, Time management, Customer focus",1
+90,26,Female,Kilimanjaro,Higher Diploma,Health,0,0,Medium,Intermediate,Unemployed,ICT,Field,"Accounting, Database management, Network support","Creativity, Leadership",1
+91,25,Female,Pwani,Higher Diploma,Health,0,0,Low,Advanced,Part-time,Agriculture,Customer-facing,"Accounting, Graphic design, Mechanical maintenance, Quality control","Resilience, Time management, Customer focus",0
+92,25,Male,Ruvuma,Bachelor,Business,2,3,High,Basic,Full-time,Healthcare,Customer-facing,"Data analysis, Sales, Social media management, Microsoft Office","Creativity, Critical thinking, Customer focus",0
+93,24,Male,Dar es Salaam,Higher Diploma,Engineering,4,7,Low,Intermediate,Full-time,Agriculture,Remote,"Database management, Accounting, Logistics coordination","Teamwork, Adaptability, Critical thinking",1
+94,26,Female,Njombe,Diploma,Logistics,7,7,High,Advanced,Self-employed,ICT,Customer-facing,"Network support, English communication","Leadership, Customer focus, Resilience",2
+95,20,Male,Kigoma,Bachelor,Logistics,2,2,Low,Intermediate,Full-time,Construction,Field,"Programming (Python), Food preparation, Quality control, Mechanical maintenance","Teamwork, Adaptability, Communication",1
+96,26,Male,Mwanza,Secondary,Business,1,6,Medium,Basic,Part-time,ICT,Office,"Programming (Python), Microsoft Office, Inventory management, Graphic design","Resilience, Leadership, Critical thinking",1
+97,22,Female,Rukwa,Diploma,Finance,5,5,Medium,Intermediate,Full-time,Education,Field,"Logistics coordination, English communication, Customer service","Time management, Adaptability, Resilience",1
+98,25,Female,Pemba South,Vocational/Technical,Business,6,8,Low,Intermediate,Unemployed,Agriculture,Customer-facing,"English communication, Digital marketing","Resilience, Time management, Customer focus",1
+99,22,Male,Mtwara,No formal qualification,Health,1,4,High,Intermediate,Full-time,Education,Remote,"Social media management, Accounting","Problem solving, Teamwork, Communication",3
+100,22,Female,Pemba North,Secondary,Logistics,1,1,Medium,Intermediate,Informal work,Manufacturing,Field,"Programming (Python), Mechanical maintenance, Social media management, Food preparation","Critical thinking, Resilience",1
+101,27,Male,Tanga,Higher Diploma,Information Technology,2,5,Medium,Intermediate,Full-time,Agriculture,Office,"Graphic design, Sales, Accounting","Resilience, Time management",2
+102,23,Male,Arusha,Diploma,Finance,1,4,High,Advanced,Informal work,Tourism,Customer-facing,"Network support, Sales","Teamwork, Resilience",1
+103,21,Female,Mbeya,Vocational/Technical,Hospitality,1,2,Medium,Intermediate,Unemployed,Banking,Field,"Sales, Web development","Teamwork, Critical thinking, Time management",2
+104,25,Male,Dar es Salaam,Vocational/Technical,Business,1,2,High,Intermediate,Full-time,Tourism,Office,"Graphic design, Customer service, Digital marketing, Inventory management","Leadership, Creativity, Problem solving",3
+105,25,Female,Ruvuma,Secondary,Logistics,1,2,Low,Intermediate,Full-time,ICT,Office,"Inventory management, Web development","Resilience, Teamwork",1
+106,22,Male,Pemba South,Secondary,Health,2,5,Medium,Intermediate,Internship,Education,Remote,"Social media management, Database management","Leadership, Communication",3
+107,26,Male,Zanzibar South,Diploma,Logistics,2,6,Low,Intermediate,Informal work,Tourism,Office,"Logistics coordination, Microsoft Office","Problem solving, Teamwork, Critical thinking",1
+108,24,Female,Shinyanga,Diploma,Logistics,3,4,Medium,Intermediate,Full-time,Education,Field,"Database management, Microsoft Office, Project management","Problem solving, Communication",2
+109,23,Male,Singida,No formal qualification,Business,0,3,High,Basic,Part-time,Transport,Field,"Microsoft Office, Inventory management","Adaptability, Creativity, Leadership",1
+110,24,Male,Katavi,Vocational/Technical,Business,2,4,High,Advanced,Informal work,Agriculture,Office,"Quality control, Programming (Python), Database management, Network support","Critical thinking, Customer focus, Teamwork",1
+111,18,Male,Dar es Salaam,Vocational/Technical,Finance,0,0,Low,Intermediate,Informal work,Transport,Field,"Customer service, Project management, Graphic design","Problem solving, Resilience, Creativity",0
+112,24,Male,Tanga,Vocational/Technical,Health,0,0,High,Intermediate,Internship,Transport,Field,"Graphic design, Accounting, English communication","Adaptability, Customer focus",3
+113,27,Female,Pemba South,Diploma,Arts,1,6,Medium,Intermediate,Part-time,Transport,Customer-facing,"Project management, Database management, Inventory management","Resilience, Problem solving, Customer focus",2
+114,21,Female,Lindi,Vocational/Technical,Health,0,3,Medium,Basic,Self-employed,Construction,Office,"Microsoft Office, Graphic design, Accounting","Critical thinking, Adaptability",1
+115,27,Male,Dodoma,Secondary,Engineering,2,2,Low,Basic,Internship,Healthcare,Field,"Programming (Python), Inventory management, Teaching support, Digital marketing","Communication, Critical thinking",0
+116,22,Female,Arusha,Higher Diploma,Business,3,4,Medium,Intermediate,Full-time,ICT,Office,"Quality control, Data analysis, Food preparation, Social media management","Communication, Leadership",2
+117,25,Male,Manyara,Diploma,Agriculture,0,2,Low,Intermediate,Unemployed,ICT,Customer-facing,"Project management, Network support, Digital marketing","Critical thinking, Resilience, Adaptability",3
+118,19,Female,Lindi,No formal qualification,Logistics,0,2,High,Intermediate,Full-time,Trade,Remote,"Mechanical maintenance, Digital marketing, Quality control, Social media management","Customer focus, Problem solving, Communication",1
+119,27,Female,Morogoro,Vocational/Technical,Engineering,0,8,High,Advanced,Self-employed,Education,Field,"Network support, Digital marketing, English communication, Mechanical maintenance","Customer focus, Critical thinking",2
+120,21,Female,Dodoma,Diploma,Hospitality,0,0,High,Intermediate,Informal work,Banking,Office,"Data analysis, Project management, Web development","Adaptability, Creativity, Critical thinking",1
+121,22,Male,Kagera,Higher Diploma,Education,0,2,Medium,Intermediate,Self-employed,Tourism,Customer-facing,"Sales, Digital marketing, Data analysis","Resilience, Creativity, Time management",0
+122,25,Male,Singida,Secondary,Education,8,8,Medium,Basic,Unemployed,Manufacturing,Customer-facing,"Data analysis, English communication, Social media management","Problem solving, Leadership, Adaptability",1
+123,24,Female,Mara,Vocational/Technical,Hospitality,0,2,High,Basic,Unemployed,Manufacturing,Customer-facing,"Customer service, Quality control, Graphic design","Problem solving, Teamwork, Time management",0
+124,25,Female,Ruvuma,Vocational/Technical,Arts,3,5,Medium,Advanced,Informal work,ICT,Field,"Accounting, Graphic design, Quality control","Teamwork, Critical thinking, Creativity",1
+125,22,Female,Kilimanjaro,Diploma,Finance,0,2,Low,Basic,Informal work,Agriculture,Remote,"Web development, Graphic design, Teaching support, English communication","Critical thinking, Resilience",0
+126,25,Female,Kagera,No formal qualification,Hospitality,6,6,Medium,Intermediate,Full-time,ICT,Office,"Inventory management, Social media management, Logistics coordination, Programming (Python)","Leadership, Problem solving, Customer focus",2
+127,29,Male,Mbeya,Diploma,Logistics,6,6,Medium,Intermediate,Self-employed,Manufacturing,Customer-facing,"Inventory management, Teaching support","Resilience, Creativity",1
+128,25,Female,Mara,Secondary,Agriculture,3,4,Low,Basic,Informal work,Agriculture,Customer-facing,"Accounting, Web development, Graphic design","Creativity, Resilience, Problem solving",1
+129,21,Female,Morogoro,Higher Diploma,Logistics,2,2,High,Advanced,Informal work,Education,Field,"Mechanical maintenance, Accounting, Logistics coordination, Social media management","Adaptability, Critical thinking, Teamwork",1
+130,28,Female,Pwani,Diploma,Information Technology,3,3,Medium,Intermediate,Internship,Education,Customer-facing,"Digital marketing, Food preparation, Sales, Mechanical maintenance","Creativity, Adaptability, Resilience",0
+131,20,Female,Mtwara,No formal qualification,Hospitality,1,2,Low,Intermediate,Internship,Construction,Remote,"Microsoft Office, Accounting, Sales, Customer service","Problem solving, Teamwork, Creativity",2
+132,21,Female,Iringa,Higher Diploma,Arts,3,3,High,Intermediate,Full-time,Agriculture,Field,"English communication, Microsoft Office, Mechanical maintenance","Resilience, Communication, Creativity",3
+133,26,Female,Kagera,Secondary,Health,6,7,Medium,Intermediate,Informal work,Healthcare,Field,"Food preparation, Data analysis","Time management, Communication",1
+134,18,Male,Mwanza,No formal qualification,Finance,0,1,Medium,Basic,Full-time,Banking,Remote,"Web development, Logistics coordination, Graphic design, Social media management","Adaptability, Time management",2
+135,20,Female,Shinyanga,Secondary,Business,0,0,High,Intermediate,Full-time,ICT,Office,"Teaching support, Microsoft Office","Adaptability, Communication",1
+136,27,Male,Katavi,Higher Diploma,Education,2,4,Medium,Advanced,Part-time,Manufacturing,Field,"Programming (Python), Project management, Microsoft Office","Adaptability, Teamwork",2
+137,19,Female,Simiyu,Vocational/Technical,Information Technology,1,1,Medium,Intermediate,Informal work,Manufacturing,Office,"Project management, Database management, Web development, Quality control","Customer focus, Communication, Problem solving",2
+138,23,Male,Dar es Salaam,Bachelor,Agriculture,4,6,Medium,Advanced,Informal work,Healthcare,Customer-facing,"English communication, Accounting, Logistics coordination","Customer focus, Resilience",2
+139,19,Male,Dar es Salaam,Higher Diploma,Education,0,0,Medium,Advanced,Part-time,Agriculture,Customer-facing,"Project management, Digital marketing","Time management, Problem solving, Creativity",2
+140,19,Female,Arusha,No formal qualification,Logistics,2,2,Low,Intermediate,Self-employed,Manufacturing,Remote,"Quality control, Digital marketing","Customer focus, Adaptability",1
+141,21,Male,Shinyanga,Bachelor,Engineering,1,3,Medium,Basic,Self-employed,Manufacturing,Remote,"Database management, English communication, Microsoft Office","Teamwork, Customer focus, Problem solving",1
+142,18,Male,Lindi,Secondary,Agriculture,0,0,Low,Intermediate,Part-time,Education,Remote,"Microsoft Office, Sales","Creativity, Critical thinking, Customer focus",2
+143,23,Male,Pwani,Diploma,Logistics,2,2,High,Advanced,Informal work,Education,Field,"Network support, English communication, Programming (Python), Customer service","Critical thinking, Problem solving, Adaptability",1
+144,27,Male,Zanzibar Urban/West,Bachelor,Education,1,5,Medium,Advanced,Part-time,Transport,Field,"Digital marketing, Data analysis, Teaching support","Time management, Adaptability",0
+145,19,Male,Manyara,Secondary,Education,1,1,Medium,Basic,Full-time,ICT,Field,"Digital marketing, English communication, Teaching support","Teamwork, Leadership",1
+146,23,Female,Pwani,Diploma,Business,1,6,High,Basic,Part-time,Healthcare,Remote,"Mechanical maintenance, Sales, Data analysis","Communication, Teamwork",1
+147,24,Female,Dar es Salaam,Higher Diploma,Health,2,2,Low,Basic,Informal work,Trade,Customer-facing,"Project management, Inventory management, Digital marketing","Customer focus, Problem solving, Resilience",1
+148,19,Male,Kagera,Bachelor,Logistics,0,0,High,Intermediate,Informal work,Manufacturing,Field,"Inventory management, Data analysis, Programming (Python), Food preparation","Communication, Resilience",1
+149,18,Female,Dodoma,Diploma,Health,0,1,Medium,Intermediate,Internship,Construction,Remote,"Database management, Sales, Inventory management, Programming (Python)","Adaptability, Leadership",3
+150,21,Female,Arusha,Bachelor,Arts,1,2,High,Intermediate,Unemployed,Construction,Customer-facing,"Teaching support, Customer service, Web development, Database management","Adaptability, Leadership, Customer focus",0
+151,19,Male,Dar es Salaam,Diploma,Arts,0,0,High,Intermediate,Informal work,Construction,Remote,"Inventory management, Customer service","Resilience, Communication, Teamwork",2
+152,22,Female,Pemba South,Bachelor,Education,3,4,Medium,Intermediate,Informal work,Manufacturing,Remote,"Microsoft Office, Network support, Digital marketing, Programming (Python)","Teamwork, Adaptability, Time management",1
+153,22,Female,Katavi,Vocational/Technical,Arts,0,2,High,Basic,Internship,ICT,Remote,"Sales, Mechanical maintenance","Resilience, Creativity, Critical thinking",0
+154,19,Male,Singida,Secondary,Finance,1,1,Low,Basic,Internship,Construction,Remote,"Accounting, Microsoft Office","Adaptability, Creativity",1
+155,22,Female,Singida,Higher Diploma,Agriculture,3,3,Medium,Intermediate,Self-employed,Manufacturing,Field,"Data analysis, Programming (Python)","Teamwork, Adaptability",2
+156,29,Female,Zanzibar South,No formal qualification,Education,0,4,High,Basic,Informal work,Healthcare,Field,"Accounting, Sales","Resilience, Communication",0
+157,20,Female,Iringa,Secondary,Education,0,2,Low,Basic,Part-time,Agriculture,Remote,"Teaching support, Customer service, English communication, Quality control","Leadership, Resilience, Communication",0
+158,23,Male,Arusha,Higher Diploma,Information Technology,4,6,High,Advanced,Full-time,Trade,Office,"Database management, Quality control, Logistics coordination, Food preparation","Customer focus, Leadership, Creativity",1
+159,22,Male,Katavi,Diploma,Arts,0,2,Low,Intermediate,Unemployed,ICT,Field,"Sales, Customer service","Time management, Leadership",2
+160,23,Female,Rukwa,No formal qualification,Finance,3,6,Medium,Advanced,Informal work,Agriculture,Field,"Accounting, Database management, Data analysis, Food preparation","Customer focus, Adaptability",2
+161,23,Male,Katavi,Higher Diploma,Agriculture,1,4,High,Intermediate,Unemployed,ICT,Field,"Accounting, Mechanical maintenance","Communication, Customer focus, Teamwork",1
+162,24,Female,Kilimanjaro,Bachelor,Hospitality,0,5,Medium,Advanced,Part-time,Manufacturing,Customer-facing,"Accounting, Microsoft Office, Mechanical maintenance","Resilience, Creativity, Teamwork",2
+163,24,Male,Kilimanjaro,Diploma,Information Technology,1,4,High,Basic,Internship,ICT,Office,"Programming (Python), Mechanical maintenance, Accounting, Customer service","Resilience, Teamwork",1
+164,20,Male,Tanga,Bachelor,Logistics,0,1,Low,Intermediate,Internship,Banking,Office,"Project management, Graphic design","Problem solving, Creativity",1
+165,26,Male,Dodoma,Secondary,Information Technology,1,2,Medium,Intermediate,Full-time,Manufacturing,Office,"Customer service, Mechanical maintenance, Web development, Digital marketing","Time management, Communication",1
+166,24,Male,Mara,Higher Diploma,Arts,1,6,Medium,Intermediate,Informal work,Manufacturing,Customer-facing,"Teaching support, Quality control, Data analysis, Social media management","Customer focus, Critical thinking",0
+167,26,Female,Kigoma,Secondary,Agriculture,4,8,Medium,Basic,Self-employed,Tourism,Office,"Programming (Python), Database management","Critical thinking, Problem solving",1
+168,23,Female,Dar es Salaam,Higher Diploma,Finance,1,1,Low,Intermediate,Self-employed,Tourism,Office,"Project management, Digital marketing, Logistics coordination","Teamwork, Creativity, Critical thinking",1
+169,21,Male,Morogoro,Bachelor,Logistics,0,4,High,Intermediate,Self-employed,Banking,Office,"Customer service, Logistics coordination, Programming (Python), Network support","Leadership, Resilience, Adaptability",1
+170,24,Male,Zanzibar South,Secondary,Hospitality,0,2,Low,Intermediate,Informal work,Agriculture,Field,"Microsoft Office, Programming (Python)","Problem solving, Critical thinking, Adaptability",3
+171,23,Male,Pemba South,Bachelor,Agriculture,0,0,Medium,Intermediate,Unemployed,Construction,Office,"Teaching support, Food preparation","Problem solving, Critical thinking, Teamwork",0
+172,29,Female,Dar es Salaam,No formal qualification,Education,1,1,Low,Advanced,Informal work,Construction,Office,"Quality control, Food preparation, Teaching support, Programming (Python)","Time management, Critical thinking",0
+173,25,Female,Lindi,Vocational/Technical,Education,4,7,Low,Basic,Internship,Construction,Customer-facing,"Quality control, Sales, Customer service","Time management, Resilience",2
+174,21,Male,Kagera,No formal qualification,Arts,0,0,Medium,Advanced,Part-time,Healthcare,Customer-facing,"Inventory management, Mechanical maintenance","Time management, Leadership",1
+175,24,Female,Ruvuma,Higher Diploma,Business,0,0,High,Intermediate,Unemployed,Banking,Office,"Network support, Sales, Data analysis, Customer service","Resilience, Customer focus, Teamwork",3
+176,22,Female,Pwani,Vocational/Technical,Logistics,1,1,Medium,Intermediate,Unemployed,Tourism,Remote,"Food preparation, Graphic design","Adaptability, Customer focus",1
+177,28,Female,Ruvuma,Diploma,Agriculture,2,7,Medium,Intermediate,Self-employed,Construction,Customer-facing,"Project management, Social media management, Network support, Database management","Time management, Adaptability, Resilience",1
+178,18,Female,Singida,Higher Diploma,Information Technology,1,1,High,Basic,Self-employed,Construction,Customer-facing,"Project management, English communication, Graphic design","Leadership, Adaptability",3
+179,21,Male,Manyara,No formal qualification,Agriculture,1,2,Low,Intermediate,Internship,ICT,Field,"Customer service, Logistics coordination, Quality control","Leadership, Time management, Teamwork",2
+180,19,Female,Mwanza,Secondary,Agriculture,1,2,Medium,Intermediate,Informal work,Banking,Remote,"Database management, Customer service","Critical thinking, Creativity, Leadership",1
+181,18,Female,Iringa,No formal qualification,Information Technology,0,0,Low,Intermediate,Informal work,Tourism,Customer-facing,"Programming (Python), Microsoft Office, Food preparation","Creativity, Critical thinking",3
+182,24,Female,Simiyu,Bachelor,Education,0,2,Medium,Intermediate,Self-employed,Trade,Remote,"Project management, Graphic design, Mechanical maintenance","Resilience, Problem solving",0
+183,18,Female,Pwani,Secondary,Hospitality,0,0,Medium,Advanced,Informal work,Transport,Field,"Data analysis, Customer service","Creativity, Time management",0
+184,27,Male,Tanga,Vocational/Technical,Engineering,0,1,High,Basic,Internship,ICT,Customer-facing,"Microsoft Office, Accounting, Quality control","Adaptability, Teamwork, Critical thinking",0
+185,23,Female,Njombe,Secondary,Engineering,0,0,Medium,Intermediate,Unemployed,Construction,Remote,"Programming (Python), Sales, Data analysis, Teaching support","Critical thinking, Resilience",1
+186,24,Male,Katavi,Vocational/Technical,Finance,0,0,Medium,Basic,Full-time,ICT,Field,"Sales, Inventory management, Teaching support","Problem solving, Customer focus, Resilience",1
+187,27,Male,Katavi,Vocational/Technical,Business,2,6,High,Intermediate,Informal work,Healthcare,Customer-facing,"Data analysis, Teaching support","Problem solving, Resilience",0
+188,18,Female,Mtwara,Higher Diploma,Agriculture,0,0,Medium,Intermediate,Informal work,Construction,Office,"Sales, Mechanical maintenance","Time management, Creativity",2
+189,27,Female,Zanzibar South,Higher Diploma,Education,2,2,Medium,Basic,Informal work,ICT,Customer-facing,"Digital marketing, Database management, Accounting, Mechanical maintenance","Critical thinking, Customer focus",3
+190,26,Female,Shinyanga,Diploma,Logistics,6,7,Medium,Intermediate,Self-employed,Trade,Field,"Social media management, Food preparation","Customer focus, Resilience, Teamwork",2
+191,27,Male,Mtwara,Diploma,Arts,1,2,Low,Basic,Part-time,Trade,Remote,"Accounting, Data analysis, Inventory management","Creativity, Leadership",1
+192,19,Female,Kilimanjaro,Secondary,Information Technology,2,2,Medium,Basic,Informal work,ICT,Remote,"Mechanical maintenance, Inventory management","Resilience, Teamwork, Problem solving",2
+193,24,Female,Dar es Salaam,Vocational/Technical,Business,3,6,Low,Basic,Part-time,ICT,Office,"Quality control, Web development","Problem solving, Resilience, Communication",0
+194,23,Female,Tabora,Secondary,Information Technology,0,6,Low,Advanced,Full-time,Transport,Field,"Web development, Accounting, Database management, Programming (Python)","Resilience, Creativity",1
+195,23,Male,Kigoma,Diploma,Agriculture,0,1,Medium,Advanced,Informal work,Construction,Customer-facing,"Sales, Programming (Python), Mechanical maintenance, Quality control","Critical thinking, Problem solving",1
+196,22,Male,Pwani,Bachelor,Logistics,1,3,Medium,Intermediate,Internship,Manufacturing,Office,"Food preparation, Sales","Resilience, Leadership, Teamwork",3
+197,20,Male,Mtwara,No formal qualification,Hospitality,0,1,Medium,Basic,Part-time,ICT,Customer-facing,"Network support, Social media management, Customer service, Project management","Creativity, Time management, Resilience",2
+198,22,Female,Rukwa,Diploma,Health,4,5,High,Intermediate,Informal work,Transport,Field,"Graphic design, English communication","Teamwork, Customer focus, Creativity",2
+199,18,Female,Kigoma,Diploma,Business,1,1,Low,Intermediate,Self-employed,Agriculture,Remote,"Programming (Python), Graphic design, Project management, Mechanical maintenance","Time management, Teamwork, Communication",2
+200,20,Female,Rukwa,Higher Diploma,Logistics,0,3,Medium,Intermediate,Full-time,Education,Office,"Inventory management, English communication","Critical thinking, Customer focus",1
+201,25,Male,Morogoro,No formal qualification,Logistics,3,7,Low,Intermediate,Full-time,ICT,Field,"Graphic design, English communication, Web development, Mechanical maintenance","Teamwork, Customer focus",2
+202,23,Female,Dodoma,Secondary,Information Technology,2,4,High,Intermediate,Unemployed,Banking,Office,"Microsoft Office, Programming (Python), Teaching support, Accounting","Customer focus, Time management",1
+203,18,Female,Kilimanjaro,Secondary,Hospitality,0,0,Medium,Intermediate,Unemployed,Education,Customer-facing,"Database management, English communication, Graphic design","Leadership, Communication, Problem solving",2
+204,22,Female,Pemba North,Bachelor,Arts,0,1,Medium,Basic,Informal work,Manufacturing,Office,"Logistics coordination, English communication, Data analysis","Leadership, Customer focus, Resilience",1
+205,23,Female,Dar es Salaam,Higher Diploma,Agriculture,4,6,Medium,Intermediate,Unemployed,Education,Office,"Graphic design, Logistics coordination","Problem solving, Teamwork, Communication",1
+206,24,Male,Katavi,Higher Diploma,Hospitality,1,2,Medium,Intermediate,Unemployed,Construction,Office,"Web development, Network support, Social media management","Communication, Critical thinking, Problem solving",1
+207,28,Female,Zanzibar Urban/West,Vocational/Technical,Business,1,8,High,Intermediate,Full-time,Construction,Office,"Network support, Data analysis, Quality control","Leadership, Adaptability",0
+208,25,Male,Manyara,Vocational/Technical,Arts,1,2,Medium,Advanced,Internship,Banking,Remote,"Logistics coordination, Microsoft Office, Sales, Programming (Python)","Customer focus, Critical thinking",1
+209,23,Female,Geita,Vocational/Technical,Arts,1,3,High,Basic,Informal work,Education,Remote,"Food preparation, Programming (Python)","Leadership, Problem solving, Time management",2
+210,18,Female,Zanzibar Urban/West,Diploma,Information Technology,1,1,Medium,Intermediate,Unemployed,Construction,Remote,"Accounting, Quality control","Creativity, Time management, Teamwork",1
+211,25,Male,Zanzibar South,Vocational/Technical,Finance,3,3,High,Intermediate,Full-time,Banking,Office,"Web development, Database management, English communication","Leadership, Problem solving, Teamwork",2
+212,23,Female,Simiyu,Bachelor,Engineering,0,1,High,Advanced,Self-employed,Manufacturing,Remote,"Data analysis, Food preparation, Network support, Graphic design","Leadership, Time management",1
+213,22,Female,Mbeya,Diploma,Logistics,2,5,High,Intermediate,Self-employed,Banking,Remote,"Customer service, Mechanical maintenance, Inventory management, Microsoft Office","Teamwork, Customer focus, Leadership",2
+214,24,Female,Zanzibar South,Vocational/Technical,Finance,3,7,High,Intermediate,Self-employed,Education,Customer-facing,"Quality control, Web development, Programming (Python)","Creativity, Problem solving",2
+215,20,Male,Pwani,Vocational/Technical,Engineering,2,3,Medium,Advanced,Self-employed,Construction,Office,"Inventory management, Network support","Creativity, Resilience, Leadership",3
+216,21,Male,Simiyu,Secondary,Education,0,1,Medium,Basic,Self-employed,Agriculture,Customer-facing,"Sales, Customer service, Social media management, Accounting","Resilience, Customer focus",1
+217,24,Female,Songwe,No formal qualification,Health,0,2,Medium,Basic,Full-time,Trade,Field,"Mechanical maintenance, Inventory management, Network support","Time management, Problem solving",1
+218,23,Male,Arusha,Higher Diploma,Arts,3,6,Medium,Intermediate,Informal work,Agriculture,Customer-facing,"Accounting, Web development","Adaptability, Critical thinking",1
+219,18,Male,Tabora,Diploma,Business,0,0,High,Advanced,Full-time,Transport,Remote,"Quality control, Microsoft Office","Critical thinking, Leadership",1
+220,22,Female,Lindi,Secondary,Arts,3,3,Medium,Advanced,Informal work,ICT,Remote,"Microsoft Office, Project management, Quality control","Problem solving, Time management",1
+221,28,Female,Singida,Higher Diploma,Education,1,8,Medium,Intermediate,Unemployed,Banking,Office,"Sales, Microsoft Office, Social media management","Time management, Leadership, Critical thinking",1
+222,23,Female,Zanzibar Urban/West,Diploma,Business,3,3,High,Intermediate,Part-time,Construction,Customer-facing,"Network support, Microsoft Office, Sales, Customer service","Teamwork, Problem solving, Adaptability",1
+223,20,Female,Pemba South,Higher Diploma,Education,0,3,Low,Advanced,Part-time,ICT,Office,"Digital marketing, Project management","Creativity, Problem solving",2
+224,20,Male,Mbeya,No formal qualification,Arts,2,2,Low,Basic,Internship,Agriculture,Office,"Data analysis, Graphic design, Inventory management","Adaptability, Communication, Customer focus",2
+225,19,Male,Mwanza,Higher Diploma,Education,1,1,Medium,Intermediate,Full-time,Transport,Remote,"Digital marketing, Teaching support, Logistics coordination, English communication","Creativity, Time management, Adaptability",2
+226,18,Female,Katavi,No formal qualification,Health,0,1,Medium,Basic,Self-employed,Construction,Customer-facing,"Inventory management, Project management","Resilience, Critical thinking, Customer focus",2
+227,21,Female,Singida,Bachelor,Information Technology,0,3,High,Intermediate,Internship,Education,Field,"Social media management, Database management, Inventory management","Time management, Adaptability",1
+228,18,Female,Iringa,Higher Diploma,Agriculture,0,0,Medium,Basic,Full-time,Agriculture,Field,"Graphic design, Customer service, Food preparation","Adaptability, Customer focus, Leadership",2
+229,24,Male,Dar es Salaam,Bachelor,Business,0,7,Low,Intermediate,Self-employed,Healthcare,Customer-facing,"Accounting, Quality control, Project management, Food preparation","Leadership, Time management",1
+230,24,Male,Mara,Diploma,Information Technology,0,7,Medium,Intermediate,Full-time,Agriculture,Office,"Inventory management, Web development","Communication, Customer focus, Adaptability",1
+231,21,Male,Ruvuma,Secondary,Arts,1,1,Medium,Intermediate,Unemployed,Healthcare,Office,"Social media management, Database management","Critical thinking, Time management, Resilience",0
+232,22,Female,Lindi,Diploma,Business,2,5,Low,Intermediate,Informal work,Education,Field,"Microsoft Office, Quality control, Data analysis, Mechanical maintenance","Resilience, Teamwork, Creativity",2
+233,24,Male,Ruvuma,Higher Diploma,Hospitality,0,2,High,Basic,Informal work,Manufacturing,Office,"Accounting, Project management, Database management, Logistics coordination","Creativity, Communication, Critical thinking",0
+234,22,Female,Songwe,No formal qualification,Agriculture,1,4,Low,Basic,Unemployed,Transport,Office,"Web development, Digital marketing, Network support, English communication","Teamwork, Customer focus, Creativity",1
+235,25,Male,Kigoma,Vocational/Technical,Engineering,2,4,Medium,Intermediate,Informal work,Banking,Office,"Mechanical maintenance, Teaching support, Data analysis","Adaptability, Time management",3
+236,24,Female,Mwanza,Secondary,Engineering,0,1,Low,Intermediate,Self-employed,Tourism,Remote,"Project management, Microsoft Office","Critical thinking, Time management",1
+237,27,Female,Rukwa,Higher Diploma,Arts,2,5,Low,Intermediate,Informal work,Construction,Office,"Logistics coordination, Mechanical maintenance","Customer focus, Critical thinking, Time management",3
+238,27,Female,Zanzibar Urban/West,Diploma,Finance,4,7,Medium,Basic,Unemployed,Trade,Field,"English communication, Quality control, Logistics coordination","Resilience, Customer focus",1
+239,19,Female,Mtwara,Secondary,Arts,0,0,Low,Intermediate,Unemployed,Tourism,Office,"Project management, Digital marketing","Adaptability, Leadership, Time management",1
+240,20,Male,Manyara,Bachelor,Finance,0,1,High,Intermediate,Full-time,Construction,Office,"Accounting, Data analysis","Communication, Leadership",0
+241,25,Male,Rukwa,Higher Diploma,Health,0,1,High,Basic,Part-time,Healthcare,Customer-facing,"Programming (Python), Accounting, Digital marketing","Communication, Time management",2
+242,25,Female,Pemba South,Higher Diploma,Information Technology,3,4,Low,Basic,Internship,Education,Office,"Customer service, Programming (Python), Graphic design","Problem solving, Leadership, Adaptability",1
+243,25,Female,Zanzibar Urban/West,Diploma,Arts,8,8,High,Intermediate,Unemployed,Banking,Remote,"Graphic design, Sales, Customer service, Social media management","Communication, Teamwork, Time management",1
+244,27,Male,Iringa,Higher Diploma,Health,0,0,Medium,Basic,Internship,Education,Field,"Digital marketing, Accounting, Programming (Python)","Creativity, Teamwork",2
+245,24,Female,Mara,Diploma,Health,3,5,Medium,Basic,Unemployed,Agriculture,Customer-facing,"Quality control, Web development","Leadership, Resilience, Adaptability",1
+246,29,Male,Mara,Vocational/Technical,Agriculture,8,9,High,Intermediate,Part-time,Construction,Customer-facing,"Data analysis, Inventory management, Network support","Communication, Creativity",2
+247,21,Male,Kigoma,Secondary,Agriculture,3,4,Low,Basic,Unemployed,Tourism,Customer-facing,"Sales, Inventory management","Communication, Teamwork",0
+248,20,Male,Mwanza,Secondary,Logistics,0,0,Medium,Advanced,Full-time,Transport,Customer-facing,"Database management, Customer service","Communication, Adaptability",2
+249,20,Male,Kigoma,Bachelor,Business,2,2,High,Intermediate,Full-time,Manufacturing,Customer-facing,"Graphic design, Inventory management","Problem solving, Adaptability",1
+250,27,Male,Rukwa,No formal qualification,Hospitality,2,9,Medium,Intermediate,Internship,ICT,Customer-facing,"Web development, Social media management, Sales, Mechanical maintenance","Leadership, Critical thinking",1
+251,21,Male,Manyara,Vocational/Technical,Hospitality,1,2,Medium,Intermediate,Informal work,Banking,Field,"Logistics coordination, Graphic design, Network support, Project management","Resilience, Customer focus, Critical thinking",0
+252,24,Male,Lindi,Higher Diploma,Information Technology,1,2,High,Advanced,Unemployed,Banking,Remote,"Project management, Logistics coordination, Inventory management, Microsoft Office","Communication, Resilience",1
+253,25,Female,Mbeya,Vocational/Technical,Education,0,4,Medium,Intermediate,Unemployed,Manufacturing,Customer-facing,"Mechanical maintenance, Quality control, Sales","Communication, Critical thinking, Problem solving",2
+254,22,Male,Dar es Salaam,Secondary,Education,0,0,Medium,Advanced,Informal work,Tourism,Remote,"Inventory management, Programming (Python), Accounting","Creativity, Leadership",2
+255,28,Male,Katavi,No formal qualification,Engineering,0,1,Medium,Intermediate,Self-employed,Banking,Remote,"Food preparation, Programming (Python), Logistics coordination","Time management, Problem solving, Critical thinking",1
+256,22,Female,Mbeya,Secondary,Information Technology,1,1,Medium,Intermediate,Full-time,Transport,Field,"Digital marketing, Project management","Creativity, Problem solving, Leadership",2
+257,24,Male,Shinyanga,No formal qualification,Engineering,1,4,Low,Intermediate,Informal work,Healthcare,Field,"Programming (Python), Customer service, Graphic design","Teamwork, Problem solving, Leadership",2
+258,25,Female,Shinyanga,Bachelor,Engineering,0,4,Medium,Advanced,Unemployed,Healthcare,Remote,"Graphic design, Logistics coordination, Teaching support","Leadership, Customer focus",2
+259,22,Female,Songwe,Vocational/Technical,Agriculture,4,5,High,Basic,Unemployed,ICT,Customer-facing,"Web development, Data analysis","Critical thinking, Time management",2
+260,19,Male,Dar es Salaam,Higher Diploma,Arts,1,2,High,Intermediate,Informal work,Manufacturing,Customer-facing,"Teaching support, Logistics coordination, Digital marketing","Adaptability, Leadership",3
+261,25,Female,Pemba North,Secondary,Education,0,2,Medium,Intermediate,Full-time,Education,Customer-facing,"Project management, Network support","Leadership, Time management",1
+262,22,Male,Simiyu,No formal qualification,Engineering,0,0,Medium,Intermediate,Informal work,Education,Office,"Food preparation, Microsoft Office","Time management, Creativity, Resilience",1
+263,19,Male,Tanga,Vocational/Technical,Logistics,0,0,Medium,Advanced,Informal work,Tourism,Field,"Food preparation, Mechanical maintenance, Accounting, Digital marketing","Teamwork, Creativity",2
+264,21,Male,Shinyanga,Diploma,Arts,3,3,Medium,Intermediate,Informal work,Construction,Field,"Sales, Microsoft Office","Communication, Time management",2
+265,23,Male,Pemba South,Higher Diploma,Finance,3,6,High,Advanced,Part-time,Banking,Field,"Quality control, Teaching support, Microsoft Office","Adaptability, Customer focus",0
+266,24,Male,Pwani,Bachelor,Agriculture,1,3,Low,Basic,Informal work,Healthcare,Office,"Accounting, Web development, Customer service, Social media management","Communication, Critical thinking, Creativity",1
+267,18,Male,Tabora,Higher Diploma,Business,0,0,Low,Basic,Part-time,Trade,Field,"Web development, Network support, English communication","Resilience, Teamwork, Critical thinking",1
+268,25,Male,Pemba North,Bachelor,Health,7,7,High,Intermediate,Self-employed,ICT,Field,"Social media management, Accounting, Web development","Teamwork, Resilience",1
+269,25,Male,Kagera,No formal qualification,Engineering,2,2,Medium,Basic,Internship,Banking,Remote,"Network support, Inventory management, Mechanical maintenance, Teaching support","Communication, Teamwork, Creativity",1
+270,24,Female,Songwe,Higher Diploma,Health,0,0,Medium,Intermediate,Informal work,Construction,Field,"Microsoft Office, Graphic design","Customer focus, Time management",0
+271,23,Female,Dar es Salaam,Bachelor,Engineering,0,1,Medium,Intermediate,Part-time,Manufacturing,Remote,"Logistics coordination, Project management","Communication, Teamwork",0
+272,23,Male,Katavi,Bachelor,Finance,4,5,Low,Basic,Informal work,Trade,Remote,"Mechanical maintenance, Teaching support, English communication","Resilience, Creativity",3
+273,20,Female,Tanga,Bachelor,Hospitality,0,3,High,Basic,Full-time,Construction,Customer-facing,"Social media management, Inventory management, Graphic design, Logistics coordination","Problem solving, Leadership",3
+274,28,Male,Tabora,Bachelor,Finance,3,4,Medium,Basic,Full-time,ICT,Customer-facing,"Teaching support, Food preparation","Leadership, Resilience, Customer focus",2
+275,23,Female,Zanzibar Urban/West,Higher Diploma,Agriculture,0,5,Medium,Basic,Full-time,Tourism,Office,"Accounting, Database management","Communication, Adaptability",2
+276,23,Male,Njombe,Vocational/Technical,Engineering,4,4,Medium,Basic,Full-time,Banking,Office,"Food preparation, Data analysis, Mechanical maintenance, Graphic design","Creativity, Resilience, Leadership",2
+277,19,Female,Dodoma,Secondary,Engineering,1,1,Low,Intermediate,Internship,Transport,Customer-facing,"Accounting, Logistics coordination, Food preparation, Data analysis","Customer focus, Creativity",2
+278,19,Female,Pemba North,Vocational/Technical,Arts,0,0,Low,Intermediate,Informal work,ICT,Office,"Teaching support, Sales","Creativity, Communication, Time management",1
+279,19,Female,Katavi,Vocational/Technical,Information Technology,1,2,High,Intermediate,Self-employed,Education,Remote,"Inventory management, Data analysis, Quality control","Adaptability, Creativity",3
+280,27,Male,Pwani,Higher Diploma,Finance,0,1,High,Basic,Part-time,Transport,Remote,"English communication, Programming (Python)","Creativity, Resilience",3
+281,28,Male,Rukwa,No formal qualification,Information Technology,2,3,High,Basic,Full-time,Healthcare,Remote,"Microsoft Office, Mechanical maintenance, Project management","Communication, Leadership",1
+282,24,Male,Geita,Secondary,Education,1,4,Low,Advanced,Full-time,Agriculture,Remote,"Teaching support, Accounting, Logistics coordination","Communication, Teamwork, Customer focus",1
+283,26,Female,Geita,Higher Diploma,Health,8,9,Medium,Intermediate,Part-time,Banking,Customer-facing,"Graphic design, Logistics coordination, Digital marketing","Customer focus, Teamwork, Problem solving",2
+284,24,Male,Mbeya,Vocational/Technical,Health,7,7,High,Basic,Informal work,ICT,Customer-facing,"Network support, Mechanical maintenance, Accounting","Resilience, Customer focus, Communication",0
+285,21,Male,Njombe,Diploma,Education,4,4,High,Basic,Internship,Manufacturing,Customer-facing,"Digital marketing, English communication, Logistics coordination, Web development","Customer focus, Critical thinking, Adaptability",2
+286,23,Female,Kagera,Higher Diploma,Finance,1,1,Low,Intermediate,Internship,Transport,Field,"Digital marketing, Food preparation","Problem solving, Resilience, Creativity",1
+287,24,Female,Manyara,Higher Diploma,Hospitality,2,6,Medium,Intermediate,Self-employed,Agriculture,Remote,"Microsoft Office, Web development","Critical thinking, Resilience, Adaptability",1
+288,23,Female,Geita,Diploma,Finance,2,5,Low,Advanced,Internship,Banking,Remote,"Data analysis, Inventory management, Network support, Microsoft Office","Communication, Creativity, Customer focus",0
+289,24,Male,Iringa,Diploma,Logistics,5,6,Medium,Intermediate,Part-time,Transport,Field,"Mechanical maintenance, Quality control, Microsoft Office, Graphic design","Creativity, Critical thinking, Teamwork",1
+290,21,Female,Morogoro,Higher Diploma,Information Technology,0,0,Medium,Intermediate,Part-time,Agriculture,Remote,"Social media management, Web development","Customer focus, Teamwork, Resilience",1
+291,23,Male,Iringa,Higher Diploma,Business,1,3,Medium,Basic,Informal work,ICT,Customer-facing,"Programming (Python), Food preparation","Creativity, Problem solving, Resilience",3
+292,26,Female,Ruvuma,Bachelor,Information Technology,3,4,Medium,Intermediate,Full-time,Education,Office,"Digital marketing, Logistics coordination, English communication, Programming (Python)","Leadership, Communication, Resilience",1
+293,18,Female,Zanzibar Urban/West,Diploma,Hospitality,0,1,High,Advanced,Internship,ICT,Customer-facing,"Quality control, Food preparation","Customer focus, Communication",2
+294,26,Male,Singida,Higher Diploma,Health,1,7,High,Basic,Internship,Construction,Field,"Project management, Teaching support, Food preparation, Data analysis","Customer focus, Teamwork",3
+295,22,Female,Dar es Salaam,Diploma,Finance,1,1,High,Intermediate,Self-employed,Manufacturing,Field,"Microsoft Office, Quality control, Social media management, Network support","Resilience, Teamwork",1
+296,24,Female,Morogoro,Diploma,Information Technology,0,1,High,Intermediate,Unemployed,Transport,Field,"Network support, Quality control, Project management","Leadership, Critical thinking",0
+297,27,Male,Mara,Higher Diploma,Business,5,8,Low,Intermediate,Informal work,Construction,Customer-facing,"Project management, Sales, Teaching support","Resilience, Adaptability, Leadership",1
+298,22,Male,Shinyanga,Higher Diploma,Arts,0,0,High,Basic,Self-employed,Healthcare,Customer-facing,"English communication, Project management","Communication, Customer focus",2
+299,27,Female,Katavi,Diploma,Education,0,1,Low,Basic,Full-time,ICT,Field,"Mechanical maintenance, Project management","Resilience, Problem solving, Customer focus",3
+300,22,Male,Shinyanga,Diploma,Education,2,5,High,Intermediate,Unemployed,Trade,Office,"Accounting, Programming (Python), Project management","Teamwork, Resilience, Problem solving",1
+301,24,Male,Pemba South,Higher Diploma,Logistics,1,6,Medium,Basic,Part-time,Construction,Remote,"Digital marketing, Teaching support","Resilience, Communication, Customer focus",0
+302,26,Female,Geita,Diploma,Hospitality,1,4,Medium,Advanced,Full-time,Transport,Office,"Social media management, Network support, Digital marketing","Communication, Critical thinking",3
+303,18,Female,Singida,Vocational/Technical,Arts,1,1,High,Advanced,Full-time,Banking,Customer-facing,"Web development, English communication","Teamwork, Leadership",0
+304,21,Male,Zanzibar Urban/West,Vocational/Technical,Business,0,3,Medium,Intermediate,Self-employed,Healthcare,Field,"Programming (Python), Graphic design","Customer focus, Adaptability",1
+305,21,Male,Tanga,Bachelor,Engineering,0,3,High,Basic,Internship,Trade,Office,"Graphic design, Inventory management","Leadership, Teamwork, Adaptability",3
+306,20,Male,Zanzibar South,Secondary,Agriculture,0,0,Low,Intermediate,Unemployed,Agriculture,Remote,"Programming (Python), English communication","Resilience, Teamwork",2
+307,26,Male,Mara,No formal qualification,Agriculture,0,1,Medium,Advanced,Informal work,Tourism,Customer-facing,"Food preparation, Logistics coordination","Creativity, Adaptability",2
+308,25,Male,Kagera,Higher Diploma,Agriculture,1,2,High,Intermediate,Self-employed,Education,Remote,"Sales, Network support","Communication, Resilience",0
+309,22,Female,Mbeya,Vocational/Technical,Education,3,5,Medium,Basic,Full-time,Transport,Office,"Customer service, Mechanical maintenance, Programming (Python)","Resilience, Problem solving",2
+310,19,Female,Njombe,Higher Diploma,Engineering,0,0,High,Intermediate,Self-employed,Banking,Field,"Graphic design, Project management, Programming (Python)","Problem solving, Teamwork",2
+311,26,Male,Dodoma,Higher Diploma,Arts,2,5,High,Basic,Full-time,Healthcare,Remote,"Programming (Python), Logistics coordination","Teamwork, Communication",1
+312,28,Female,Pemba North,Diploma,Arts,8,9,Medium,Basic,Full-time,Banking,Field,"Accounting, Customer service","Adaptability, Critical thinking",2
+313,26,Male,Lindi,Higher Diploma,Engineering,1,6,High,Intermediate,Self-employed,Banking,Field,"Graphic design, Database management, Project management","Creativity, Teamwork",0
+314,25,Male,Ruvuma,Higher Diploma,Health,7,7,Medium,Intermediate,Unemployed,Construction,Field,"Teaching support, Mechanical maintenance, Logistics coordination, Customer service","Critical thinking, Leadership",1
+315,24,Female,Zanzibar Urban/West,Diploma,Agriculture,1,3,Medium,Intermediate,Informal work,ICT,Field,"Data analysis, Social media management, Programming (Python), Logistics coordination","Leadership, Communication, Critical thinking",1
+316,21,Female,Songwe,Secondary,Hospitality,0,1,Medium,Basic,Internship,Education,Field,"English communication, Customer service, Digital marketing","Resilience, Time management",0
+317,23,Male,Zanzibar Urban/West,Secondary,Agriculture,1,6,Low,Intermediate,Internship,Banking,Office,"Data analysis, Digital marketing, Network support, Accounting","Time management, Critical thinking",2
+318,22,Male,Rukwa,No formal qualification,Arts,2,2,Low,Intermediate,Informal work,Banking,Remote,"Network support, Database management","Customer focus, Communication, Creativity",1
+319,25,Female,Mwanza,Secondary,Hospitality,3,7,Low,Intermediate,Unemployed,Construction,Office,"Programming (Python), Digital marketing, Database management","Resilience, Customer focus, Problem solving",1
+320,25,Male,Pwani,Vocational/Technical,Logistics,0,1,Low,Intermediate,Self-employed,Agriculture,Customer-facing,"Sales, Mechanical maintenance","Problem solving, Teamwork, Resilience",0
+321,21,Female,Mwanza,Secondary,Finance,1,1,Medium,Intermediate,Full-time,Construction,Field,"Data analysis, Customer service","Critical thinking, Creativity, Leadership",1
+322,29,Male,Zanzibar South,No formal qualification,Engineering,1,4,Low,Basic,Unemployed,Construction,Remote,"Database management, English communication","Teamwork, Customer focus, Time management",1
+323,24,Male,Morogoro,Bachelor,Health,1,2,High,Basic,Full-time,Trade,Customer-facing,"Microsoft Office, Database management, Web development","Leadership, Time management",0
+324,24,Male,Singida,Diploma,Business,5,7,High,Advanced,Full-time,Transport,Customer-facing,"English communication, Quality control, Teaching support, Microsoft Office","Creativity, Problem solving, Resilience",3
+325,23,Female,Shinyanga,No formal qualification,Hospitality,1,1,Medium,Basic,Full-time,Education,Field,"Graphic design, Data analysis, Digital marketing","Problem solving, Leadership, Critical thinking",1
+326,23,Female,Tanga,Secondary,Education,0,0,Medium,Intermediate,Part-time,Tourism,Customer-facing,"English communication, Database management","Time management, Resilience, Problem solving",1
+327,24,Female,Mtwara,Diploma,Engineering,5,6,Low,Basic,Full-time,Manufacturing,Field,"English communication, Quality control","Problem solving, Critical thinking, Customer focus",0
+328,21,Female,Simiyu,Secondary,Health,1,4,High,Advanced,Unemployed,Healthcare,Remote,"Food preparation, English communication, Quality control","Adaptability, Communication, Leadership",0
+329,26,Female,Tabora,Vocational/Technical,Agriculture,1,2,Low,Intermediate,Self-employed,Construction,Office,"Teaching support, Database management","Customer focus, Critical thinking, Time management",2
+330,26,Female,Pwani,Vocational/Technical,Agriculture,0,9,Low,Basic,Self-employed,Banking,Office,"Microsoft Office, Database management, Mechanical maintenance, Programming (Python)","Creativity, Critical thinking, Customer focus",0
+331,18,Female,Katavi,Higher Diploma,Health,0,0,Medium,Advanced,Informal work,Construction,Customer-facing,"Database management, Sales, Logistics coordination, Teaching support","Communication, Teamwork",1
+332,23,Female,Iringa,Secondary,Health,0,1,High,Intermediate,Informal work,Transport,Remote,"Web development, Digital marketing, Sales","Communication, Resilience",1
+333,26,Male,Dodoma,Diploma,Logistics,1,5,Medium,Basic,Internship,Education,Field,"Microsoft Office, Customer service, English communication, Teaching support","Teamwork, Problem solving",1
+334,21,Male,Pemba South,Diploma,Hospitality,0,3,High,Basic,Full-time,ICT,Remote,"Sales, Project management, Programming (Python)","Time management, Communication",2
+335,25,Male,Manyara,Higher Diploma,Engineering,0,5,High,Advanced,Informal work,ICT,Customer-facing,"Mechanical maintenance, Inventory management, Customer service","Problem solving, Communication",1
+336,29,Female,Kigoma,Bachelor,Business,0,8,Low,Basic,Unemployed,Transport,Office,"Food preparation, Mechanical maintenance, Web development","Teamwork, Creativity",3
+337,23,Female,Singida,Bachelor,Health,0,0,High,Basic,Internship,Construction,Remote,"Accounting, Quality control","Critical thinking, Time management",1
+338,24,Male,Geita,Vocational/Technical,Engineering,2,6,Low,Intermediate,Informal work,Healthcare,Customer-facing,"Data analysis, Quality control","Critical thinking, Resilience",1
+339,20,Female,Njombe,Bachelor,Business,0,1,Medium,Basic,Unemployed,Tourism,Remote,"Social media management, Quality control","Customer focus, Time management, Critical thinking",1
+340,26,Female,Iringa,Vocational/Technical,Finance,1,7,High,Intermediate,Unemployed,Agriculture,Remote,"Programming (Python), Digital marketing","Communication, Teamwork, Critical thinking",2
+341,22,Female,Songwe,Higher Diploma,Education,3,4,Low,Basic,Full-time,Healthcare,Customer-facing,"Accounting, Logistics coordination, Food preparation, Data analysis","Critical thinking, Problem solving",1
+342,22,Male,Pwani,Secondary,Logistics,0,0,High,Intermediate,Internship,Agriculture,Office,"Microsoft Office, English communication, Network support","Problem solving, Resilience, Leadership",1
+343,20,Female,Mbeya,Bachelor,Logistics,1,2,Medium,Basic,Self-employed,Banking,Customer-facing,"Food preparation, Data analysis, Accounting, Network support","Critical thinking, Creativity",3
+344,25,Female,Ruvuma,Diploma,Business,1,3,Medium,Intermediate,Informal work,Manufacturing,Customer-facing,"Accounting, Mechanical maintenance","Leadership, Creativity",0
+345,25,Male,Njombe,Diploma,Agriculture,0,0,Medium,Intermediate,Full-time,Healthcare,Remote,"Graphic design, Accounting, Quality control, Inventory management","Teamwork, Time management, Creativity",3
+346,22,Female,Zanzibar Urban/West,Bachelor,Agriculture,1,4,High,Basic,Informal work,Tourism,Field,"Digital marketing, Food preparation, Sales, Accounting","Problem solving, Leadership, Resilience",1
+347,22,Female,Pemba South,Diploma,Hospitality,2,3,High,Intermediate,Full-time,Healthcare,Field,"Inventory management, Mechanical maintenance","Adaptability, Resilience, Time management",3
+348,21,Male,Morogoro,Diploma,Arts,0,0,Medium,Basic,Self-employed,Construction,Office,"Accounting, Digital marketing, Graphic design","Time management, Customer focus, Teamwork",1
+349,24,Male,Simiyu,Vocational/Technical,Logistics,3,4,Medium,Advanced,Part-time,Trade,Field,"Project management, Microsoft Office","Time management, Customer focus",2
+350,24,Male,Pwani,Bachelor,Hospitality,0,7,High,Advanced,Unemployed,Construction,Remote,"Database management, Digital marketing, Network support","Adaptability, Problem solving",1
+351,29,Female,Mtwara,Vocational/Technical,Finance,0,1,Medium,Intermediate,Unemployed,ICT,Office,"Customer service, Social media management, Graphic design, Microsoft Office","Teamwork, Adaptability",3
+352,21,Male,Zanzibar South,Bachelor,Logistics,0,0,Medium,Intermediate,Self-employed,Transport,Office,"Customer service, Project management, Microsoft Office","Resilience, Creativity, Time management",0
+353,21,Male,Pemba South,Vocational/Technical,Health,3,4,Medium,Advanced,Unemployed,Manufacturing,Field,"Network support, Data analysis, Teaching support","Time management, Problem solving, Adaptability",1
+354,18,Female,Shinyanga,No formal qualification,Business,0,1,High,Basic,Internship,Healthcare,Office,"Social media management, Accounting, Teaching support, Sales","Time management, Leadership",0
+355,23,Male,Songwe,Higher Diploma,Hospitality,0,0,Medium,Intermediate,Self-employed,Tourism,Field,"English communication, Accounting, Digital marketing, Sales","Adaptability, Leadership",2
+356,20,Male,Arusha,Diploma,Logistics,1,2,Medium,Intermediate,Unemployed,ICT,Customer-facing,"Graphic design, Digital marketing, Social media management","Teamwork, Critical thinking, Leadership",3
+357,27,Female,Katavi,No formal qualification,Health,1,1,High,Intermediate,Self-employed,Tourism,Office,"Project management, Microsoft Office, Digital marketing, Database management","Customer focus, Problem solving",0
+358,21,Female,Tanga,Bachelor,Arts,0,3,High,Basic,Informal work,Construction,Customer-facing,"Quality control, Network support, Microsoft Office, Social media management","Customer focus, Adaptability",3
+359,21,Female,Tabora,Higher Diploma,Education,1,2,High,Intermediate,Unemployed,ICT,Office,"Data analysis, Quality control","Creativity, Critical thinking",2
+360,24,Female,Iringa,Diploma,Business,0,4,High,Basic,Unemployed,Education,Office,"Teaching support, Programming (Python), Data analysis","Leadership, Critical thinking, Time management",3
+361,25,Female,Tanga,Higher Diploma,Information Technology,5,7,Low,Basic,Unemployed,Transport,Office,"Project management, Sales","Communication, Teamwork, Resilience",2
+362,23,Male,Dar es Salaam,Bachelor,Arts,1,2,Medium,Intermediate,Unemployed,Banking,Office,"Accounting, Quality control","Leadership, Resilience",0
+363,24,Male,Songwe,Higher Diploma,Finance,6,7,High,Advanced,Part-time,Healthcare,Customer-facing,"Logistics coordination, Quality control, Web development, Food preparation","Teamwork, Problem solving",1
+364,26,Female,Arusha,Higher Diploma,Finance,2,2,Medium,Basic,Informal work,ICT,Field,"Data analysis, Inventory management, Mechanical maintenance, Social media management","Adaptability, Resilience",2
+365,21,Female,Mara,Secondary,Logistics,0,4,Low,Basic,Self-employed,Healthcare,Office,"Project management, Data analysis, Accounting, Programming (Python)","Creativity, Teamwork, Adaptability",2
+366,19,Female,Zanzibar Urban/West,Diploma,Education,2,2,Medium,Intermediate,Self-employed,Tourism,Remote,"Graphic design, Mechanical maintenance","Critical thinking, Time management, Teamwork",0
+367,22,Female,Simiyu,Bachelor,Education,1,4,Medium,Basic,Unemployed,Education,Office,"Network support, Quality control, Project management","Problem solving, Critical thinking, Creativity",2
+368,18,Female,Zanzibar South,Higher Diploma,Arts,1,1,Medium,Intermediate,Internship,Healthcare,Remote,"Web development, Social media management, Digital marketing","Time management, Teamwork, Leadership",2
+369,21,Male,Zanzibar South,Higher Diploma,Education,0,0,Medium,Intermediate,Part-time,Healthcare,Customer-facing,"Project management, Food preparation, Digital marketing","Problem solving, Resilience",0
+370,23,Male,Mtwara,Higher Diploma,Business,2,3,Medium,Intermediate,Internship,Healthcare,Customer-facing,"Mechanical maintenance, Graphic design, Teaching support","Customer focus, Time management",2
+371,26,Male,Zanzibar South,Higher Diploma,Logistics,7,7,Medium,Advanced,Informal work,ICT,Office,"Teaching support, Database management, Network support","Problem solving, Teamwork, Leadership",0
+372,23,Male,Pemba North,Diploma,Engineering,0,1,High,Intermediate,Full-time,Tourism,Field,"English communication, Web development","Resilience, Critical thinking",0
+373,23,Female,Njombe,Secondary,Business,0,0,Medium,Basic,Full-time,Tourism,Remote,"Data analysis, Sales, Social media management","Resilience, Leadership, Time management",0
+374,20,Male,Kagera,No formal qualification,Finance,1,3,Medium,Intermediate,Part-time,Banking,Remote,"Social media management, Quality control, Sales","Customer focus, Creativity, Resilience",2
+375,23,Male,Singida,Secondary,Health,1,4,Medium,Intermediate,Informal work,Healthcare,Field,"Network support, Social media management, Database management","Teamwork, Adaptability, Time management",2
+376,20,Female,Singida,Higher Diploma,Engineering,0,1,Medium,Basic,Part-time,Healthcare,Customer-facing,"Graphic design, Logistics coordination","Communication, Creativity",3
+377,26,Female,Zanzibar Urban/West,Secondary,Health,1,1,Medium,Intermediate,Self-employed,Education,Office,"Accounting, Database management, Programming (Python)","Teamwork, Leadership, Problem solving",2
+378,28,Female,Tanga,Bachelor,Agriculture,0,1,Low,Intermediate,Informal work,Manufacturing,Remote,"Sales, Mechanical maintenance, Teaching support, Graphic design","Teamwork, Time management, Resilience",2
+379,25,Female,Mbeya,Diploma,Arts,0,1,Medium,Intermediate,Internship,Education,Office,"English communication, Inventory management, Mechanical maintenance","Time management, Creativity",2
+380,25,Female,Morogoro,Higher Diploma,Engineering,6,8,Low,Basic,Part-time,Tourism,Office,"Database management, Data analysis, Web development, Microsoft Office","Leadership, Problem solving",0
+381,20,Male,Tabora,Higher Diploma,Education,0,1,Low,Advanced,Internship,Transport,Customer-facing,"Network support, Logistics coordination, English communication","Creativity, Communication, Time management",3
+382,24,Female,Pwani,Secondary,Information Technology,3,3,Medium,Advanced,Internship,Tourism,Field,"Digital marketing, Programming (Python), Logistics coordination","Critical thinking, Teamwork, Time management",1
+383,23,Male,Mwanza,Higher Diploma,Information Technology,4,6,Medium,Basic,Internship,Tourism,Remote,"Programming (Python), Database management, Project management, Inventory management","Problem solving, Communication, Customer focus",1
+384,21,Male,Zanzibar South,Bachelor,Information Technology,4,4,Medium,Advanced,Full-time,ICT,Field,"English communication, Teaching support, Microsoft Office","Leadership, Adaptability, Problem solving",1
+385,21,Female,Simiyu,Secondary,Education,0,3,High,Intermediate,Self-employed,Education,Office,"Database management, Inventory management","Customer focus, Leadership, Critical thinking",2
+386,23,Male,Rukwa,Bachelor,Information Technology,3,5,Medium,Intermediate,Self-employed,Transport,Field,"Web development, Microsoft Office, Inventory management","Adaptability, Resilience",1
+387,24,Female,Dar es Salaam,Bachelor,Finance,0,1,Medium,Basic,Full-time,Manufacturing,Customer-facing,"Database management, English communication, Food preparation","Communication, Teamwork, Leadership",2
+388,22,Female,Zanzibar South,Bachelor,Hospitality,0,1,Low,Intermediate,Self-employed,Banking,Remote,"Social media management, Quality control","Customer focus, Resilience, Creativity",2
+389,24,Male,Tabora,No formal qualification,Logistics,7,7,High,Intermediate,Self-employed,ICT,Office,"Customer service, Network support, Accounting","Resilience, Time management",2
+390,24,Male,Lindi,No formal qualification,Arts,4,4,Medium,Intermediate,Self-employed,ICT,Remote,"Inventory management, Graphic design, Quality control, Teaching support","Problem solving, Leadership",0
+391,23,Female,Morogoro,Bachelor,Finance,0,3,Low,Intermediate,Part-time,Trade,Office,"Accounting, Social media management","Critical thinking, Communication",2
+392,27,Male,Mara,Higher Diploma,Engineering,0,1,High,Basic,Internship,Agriculture,Customer-facing,"Mechanical maintenance, Programming (Python), Accounting","Communication, Customer focus",1
+393,21,Male,Mtwara,Vocational/Technical,Arts,0,0,High,Intermediate,Full-time,Healthcare,Office,"Project management, Programming (Python)","Resilience, Leadership, Critical thinking",0
+394,24,Male,Mbeya,Bachelor,Business,0,0,Medium,Intermediate,Self-employed,Transport,Field,"Food preparation, Social media management, Web development","Leadership, Adaptability",2
+395,28,Male,Ruvuma,Secondary,Business,4,6,Medium,Basic,Part-time,ICT,Customer-facing,"Mechanical maintenance, Data analysis, Programming (Python), Quality control","Customer focus, Time management, Critical thinking",3
+396,23,Female,Mara,Vocational/Technical,Arts,0,1,Medium,Intermediate,Self-employed,Agriculture,Customer-facing,"Graphic design, Inventory management, Accounting","Time management, Resilience, Customer focus",1
+397,19,Female,Singida,Higher Diploma,Agriculture,0,2,Medium,Basic,Part-time,Trade,Field,"Logistics coordination, Quality control, Network support","Problem solving, Leadership",0
+398,24,Female,Kigoma,Vocational/Technical,Agriculture,6,6,Medium,Intermediate,Informal work,Trade,Remote,"Database management, Graphic design, Web development","Adaptability, Communication",2
+399,25,Male,Singida,Diploma,Hospitality,1,3,Low,Advanced,Self-employed,Healthcare,Field,"Graphic design, Network support","Time management, Leadership",1
+400,19,Female,Arusha,Diploma,Education,2,2,High,Intermediate,Internship,Agriculture,Customer-facing,"Customer service, Inventory management, Project management, Graphic design","Leadership, Time management",2
+401,19,Female,Mara,Higher Diploma,Logistics,1,1,Low,Intermediate,Self-employed,Transport,Office,"Database management, Inventory management, Programming (Python)","Communication, Time management",3
+402,18,Male,Arusha,Secondary,Health,0,1,Low,Advanced,Informal work,Education,Office,"Customer service, Graphic design","Creativity, Time management",0
+403,22,Male,Morogoro,Diploma,Information Technology,1,2,High,Intermediate,Informal work,Trade,Customer-facing,"Customer service, Digital marketing, Web development, Sales","Customer focus, Problem solving, Leadership",3
+404,23,Female,Kilimanjaro,Bachelor,Hospitality,0,5,Low,Basic,Internship,Trade,Customer-facing,"Social media management, Digital marketing, Sales, Programming (Python)","Time management, Critical thinking",1
+405,24,Male,Pemba North,Secondary,Hospitality,6,7,Low,Intermediate,Unemployed,Trade,Office,"Accounting, Food preparation, Graphic design, Sales","Communication, Problem solving",1
+406,19,Female,Manyara,Higher Diploma,Hospitality,1,2,Medium,Intermediate,Full-time,Agriculture,Field,"Programming (Python), Teaching support","Time management, Critical thinking",1
+407,27,Male,Simiyu,Higher Diploma,Arts,4,4,Medium,Intermediate,Self-employed,ICT,Field,"Customer service, Inventory management","Critical thinking, Creativity",1
+408,20,Male,Njombe,Diploma,Arts,0,2,Medium,Intermediate,Informal work,ICT,Customer-facing,"Food preparation, Accounting, English communication, Social media management","Teamwork, Problem solving, Resilience",2
+409,27,Male,Rukwa,Diploma,Agriculture,3,7,High,Intermediate,Informal work,Banking,Office,"Network support, Mechanical maintenance","Creativity, Communication",0
+410,21,Male,Kagera,Higher Diploma,Arts,1,3,Medium,Advanced,Unemployed,Trade,Field,"English communication, Mechanical maintenance","Time management, Teamwork",1
+411,28,Male,Geita,Bachelor,Engineering,0,0,Medium,Intermediate,Self-employed,Education,Customer-facing,"Customer service, Database management, Food preparation","Leadership, Critical thinking",2
+412,24,Female,Songwe,Bachelor,Engineering,0,2,High,Intermediate,Unemployed,ICT,Office,"Customer service, Programming (Python), Graphic design, English communication","Creativity, Adaptability",0
+413,27,Female,Tabora,Bachelor,Health,0,3,Low,Intermediate,Full-time,Agriculture,Office,"Inventory management, Database management, Quality control, Teaching support","Teamwork, Creativity, Leadership",1
+414,18,Male,Iringa,Secondary,Agriculture,0,1,High,Advanced,Part-time,Education,Office,"English communication, Social media management","Customer focus, Teamwork, Creativity",1
+415,22,Male,Mbeya,Vocational/Technical,Agriculture,0,0,Medium,Basic,Part-time,Tourism,Office,"Quality control, Accounting, Project management","Communication, Teamwork, Resilience",1
+416,26,Female,Lindi,Vocational/Technical,Finance,8,8,Medium,Basic,Unemployed,Education,Remote,"Digital marketing, Database management","Leadership, Adaptability",1
+417,23,Male,Songwe,Bachelor,Education,0,1,Low,Intermediate,Internship,Construction,Remote,"English communication, Database management, Network support","Customer focus, Communication, Resilience",2
+418,18,Male,Mbeya,Vocational/Technical,Engineering,0,0,High,Intermediate,Full-time,Healthcare,Office,"Digital marketing, Accounting, Graphic design","Critical thinking, Adaptability, Resilience",1
+419,22,Male,Mara,Bachelor,Hospitality,0,0,Low,Advanced,Unemployed,Tourism,Office,"Network support, Logistics coordination, English communication, Accounting","Customer focus, Communication",3
+420,22,Male,Singida,No formal qualification,Business,4,4,Medium,Intermediate,Part-time,Tourism,Remote,"Network support, Graphic design, Quality control, Sales","Customer focus, Resilience, Time management",0
+421,25,Female,Songwe,No formal qualification,Education,0,0,High,Advanced,Part-time,Education,Field,"Inventory management, Digital marketing, Web development","Creativity, Leadership",0
+422,28,Female,Lindi,Secondary,Arts,0,1,Medium,Intermediate,Self-employed,Education,Field,"English communication, Social media management","Teamwork, Time management, Adaptability",1
+423,25,Male,Mtwara,Higher Diploma,Arts,4,6,Low,Intermediate,Informal work,Healthcare,Office,"Food preparation, Programming (Python), Digital marketing","Resilience, Creativity, Time management",1
+424,23,Male,Pemba South,Higher Diploma,Health,3,4,Medium,Advanced,Unemployed,ICT,Remote,"Programming (Python), Customer service, Mechanical maintenance","Leadership, Time management, Problem solving",2
+425,19,Female,Morogoro,Higher Diploma,Information Technology,0,1,Low,Intermediate,Internship,Tourism,Office,"Project management, Graphic design","Resilience, Communication",0
+426,26,Female,Iringa,Diploma,Health,3,3,High,Basic,Internship,Agriculture,Customer-facing,"Web development, Quality control, Teaching support, Digital marketing","Leadership, Adaptability",2
+427,25,Male,Mwanza,Higher Diploma,Logistics,0,0,High,Basic,Internship,Agriculture,Remote,"Data analysis, Project management, Microsoft Office, Web development","Teamwork, Adaptability, Communication",3
+428,18,Male,Arusha,Bachelor,Information Technology,0,0,Medium,Intermediate,Full-time,Trade,Office,"Customer service, Database management","Adaptability, Problem solving",0
+429,25,Female,Kagera,Higher Diploma,Logistics,0,1,Medium,Basic,Part-time,Banking,Customer-facing,"Graphic design, Teaching support, Logistics coordination, Network support","Problem solving, Adaptability, Leadership",0
+430,19,Male,Lindi,Secondary,Agriculture,0,1,Medium,Intermediate,Self-employed,Construction,Customer-facing,"Digital marketing, Graphic design","Time management, Resilience, Problem solving",2
+431,18,Male,Manyara,Diploma,Arts,0,0,High,Intermediate,Full-time,Healthcare,Remote,"Data analysis, Food preparation, Web development","Leadership, Adaptability, Communication",1
+432,18,Male,Pwani,Diploma,Education,0,0,High,Intermediate,Unemployed,Agriculture,Office,"Programming (Python), Customer service","Creativity, Teamwork, Time management",1
+433,22,Male,Dar es Salaam,Higher Diploma,Engineering,2,5,Medium,Basic,Self-employed,Education,Field,"Network support, Inventory management, Accounting, Mechanical maintenance","Communication, Problem solving, Resilience",0
+434,21,Male,Manyara,Bachelor,Finance,0,1,High,Intermediate,Internship,Education,Field,"Digital marketing, Social media management, Web development, English communication","Adaptability, Customer focus",1
+435,18,Female,Shinyanga,Vocational/Technical,Business,0,1,Low,Intermediate,Unemployed,Healthcare,Office,"Inventory management, Social media management, Microsoft Office","Communication, Critical thinking, Leadership",2
+436,20,Female,Njombe,Higher Diploma,Education,1,1,Medium,Basic,Unemployed,Transport,Office,"Accounting, Microsoft Office","Adaptability, Teamwork, Customer focus",0
+437,29,Female,Pwani,Bachelor,Health,3,5,Medium,Intermediate,Full-time,Tourism,Remote,"Network support, Food preparation","Adaptability, Critical thinking",3
+438,20,Male,Lindi,No formal qualification,Arts,2,2,High,Intermediate,Part-time,Education,Field,"Programming (Python), Database management, Data analysis","Time management, Resilience",3
+439,18,Female,Katavi,Bachelor,Agriculture,0,0,Low,Intermediate,Informal work,Tourism,Remote,"Graphic design, Social media management, Mechanical maintenance, Food preparation","Time management, Leadership, Critical thinking",1
+440,19,Female,Pwani,Higher Diploma,Education,1,2,Low,Basic,Unemployed,Tourism,Customer-facing,"Mechanical maintenance, Quality control","Problem solving, Customer focus",2
+441,20,Female,Mwanza,Higher Diploma,Hospitality,0,2,Medium,Basic,Unemployed,Manufacturing,Office,"Graphic design, Mechanical maintenance, Teaching support, Programming (Python)","Adaptability, Time management",3
+442,19,Male,Singida,Higher Diploma,Hospitality,0,2,High,Basic,Self-employed,Manufacturing,Customer-facing,"Food preparation, Customer service","Resilience, Problem solving, Communication",0
+443,23,Female,Morogoro,Vocational/Technical,Hospitality,0,6,Medium,Intermediate,Informal work,Construction,Office,"Accounting, Social media management, Teaching support","Creativity, Customer focus, Adaptability",3
+444,22,Female,Pwani,Higher Diploma,Education,1,2,Low,Basic,Informal work,Tourism,Field,"Teaching support, Sales","Adaptability, Creativity, Resilience",2
+445,23,Female,Singida,No formal qualification,Agriculture,2,6,High,Intermediate,Self-employed,Banking,Office,"Teaching support, Quality control","Customer focus, Problem solving, Creativity",1
+446,23,Male,Njombe,Diploma,Business,2,2,High,Basic,Full-time,ICT,Remote,"Quality control, Digital marketing","Leadership, Resilience, Teamwork",3
+447,23,Female,Songwe,Diploma,Arts,5,5,High,Intermediate,Internship,Agriculture,Customer-facing,"Project management, Customer service, Teaching support","Problem solving, Teamwork, Resilience",0
+448,25,Female,Tanga,Bachelor,Hospitality,1,1,Medium,Intermediate,Internship,Tourism,Office,"Customer service, Project management","Time management, Problem solving",0
+449,27,Female,Zanzibar Urban/West,Higher Diploma,Engineering,1,5,Low,Advanced,Full-time,Trade,Customer-facing,"Food preparation, Logistics coordination","Critical thinking, Customer focus",1
+450,21,Male,Shinyanga,Secondary,Information Technology,4,4,High,Intermediate,Full-time,Healthcare,Customer-facing,"English communication, Customer service","Resilience, Teamwork, Time management",0
+451,20,Female,Mara,Higher Diploma,Education,1,3,Medium,Intermediate,Unemployed,Banking,Field,"Graphic design, Customer service, Programming (Python), Mechanical maintenance","Critical thinking, Time management, Teamwork",3
+452,29,Male,Mwanza,Diploma,Health,3,5,Medium,Intermediate,Unemployed,Education,Office,"Microsoft Office, Accounting","Time management, Resilience",2
+453,23,Male,Dar es Salaam,Vocational/Technical,Agriculture,1,5,Medium,Basic,Internship,ICT,Remote,"Microsoft Office, Network support, Social media management, Mechanical maintenance","Problem solving, Creativity",3
+454,25,Male,Katavi,Bachelor,Health,4,5,Medium,Basic,Internship,Education,Remote,"Customer service, Network support","Time management, Teamwork, Critical thinking",2
+455,26,Female,Manyara,Vocational/Technical,Hospitality,5,7,High,Basic,Self-employed,Transport,Field,"Food preparation, Teaching support","Time management, Problem solving, Teamwork",1
+456,20,Male,Singida,Higher Diploma,Agriculture,0,2,Medium,Advanced,Full-time,Tourism,Remote,"Logistics coordination, Teaching support, Inventory management","Problem solving, Leadership, Customer focus",2
+457,25,Female,Rukwa,Higher Diploma,Engineering,7,8,Low,Basic,Self-employed,Education,Field,"Logistics coordination, Project management","Problem solving, Customer focus",1
+458,26,Male,Kilimanjaro,Secondary,Logistics,0,0,Medium,Advanced,Part-time,Construction,Office,"Food preparation, Quality control","Leadership, Creativity, Adaptability",2
+459,24,Female,Singida,Bachelor,Education,2,2,Medium,Intermediate,Unemployed,ICT,Office,"Logistics coordination, Project management","Critical thinking, Teamwork, Customer focus",1
+460,25,Male,Dodoma,Bachelor,Finance,2,2,High,Intermediate,Unemployed,Education,Customer-facing,"Inventory management, Mechanical maintenance, Social media management, Microsoft Office","Critical thinking, Customer focus, Communication",3
+461,24,Male,Zanzibar Urban/West,Secondary,Agriculture,1,1,Medium,Intermediate,Unemployed,Construction,Field,"Project management, Data analysis","Critical thinking, Adaptability",1
+462,24,Female,Njombe,Higher Diploma,Hospitality,4,4,Low,Intermediate,Full-time,ICT,Customer-facing,"Project management, Sales, Programming (Python), Mechanical maintenance","Critical thinking, Teamwork, Creativity",2
+463,23,Female,Pwani,Secondary,Arts,0,1,High,Intermediate,Unemployed,Banking,Field,"Teaching support, Social media management, Web development, Mechanical maintenance","Creativity, Resilience, Time management",1
+464,23,Female,Rukwa,Vocational/Technical,Health,0,6,Low,Intermediate,Unemployed,Manufacturing,Remote,"Customer service, Digital marketing","Customer focus, Communication",0
+465,23,Male,Shinyanga,Bachelor,Health,4,5,Low,Basic,Part-time,Transport,Remote,"Data analysis, Graphic design, Teaching support","Leadership, Creativity, Adaptability",3
+466,23,Male,Zanzibar South,Bachelor,Business,4,5,Low,Basic,Unemployed,Agriculture,Customer-facing,"Social media management, Quality control","Teamwork, Creativity, Problem solving",1
+467,26,Female,Manyara,Vocational/Technical,Information Technology,4,7,High,Basic,Full-time,Tourism,Field,"Inventory management, Programming (Python), Web development","Communication, Creativity, Customer focus",2
+468,19,Female,Mbeya,Higher Diploma,Finance,0,1,Medium,Basic,Part-time,Education,Remote,"Inventory management, Microsoft Office, Social media management, Sales","Communication, Teamwork, Time management",1
+469,19,Female,Mtwara,Secondary,Information Technology,0,1,Low,Intermediate,Part-time,Agriculture,Customer-facing,"Social media management, Data analysis, Database management, Graphic design","Adaptability, Time management",0
+470,27,Female,Iringa,Bachelor,Agriculture,2,2,High,Intermediate,Full-time,Construction,Remote,"Quality control, Logistics coordination, Teaching support","Creativity, Critical thinking",1
+471,28,Male,Tanga,Higher Diploma,Business,4,5,High,Intermediate,Self-employed,Banking,Office,"Data analysis, Social media management, Quality control, English communication","Resilience, Problem solving, Critical thinking",1
+472,22,Male,Morogoro,Higher Diploma,Logistics,0,2,Low,Advanced,Unemployed,Tourism,Field,"Sales, Inventory management, Mechanical maintenance","Customer focus, Teamwork",1
+473,23,Female,Geita,Higher Diploma,Finance,0,0,High,Basic,Part-time,Construction,Field,"Accounting, Social media management","Communication, Leadership, Critical thinking",2
+474,25,Female,Njombe,Vocational/Technical,Information Technology,5,5,Medium,Basic,Self-employed,Trade,Remote,"Accounting, Graphic design","Resilience, Time management, Problem solving",1
+475,22,Male,Dar es Salaam,Diploma,Hospitality,4,5,Low,Basic,Unemployed,Banking,Customer-facing,"Project management, Graphic design","Problem solving, Customer focus, Teamwork",2
+476,24,Female,Pemba North,Bachelor,Business,1,3,Medium,Advanced,Self-employed,Transport,Customer-facing,"Quality control, Graphic design, Logistics coordination","Communication, Teamwork",1
+477,29,Male,Zanzibar Urban/West,Secondary,Arts,1,1,High,Intermediate,Informal work,Transport,Remote,"Teaching support, Project management","Time management, Communication",3
+478,22,Male,Ruvuma,Diploma,Logistics,3,3,Medium,Advanced,Informal work,Agriculture,Office,"Network support, Logistics coordination, Teaching support, Food preparation","Adaptability, Teamwork, Communication",0
+479,27,Female,Pemba South,Secondary,Engineering,4,8,Medium,Basic,Internship,Transport,Remote,"Customer service, Programming (Python)","Time management, Communication",2
+480,20,Male,Simiyu,Vocational/Technical,Logistics,0,0,Low,Basic,Self-employed,Banking,Customer-facing,"Digital marketing, Logistics coordination, Project management","Critical thinking, Time management",1
+481,24,Female,Iringa,Bachelor,Health,1,2,Low,Intermediate,Informal work,ICT,Remote,"Network support, Project management, Logistics coordination, Graphic design","Adaptability, Creativity, Time management",1
+482,21,Male,Zanzibar South,Vocational/Technical,Education,2,3,High,Intermediate,Part-time,Healthcare,Field,"Graphic design, Food preparation","Teamwork, Time management, Communication",1
+483,22,Male,Iringa,Higher Diploma,Arts,1,3,Medium,Intermediate,Part-time,Transport,Field,"Data analysis, Sales, Network support, Logistics coordination","Problem solving, Communication",2
+484,21,Female,Iringa,Diploma,Arts,0,2,Low,Intermediate,Internship,Trade,Remote,"Accounting, Digital marketing, Graphic design, Microsoft Office","Customer focus, Resilience, Teamwork",1
+485,27,Female,Simiyu,No formal qualification,Finance,0,1,Low,Basic,Unemployed,Transport,Office,"Data analysis, Customer service","Adaptability, Critical thinking",1
+486,24,Male,Pemba North,Vocational/Technical,Logistics,5,6,Low,Advanced,Self-employed,Agriculture,Remote,"Sales, English communication","Problem solving, Creativity, Customer focus",1
+487,22,Male,Katavi,Secondary,Engineering,1,4,Medium,Basic,Full-time,Construction,Customer-facing,"Sales, Project management, Quality control","Time management, Problem solving, Communication",2
+488,22,Female,Mtwara,Vocational/Technical,Health,3,3,Medium,Intermediate,Part-time,Manufacturing,Remote,"Social media management, Project management, Microsoft Office, Digital marketing","Teamwork, Customer focus, Critical thinking",1
+489,22,Male,Mbeya,Diploma,Logistics,0,2,Low,Intermediate,Unemployed,Tourism,Office,"Logistics coordination, Quality control, Teaching support, Customer service","Problem solving, Critical thinking, Adaptability",2
+490,20,Male,Dar es Salaam,Vocational/Technical,Engineering,0,0,Medium,Advanced,Informal work,Trade,Customer-facing,"Microsoft Office, English communication, Web development","Leadership, Critical thinking",1
+491,26,Female,Iringa,Higher Diploma,Engineering,0,0,Medium,Intermediate,Full-time,Manufacturing,Office,"Mechanical maintenance, Data analysis, Microsoft Office, Database management","Problem solving, Adaptability",0
+492,26,Male,Morogoro,Secondary,Education,2,2,Medium,Advanced,Part-time,Banking,Office,"Data analysis, English communication, Sales, Microsoft Office","Communication, Teamwork",1
+493,21,Male,Morogoro,Secondary,Engineering,2,2,Medium,Intermediate,Part-time,Agriculture,Customer-facing,"Inventory management, Network support","Adaptability, Critical thinking",2
+494,18,Female,Shinyanga,Bachelor,Information Technology,0,0,Medium,Intermediate,Part-time,Tourism,Field,"Database management, Social media management","Time management, Problem solving",0
+495,25,Female,Dodoma,Secondary,Finance,0,1,Medium,Intermediate,Unemployed,Transport,Field,"Programming (Python), Customer service, Project management, Digital marketing","Customer focus, Resilience",0
+496,23,Female,Njombe,Higher Diploma,Hospitality,1,2,Low,Intermediate,Unemployed,Tourism,Customer-facing,"Sales, Accounting","Leadership, Problem solving, Teamwork",0
+497,24,Female,Dar es Salaam,Higher Diploma,Education,1,7,Low,Basic,Internship,Education,Field,"Mechanical maintenance, Inventory management, Food preparation, Logistics coordination","Resilience, Teamwork, Creativity",1
+498,22,Male,Pemba South,Vocational/Technical,Finance,4,4,High,Basic,Full-time,Healthcare,Remote,"Microsoft Office, English communication","Resilience, Problem solving",1
+499,24,Male,Mwanza,Vocational/Technical,Information Technology,0,1,High,Intermediate,Unemployed,Healthcare,Customer-facing,"Microsoft Office, Sales, Quality control","Creativity, Time management",1
+500,25,Female,Songwe,Secondary,Agriculture,2,5,High,Intermediate,Part-time,Trade,Remote,"Customer service, Logistics coordination, Data analysis, Microsoft Office","Time management, Critical thinking",0
+501,24,Female,Shinyanga,Diploma,Health,3,5,Medium,Intermediate,Internship,Manufacturing,Remote,"Sales, Network support","Adaptability, Critical thinking, Creativity",0
+502,29,Male,Dar es Salaam,Vocational/Technical,Arts,1,7,High,Basic,Self-employed,Healthcare,Field,"Graphic design, Accounting, Programming (Python), Network support","Creativity, Critical thinking",3
+503,28,Male,Pemba North,Diploma,Education,2,4,Medium,Basic,Self-employed,Tourism,Remote,"Web development, Social media management, Inventory management","Time management, Teamwork",2
+504,18,Female,Arusha,Vocational/Technical,Engineering,0,1,High,Advanced,Part-time,Transport,Field,"Social media management, Database management, Network support, Data analysis","Problem solving, Teamwork",1
+505,28,Male,Mtwara,Secondary,Business,0,5,Low,Intermediate,Unemployed,Trade,Office,"Web development, Food preparation","Communication, Adaptability",2
+506,19,Female,Mtwara,Diploma,Education,1,2,High,Basic,Unemployed,ICT,Remote,"Database management, Data analysis, English communication","Leadership, Problem solving, Resilience",2
+507,20,Male,Dodoma,Secondary,Logistics,0,2,Low,Intermediate,Unemployed,Transport,Field,"Social media management, Network support, English communication, Teaching support","Customer focus, Problem solving, Leadership",2
+508,27,Male,Kigoma,No formal qualification,Health,0,6,Medium,Intermediate,Informal work,Manufacturing,Office,"Food preparation, Programming (Python), English communication, Social media management","Adaptability, Resilience",1
+509,25,Male,Pemba North,Diploma,Education,6,7,Low,Intermediate,Internship,Tourism,Remote,"Customer service, Inventory management, English communication","Time management, Customer focus, Critical thinking",2
+510,22,Female,Zanzibar South,Higher Diploma,Logistics,0,0,Low,Advanced,Part-time,ICT,Customer-facing,"Mechanical maintenance, Food preparation, Social media management","Leadership, Critical thinking",1
+511,24,Female,Zanzibar South,Higher Diploma,Business,5,6,High,Advanced,Part-time,Tourism,Field,"Microsoft Office, Inventory management","Customer focus, Critical thinking",2
+512,20,Male,Mwanza,Higher Diploma,Information Technology,0,2,High,Basic,Self-employed,ICT,Field,"Teaching support, Logistics coordination","Customer focus, Critical thinking",0
+513,25,Male,Geita,Vocational/Technical,Engineering,1,3,Medium,Advanced,Unemployed,Construction,Remote,"Digital marketing, Microsoft Office, Data analysis","Problem solving, Resilience",3
+514,27,Female,Morogoro,Vocational/Technical,Information Technology,0,2,High,Advanced,Informal work,Education,Office,"Quality control, Data analysis","Problem solving, Resilience, Customer focus",1
+515,21,Male,Kigoma,Higher Diploma,Hospitality,0,2,Low,Intermediate,Full-time,Trade,Remote,"Database management, Quality control, Logistics coordination","Teamwork, Leadership",2
+516,21,Male,Mbeya,Higher Diploma,Business,0,0,High,Intermediate,Informal work,Trade,Customer-facing,"Customer service, Digital marketing","Time management, Customer focus",1
+517,21,Female,Mtwara,Diploma,Hospitality,3,3,Low,Basic,Unemployed,Construction,Office,"Food preparation, Teaching support","Teamwork, Adaptability, Resilience",1
+518,20,Female,Morogoro,Diploma,Logistics,2,2,High,Intermediate,Unemployed,Banking,Customer-facing,"Digital marketing, Web development, Mechanical maintenance, Programming (Python)","Customer focus, Critical thinking, Time management",2
+519,27,Female,Pemba North,Secondary,Arts,1,2,High,Basic,Unemployed,Agriculture,Customer-facing,"Data analysis, Accounting","Creativity, Adaptability",1
+520,26,Female,Dar es Salaam,No formal qualification,Finance,2,6,Medium,Intermediate,Self-employed,Construction,Remote,"Social media management, Teaching support, Accounting, Logistics coordination","Adaptability, Communication",2
+521,22,Male,Dodoma,Higher Diploma,Health,2,2,Medium,Intermediate,Unemployed,ICT,Remote,"English communication, Microsoft Office, Network support","Leadership, Customer focus",0
+522,24,Male,Arusha,Higher Diploma,Arts,5,6,Medium,Basic,Unemployed,Manufacturing,Customer-facing,"Teaching support, Programming (Python), Network support","Resilience, Customer focus, Problem solving",2
+523,23,Female,Lindi,Higher Diploma,Engineering,2,2,Medium,Basic,Self-employed,Banking,Remote,"Programming (Python), Project management, Teaching support, Sales","Time management, Problem solving",1
+524,23,Female,Mara,Bachelor,Health,3,4,High,Basic,Self-employed,ICT,Office,"Web development, Sales, Inventory management, Logistics coordination","Customer focus, Resilience",2
+525,23,Female,Kigoma,Vocational/Technical,Health,0,0,Medium,Advanced,Full-time,Education,Remote,"Quality control, Programming (Python)","Communication, Adaptability",1
+526,25,Male,Dodoma,Higher Diploma,Finance,2,3,Low,Basic,Part-time,Agriculture,Remote,"Customer service, Database management","Resilience, Leadership, Adaptability",2
+527,19,Male,Pemba South,Bachelor,Business,2,2,High,Intermediate,Self-employed,Manufacturing,Field,"Web development, Mechanical maintenance","Communication, Resilience, Leadership",1
+528,25,Male,Shinyanga,Higher Diploma,Finance,1,6,High,Intermediate,Part-time,Trade,Office,"Database management, Sales, Programming (Python)","Critical thinking, Adaptability, Time management",1
+529,20,Female,Morogoro,Secondary,Education,0,0,Low,Basic,Self-employed,Trade,Customer-facing,"Digital marketing, Logistics coordination","Time management, Adaptability",3
+530,22,Male,Kagera,Higher Diploma,Information Technology,5,5,High,Basic,Internship,Banking,Customer-facing,"Teaching support, English communication, Data analysis, Sales","Leadership, Resilience",2
+531,22,Female,Geita,Vocational/Technical,Logistics,1,3,Low,Intermediate,Part-time,Trade,Field,"Digital marketing, Mechanical maintenance, Data analysis","Resilience, Communication, Customer focus",2
+532,21,Female,Mbeya,Diploma,Health,2,4,Low,Intermediate,Self-employed,Agriculture,Remote,"English communication, Accounting","Resilience, Creativity, Time management",2
+533,26,Male,Kigoma,Diploma,Education,7,8,High,Intermediate,Internship,Trade,Field,"Customer service, Microsoft Office, Database management","Communication, Adaptability, Critical thinking",1
+534,23,Female,Zanzibar South,No formal qualification,Hospitality,2,2,Medium,Advanced,Part-time,Transport,Field,"Database management, Accounting, Network support","Time management, Customer focus, Adaptability",0
+535,27,Male,Mwanza,No formal qualification,Logistics,2,5,High,Basic,Informal work,Agriculture,Office,"Microsoft Office, Inventory management, English communication, Mechanical maintenance","Resilience, Time management, Problem solving",2
+536,26,Male,Mtwara,Vocational/Technical,Hospitality,1,9,High,Basic,Part-time,Trade,Remote,"Microsoft Office, Database management, English communication","Problem solving, Time management",0
+537,25,Female,Rukwa,Higher Diploma,Arts,1,5,Low,Intermediate,Part-time,Manufacturing,Customer-facing,"Teaching support, English communication, Mechanical maintenance","Creativity, Teamwork, Adaptability",1
+538,22,Female,Mwanza,Vocational/Technical,Education,0,0,Medium,Intermediate,Full-time,Tourism,Office,"Microsoft Office, Inventory management","Creativity, Leadership, Customer focus",1
+539,26,Male,Mwanza,Bachelor,Business,0,0,High,Basic,Informal work,Education,Customer-facing,"Teaching support, Logistics coordination","Communication, Critical thinking, Teamwork",1
+540,22,Male,Tabora,Secondary,Arts,0,0,High,Advanced,Full-time,Banking,Remote,"Food preparation, Quality control, Accounting","Problem solving, Leadership",2
+541,19,Male,Pwani,Bachelor,Agriculture,0,0,Low,Intermediate,Self-employed,Construction,Remote,"Teaching support, Graphic design, Sales","Communication, Teamwork",2
+542,23,Male,Kagera,Vocational/Technical,Engineering,0,0,High,Intermediate,Part-time,Manufacturing,Customer-facing,"Quality control, Mechanical maintenance, Customer service","Customer focus, Resilience, Problem solving",1
+543,25,Male,Arusha,Higher Diploma,Finance,3,8,Medium,Basic,Full-time,ICT,Office,"Project management, Network support, Food preparation","Resilience, Critical thinking",2
+544,19,Female,Pwani,Secondary,Business,1,2,High,Basic,Full-time,ICT,Office,"Database management, Microsoft Office","Resilience, Time management, Communication",3
+545,24,Male,Ruvuma,Secondary,Business,0,1,Medium,Intermediate,Internship,Banking,Office,"Microsoft Office, Project management, English communication, Network support","Resilience, Critical thinking",3
+546,29,Female,Pemba South,Diploma,Health,4,8,High,Basic,Informal work,Banking,Office,"Programming (Python), Data analysis","Adaptability, Problem solving",2
+547,22,Female,Shinyanga,Diploma,Logistics,1,5,High,Advanced,Internship,Tourism,Office,"Programming (Python), Project management","Communication, Problem solving",1
+548,25,Female,Zanzibar South,Bachelor,Business,0,5,Medium,Intermediate,Informal work,ICT,Field,"Project management, Quality control","Time management, Adaptability, Leadership",2
+549,24,Female,Shinyanga,No formal qualification,Business,0,1,High,Basic,Self-employed,Tourism,Remote,"Mechanical maintenance, Inventory management, Quality control","Adaptability, Resilience",1
+550,21,Male,Zanzibar South,Bachelor,Finance,0,0,Medium,Intermediate,Self-employed,Manufacturing,Field,"English communication, Sales, Food preparation, Quality control","Communication, Leadership",1
+551,25,Female,Simiyu,Diploma,Logistics,0,1,Low,Basic,Full-time,Transport,Customer-facing,"Teaching support, Programming (Python), Logistics coordination","Customer focus, Resilience",3
+552,22,Male,Pemba North,Higher Diploma,Business,2,3,High,Advanced,Self-employed,Education,Customer-facing,"Programming (Python), Customer service, Quality control, Digital marketing","Creativity, Problem solving",3
+553,22,Female,Singida,Diploma,Logistics,0,0,Medium,Basic,Unemployed,Healthcare,Customer-facing,"Data analysis, Programming (Python)","Adaptability, Leadership",2
+554,23,Male,Kilimanjaro,Secondary,Arts,0,0,Low,Intermediate,Part-time,Tourism,Field,"Web development, Sales","Creativity, Adaptability, Customer focus",1
+555,23,Female,Mbeya,Secondary,Hospitality,6,6,Low,Intermediate,Informal work,Trade,Field,"Digital marketing, Programming (Python)","Resilience, Teamwork",1
+556,23,Female,Songwe,No formal qualification,Arts,1,1,High,Intermediate,Full-time,Manufacturing,Remote,"Logistics coordination, Graphic design, Quality control","Adaptability, Resilience, Time management",3
+557,21,Female,Tanga,Diploma,Engineering,0,4,High,Advanced,Internship,ICT,Office,"Digital marketing, Graphic design, Microsoft Office","Time management, Leadership",1
+558,23,Female,Njombe,Higher Diploma,Logistics,1,1,Medium,Intermediate,Self-employed,Healthcare,Remote,"Project management, Food preparation, Network support","Problem solving, Communication, Time management",2
+559,25,Female,Songwe,Higher Diploma,Education,3,3,High,Intermediate,Self-employed,Construction,Remote,"Database management, Data analysis, Accounting, Project management","Communication, Creativity",2
+560,21,Male,Iringa,Diploma,Logistics,0,0,Medium,Advanced,Informal work,Construction,Office,"Food preparation, Teaching support, Inventory management","Teamwork, Critical thinking, Resilience",2
+561,22,Female,Arusha,Vocational/Technical,Health,1,1,Medium,Intermediate,Full-time,Banking,Customer-facing,"Project management, Data analysis, Sales, English communication","Time management, Teamwork, Resilience",1
+562,27,Female,Lindi,Higher Diploma,Health,3,5,Medium,Intermediate,Part-time,ICT,Remote,"Teaching support, Logistics coordination, Accounting","Resilience, Teamwork",1
+563,26,Female,Rukwa,Higher Diploma,Logistics,0,9,High,Intermediate,Unemployed,Transport,Office,"Accounting, Programming (Python), Logistics coordination, Customer service","Time management, Customer focus",0
+564,26,Female,Shinyanga,No formal qualification,Information Technology,0,5,High,Intermediate,Part-time,Education,Field,"Food preparation, Database management, Social media management","Critical thinking, Time management",0
+565,22,Female,Zanzibar South,No formal qualification,Hospitality,2,3,Medium,Basic,Self-employed,Agriculture,Remote,"Teaching support, Graphic design","Leadership, Customer focus, Creativity",3
+566,25,Female,Pemba South,Higher Diploma,Arts,1,2,Low,Intermediate,Informal work,Education,Office,"Sales, Inventory management, Programming (Python), Quality control","Creativity, Time management, Adaptability",2
+567,21,Female,Zanzibar Urban/West,Bachelor,Education,1,1,Medium,Advanced,Full-time,Healthcare,Office,"Digital marketing, Database management, Logistics coordination","Creativity, Resilience",2
+568,27,Male,Ruvuma,Vocational/Technical,Health,2,2,High,Advanced,Full-time,Agriculture,Customer-facing,"Accounting, Teaching support, Sales","Critical thinking, Customer focus",1
+569,20,Female,Pemba North,Bachelor,Education,0,3,High,Intermediate,Internship,Healthcare,Remote,"Programming (Python), Social media management","Teamwork, Problem solving",0
+570,19,Male,Tanga,Vocational/Technical,Engineering,0,1,Medium,Basic,Informal work,Banking,Remote,"Programming (Python), Digital marketing, Database management, Web development","Resilience, Critical thinking, Time management",2
+571,22,Male,Ruvuma,Bachelor,Business,0,4,High,Basic,Full-time,Healthcare,Office,"Web development, Mechanical maintenance, Inventory management","Problem solving, Adaptability, Time management",1
+572,19,Female,Kagera,Bachelor,Agriculture,2,2,Low,Intermediate,Unemployed,Banking,Field,"Programming (Python), Graphic design","Leadership, Time management, Creativity",0
+573,22,Male,Arusha,Vocational/Technical,Health,1,1,Low,Basic,Full-time,Manufacturing,Field,"Project management, Microsoft Office, Sales, Graphic design","Communication, Customer focus",3
+574,26,Male,Lindi,Bachelor,Agriculture,0,0,High,Advanced,Full-time,Healthcare,Field,"English communication, Sales, Food preparation","Critical thinking, Resilience, Time management",0
+575,28,Male,Kilimanjaro,Diploma,Engineering,0,3,Medium,Intermediate,Unemployed,Transport,Remote,"Accounting, Programming (Python), Social media management, Sales","Adaptability, Leadership, Communication",3
+576,22,Male,Tabora,No formal qualification,Engineering,0,1,High,Basic,Internship,Healthcare,Customer-facing,"Graphic design, Digital marketing","Communication, Critical thinking",0
+577,27,Male,Geita,No formal qualification,Finance,3,9,Medium,Intermediate,Full-time,Agriculture,Customer-facing,"English communication, Quality control","Critical thinking, Creativity, Resilience",1
+578,24,Female,Pwani,Secondary,Arts,5,7,High,Intermediate,Self-employed,Banking,Remote,"Network support, Microsoft Office, Quality control","Customer focus, Critical thinking, Adaptability",0
+579,27,Female,Kilimanjaro,Higher Diploma,Hospitality,2,5,Medium,Intermediate,Internship,Tourism,Office,"Programming (Python), Project management, Quality control","Creativity, Communication",1
+580,20,Female,Rukwa,Bachelor,Arts,0,1,Low,Intermediate,Unemployed,ICT,Remote,"Data analysis, Network support, Digital marketing, Accounting","Leadership, Problem solving, Communication",1
+581,28,Male,Kagera,Secondary,Finance,2,3,Low,Advanced,Unemployed,Education,Field,"Programming (Python), Data analysis","Leadership, Critical thinking",2
+582,23,Female,Arusha,Vocational/Technical,Logistics,0,1,High,Intermediate,Internship,Tourism,Office,"Project management, Digital marketing","Problem solving, Leadership",2
+583,23,Female,Morogoro,Bachelor,Finance,0,0,High,Intermediate,Unemployed,Banking,Office,"Data analysis, English communication, Project management, Web development","Problem solving, Time management",3
+584,20,Male,Morogoro,Secondary,Arts,1,1,Medium,Intermediate,Informal work,Transport,Field,"Data analysis, Quality control, Network support","Leadership, Problem solving, Resilience",1
+585,20,Female,Pwani,Higher Diploma,Hospitality,1,2,High,Intermediate,Self-employed,Transport,Field,"Quality control, Food preparation","Problem solving, Teamwork",1
+586,24,Female,Simiyu,Diploma,Arts,0,0,High,Basic,Unemployed,Agriculture,Remote,"Food preparation, Social media management, Data analysis","Adaptability, Leadership, Resilience",1
+587,21,Female,Iringa,Secondary,Business,0,0,Medium,Basic,Self-employed,Trade,Field,"Sales, Mechanical maintenance, Graphic design, Web development","Communication, Critical thinking",1
+588,27,Female,Njombe,Secondary,Health,0,0,High,Advanced,Internship,Construction,Customer-facing,"Database management, Food preparation, Mechanical maintenance, Microsoft Office","Leadership, Adaptability, Creativity",1
+589,24,Male,Rukwa,Diploma,Health,0,2,Medium,Advanced,Self-employed,Tourism,Field,"Quality control, Digital marketing","Time management, Adaptability",1
+590,25,Female,Pemba South,Vocational/Technical,Finance,0,0,Medium,Basic,Full-time,Education,Customer-facing,"Data analysis, Graphic design, Project management, English communication","Customer focus, Time management, Creativity",2
+591,19,Male,Zanzibar Urban/West,Vocational/Technical,Arts,0,2,High,Basic,Self-employed,ICT,Remote,"Inventory management, Food preparation","Creativity, Time management, Resilience",1
+592,21,Male,Kilimanjaro,Bachelor,Business,0,0,High,Intermediate,Self-employed,Manufacturing,Remote,"Inventory management, Web development","Resilience, Creativity, Time management",1
+593,19,Female,Singida,Diploma,Agriculture,1,1,Low,Basic,Self-employed,ICT,Field,"Project management, Microsoft Office","Leadership, Resilience, Customer focus",2
+594,26,Female,Pwani,Secondary,Arts,5,6,Medium,Basic,Unemployed,Healthcare,Customer-facing,"Social media management, Graphic design, Logistics coordination, Food preparation","Creativity, Teamwork, Communication",1
+595,25,Female,Shinyanga,Higher Diploma,Health,2,5,Medium,Basic,Unemployed,Construction,Office,"Programming (Python), Project management, Food preparation","Customer focus, Communication",2
+596,23,Male,Mara,Secondary,Agriculture,0,3,High,Basic,Informal work,Agriculture,Field,"Digital marketing, Social media management","Communication, Resilience",2
+597,24,Female,Dodoma,Bachelor,Engineering,0,0,Low,Advanced,Unemployed,Agriculture,Customer-facing,"Data analysis, Network support, Social media management, Programming (Python)","Adaptability, Leadership",0
+598,21,Male,Kagera,Secondary,Agriculture,2,2,High,Intermediate,Self-employed,Trade,Customer-facing,"Logistics coordination, Database management, Sales","Resilience, Problem solving, Customer focus",0
+599,24,Female,Mtwara,Bachelor,Arts,0,2,High,Intermediate,Self-employed,Education,Customer-facing,"Graphic design, Microsoft Office, English communication, Programming (Python)","Time management, Teamwork, Customer focus",0
+600,26,Female,Iringa,Bachelor,Business,1,4,High,Basic,Full-time,Construction,Remote,"Database management, Food preparation, Teaching support","Leadership, Resilience, Teamwork",0
+601,18,Female,Ruvuma,Secondary,Information Technology,0,1,Medium,Advanced,Full-time,Construction,Remote,"Graphic design, Project management, Teaching support, Web development","Communication, Problem solving, Teamwork",1
+602,19,Female,Rukwa,Vocational/Technical,Engineering,0,1,Medium,Basic,Unemployed,Trade,Field,"Quality control, Accounting, Food preparation","Teamwork, Creativity",1
+603,23,Female,Ruvuma,No formal qualification,Education,4,4,Medium,Intermediate,Part-time,Education,Customer-facing,"Database management, Accounting, Quality control, Network support","Communication, Adaptability, Problem solving",1
+604,20,Female,Morogoro,No formal qualification,Engineering,0,1,Low,Advanced,Informal work,Transport,Field,"Microsoft Office, Teaching support, Accounting, Programming (Python)","Time management, Teamwork",2
+605,19,Female,Rukwa,Vocational/Technical,Education,0,0,Medium,Basic,Informal work,Tourism,Remote,"Customer service, Microsoft Office, Logistics coordination, Database management","Resilience, Teamwork",1
+606,24,Male,Mbeya,Diploma,Health,6,7,Low,Intermediate,Internship,Manufacturing,Office,"Accounting, Microsoft Office","Creativity, Time management, Critical thinking",1
+607,19,Male,Mara,Higher Diploma,Education,0,2,Low,Intermediate,Unemployed,Trade,Office,"Customer service, Microsoft Office","Adaptability, Communication, Customer focus",1
+608,18,Male,Simiyu,No formal qualification,Education,0,1,High,Intermediate,Informal work,Trade,Customer-facing,"Mechanical maintenance, Teaching support, Network support","Resilience, Problem solving",1
+609,23,Female,Songwe,Vocational/Technical,Business,4,4,Medium,Intermediate,Part-time,Tourism,Office,"English communication, Social media management","Problem solving, Resilience, Creativity",2
+610,23,Female,Manyara,Bachelor,Logistics,0,0,Low,Intermediate,Part-time,Manufacturing,Field,"Accounting, Food preparation","Adaptability, Leadership, Resilience",1
+611,25,Male,Shinyanga,Vocational/Technical,Agriculture,2,5,Medium,Intermediate,Internship,Trade,Customer-facing,"English communication, Database management","Communication, Resilience, Creativity",1
+612,25,Female,Mbeya,Vocational/Technical,Logistics,0,0,High,Basic,Self-employed,Agriculture,Office,"Project management, Database management, Web development","Leadership, Resilience",0
+613,28,Female,Manyara,No formal qualification,Hospitality,1,1,Medium,Intermediate,Unemployed,Construction,Office,"Data analysis, Mechanical maintenance, Project management","Critical thinking, Problem solving",2
+614,29,Male,Arusha,Secondary,Education,0,3,Medium,Intermediate,Internship,Tourism,Customer-facing,"Mechanical maintenance, Project management, Inventory management, Programming (Python)","Teamwork, Time management, Leadership",0
+615,22,Female,Mbeya,Secondary,Health,2,5,High,Basic,Internship,Education,Remote,"English communication, Web development, Social media management, Accounting","Resilience, Leadership, Communication",1
+616,21,Female,Katavi,Higher Diploma,Information Technology,1,3,Medium,Basic,Part-time,Tourism,Remote,"Food preparation, Digital marketing, Quality control, Database management","Adaptability, Leadership",1
+617,20,Male,Kigoma,Higher Diploma,Agriculture,1,1,Medium,Intermediate,Internship,Construction,Office,"Network support, Logistics coordination","Critical thinking, Problem solving",0
+618,24,Female,Kilimanjaro,No formal qualification,Education,0,2,Low,Advanced,Informal work,Transport,Office,"Graphic design, Social media management, Project management","Creativity, Problem solving, Customer focus",1
+619,20,Male,Iringa,Bachelor,Hospitality,1,3,Low,Basic,Unemployed,Transport,Customer-facing,"Mechanical maintenance, Sales, Network support","Critical thinking, Customer focus, Adaptability",2
+620,23,Male,Kagera,No formal qualification,Health,0,0,Low,Basic,Unemployed,ICT,Office,"Digital marketing, Database management, Data analysis, Network support","Teamwork, Resilience",1
+621,29,Male,Kilimanjaro,Vocational/Technical,Health,0,4,Low,Basic,Part-time,Education,Office,"Mechanical maintenance, Web development","Customer focus, Creativity",2
+622,21,Female,Njombe,Diploma,Logistics,0,0,Medium,Intermediate,Part-time,Transport,Office,"Digital marketing, Social media management, Project management","Customer focus, Leadership",2
+623,22,Female,Iringa,Bachelor,Arts,0,0,Medium,Advanced,Full-time,Healthcare,Office,"Sales, Microsoft Office","Customer focus, Problem solving, Teamwork",1
+624,26,Male,Iringa,Diploma,Business,2,3,High,Intermediate,Self-employed,Healthcare,Field,"Accounting, English communication, Web development","Resilience, Time management, Leadership",1
+625,23,Female,Simiyu,Vocational/Technical,Arts,2,2,High,Advanced,Self-employed,Construction,Office,"Web development, English communication, Microsoft Office, Logistics coordination","Customer focus, Time management",2
+626,25,Female,Morogoro,Higher Diploma,Health,2,3,High,Basic,Unemployed,Transport,Office,"Teaching support, Mechanical maintenance, Database management","Customer focus, Leadership",1
+627,20,Male,Zanzibar South,Secondary,Business,3,3,High,Advanced,Unemployed,Construction,Field,"Microsoft Office, Project management","Adaptability, Creativity",1
+628,18,Male,Kilimanjaro,Bachelor,Finance,0,0,Medium,Intermediate,Self-employed,Banking,Remote,"Logistics coordination, Teaching support, Food preparation","Communication, Resilience",1
+629,24,Male,Kilimanjaro,Bachelor,Hospitality,1,3,Medium,Intermediate,Self-employed,ICT,Customer-facing,"Project management, Digital marketing, Graphic design, Food preparation","Leadership, Time management",0
+630,21,Female,Ruvuma,Diploma,Logistics,3,3,High,Advanced,Self-employed,Manufacturing,Field,"Sales, Web development, Digital marketing","Adaptability, Problem solving, Customer focus",1
+631,18,Female,Simiyu,Higher Diploma,Finance,0,1,Medium,Intermediate,Internship,Trade,Customer-facing,"Teaching support, Project management, Quality control","Creativity, Leadership",1
+632,20,Male,Katavi,Vocational/Technical,Education,1,1,High,Intermediate,Unemployed,Healthcare,Remote,"Quality control, Data analysis","Leadership, Resilience, Customer focus",0
+633,22,Female,Pemba South,Bachelor,Hospitality,2,2,Medium,Advanced,Unemployed,Manufacturing,Field,"English communication, Inventory management","Creativity, Leadership, Resilience",0
+634,22,Female,Mbeya,Vocational/Technical,Engineering,1,5,Medium,Basic,Part-time,Agriculture,Field,"Mechanical maintenance, Accounting, Inventory management, Quality control","Time management, Adaptability, Customer focus",1
+635,21,Male,Kigoma,Bachelor,Finance,1,2,Medium,Intermediate,Internship,Trade,Office,"Social media management, Database management","Resilience, Time management",0
+636,27,Female,Tanga,Vocational/Technical,Health,0,5,Medium,Intermediate,Unemployed,Transport,Field,"Teaching support, Inventory management","Time management, Problem solving, Leadership",1
+637,27,Female,Geita,Bachelor,Health,0,0,Medium,Advanced,Part-time,Construction,Office,"Sales, Programming (Python)","Time management, Leadership, Creativity",1
+638,22,Female,Tabora,Higher Diploma,Logistics,0,5,Medium,Intermediate,Part-time,Agriculture,Field,"English communication, Food preparation, Graphic design, Digital marketing","Adaptability, Creativity, Time management",1
+639,26,Male,Iringa,Bachelor,Agriculture,2,5,Low,Intermediate,Informal work,Agriculture,Customer-facing,"Customer service, Web development, Database management","Adaptability, Time management, Leadership",2
+640,27,Female,Manyara,No formal qualification,Hospitality,3,6,Low,Intermediate,Informal work,Trade,Customer-facing,"Food preparation, Social media management","Leadership, Creativity",2
+641,22,Female,Mwanza,Higher Diploma,Business,0,0,Medium,Intermediate,Informal work,Manufacturing,Office,"Graphic design, Digital marketing, Social media management, Project management","Resilience, Teamwork, Creativity",0
+642,24,Female,Rukwa,Diploma,Health,0,6,Medium,Basic,Full-time,Tourism,Remote,"Customer service, Accounting","Teamwork, Time management, Adaptability",1
+643,22,Male,Mara,Bachelor,Information Technology,2,2,Low,Basic,Internship,Education,Customer-facing,"Sales, Data analysis","Teamwork, Leadership",1
+644,21,Male,Morogoro,Bachelor,Logistics,0,1,Medium,Intermediate,Unemployed,Education,Customer-facing,"Microsoft Office, Web development","Critical thinking, Communication",1
+645,20,Male,Dodoma,Vocational/Technical,Business,0,3,High,Basic,Informal work,Transport,Remote,"Graphic design, Sales","Customer focus, Creativity, Leadership",1
+646,24,Male,Simiyu,Vocational/Technical,Education,4,4,High,Intermediate,Self-employed,Tourism,Office,"Database management, Teaching support","Problem solving, Critical thinking, Time management",1
+647,23,Male,Songwe,Bachelor,Finance,5,5,Low,Basic,Informal work,Agriculture,Remote,"Inventory management, Microsoft Office","Resilience, Communication",0
+648,23,Female,Shinyanga,Vocational/Technical,Information Technology,1,3,Medium,Basic,Part-time,Agriculture,Field,"Sales, Mechanical maintenance, Data analysis","Adaptability, Time management, Critical thinking",2
+649,24,Male,Geita,Higher Diploma,Health,0,7,Medium,Basic,Part-time,Transport,Office,"Inventory management, Mechanical maintenance, Food preparation, Sales","Creativity, Adaptability",0
+650,23,Male,Iringa,Secondary,Arts,3,3,High,Intermediate,Full-time,Construction,Office,"Project management, Microsoft Office, Accounting","Customer focus, Problem solving, Resilience",1
+651,18,Male,Mara,Higher Diploma,Education,0,0,Medium,Basic,Full-time,Education,Field,"Mechanical maintenance, English communication, Accounting","Customer focus, Leadership, Time management",2
+652,23,Female,Njombe,Vocational/Technical,Information Technology,0,1,Medium,Intermediate,Full-time,Education,Field,"Microsoft Office, Programming (Python)","Teamwork, Critical thinking",1
+653,25,Female,Katavi,Bachelor,Business,3,6,Low,Intermediate,Unemployed,Healthcare,Remote,"Project management, Inventory management, Accounting, Logistics coordination","Time management, Creativity",2
+654,28,Male,Songwe,Secondary,Information Technology,1,1,Low,Basic,Internship,Tourism,Remote,"Microsoft Office, Sales, Customer service, Web development","Problem solving, Leadership",2
+655,22,Female,Rukwa,Bachelor,Arts,0,0,Medium,Advanced,Informal work,Education,Field,"Customer service, Data analysis, Graphic design, Database management","Customer focus, Leadership",1
+656,26,Female,Pemba North,Diploma,Health,2,8,Medium,Basic,Self-employed,ICT,Field,"Microsoft Office, Logistics coordination, Social media management, Graphic design","Communication, Critical thinking, Time management",1
+657,22,Male,Morogoro,Bachelor,Engineering,0,0,High,Intermediate,Unemployed,ICT,Remote,"Social media management, Microsoft Office","Resilience, Teamwork",2
+658,23,Female,Arusha,No formal qualification,Agriculture,1,3,High,Intermediate,Unemployed,Construction,Field,"Sales, Food preparation, Microsoft Office","Resilience, Teamwork",2
+659,20,Female,Mtwara,Diploma,Hospitality,1,3,Medium,Basic,Self-employed,ICT,Office,"Digital marketing, Accounting","Communication, Critical thinking, Time management",0
+660,23,Male,Songwe,Higher Diploma,Finance,5,5,Low,Intermediate,Unemployed,Transport,Remote,"Teaching support, Database management","Resilience, Critical thinking",1
+661,25,Female,Rukwa,Bachelor,Hospitality,5,8,Medium,Advanced,Informal work,Manufacturing,Remote,"Quality control, Customer service","Adaptability, Critical thinking, Time management",0
+662,19,Female,Songwe,Bachelor,Health,1,1,High,Basic,Informal work,Manufacturing,Remote,"Customer service, Database management","Critical thinking, Communication, Creativity",2
+663,20,Male,Lindi,Bachelor,Health,0,3,High,Basic,Full-time,Banking,Remote,"Social media management, Data analysis, Web development","Creativity, Customer focus, Leadership",3
+664,21,Male,Mara,Diploma,Finance,1,2,Medium,Intermediate,Internship,Agriculture,Field,"Logistics coordination, Accounting, Network support, Database management","Resilience, Problem solving",1
+665,27,Male,Ruvuma,No formal qualification,Finance,4,5,Medium,Basic,Part-time,Construction,Office,"Accounting, Web development, Database management","Teamwork, Creativity",0
+666,26,Female,Geita,Bachelor,Finance,4,8,Low,Intermediate,Part-time,Manufacturing,Field,"Digital marketing, Network support","Teamwork, Creativity, Leadership",1
+667,18,Female,Kilimanjaro,Vocational/Technical,Logistics,0,0,Low,Basic,Self-employed,Construction,Remote,"Customer service, Teaching support, Food preparation","Resilience, Adaptability",0
+668,18,Male,Mara,Bachelor,Business,1,1,Medium,Intermediate,Full-time,Tourism,Field,"Food preparation, Network support, Teaching support, Project management","Time management, Critical thinking, Creativity",1
+669,19,Male,Mwanza,Higher Diploma,Hospitality,0,2,Low,Intermediate,Self-employed,Transport,Office,"Accounting, Sales, Customer service, Database management","Resilience, Time management",1
+670,29,Male,Tabora,Secondary,Hospitality,6,9,High,Advanced,Self-employed,Healthcare,Remote,"Quality control, Microsoft Office, Digital marketing","Problem solving, Time management, Leadership",3
+671,19,Male,Tabora,Bachelor,Information Technology,0,1,Medium,Basic,Full-time,Construction,Customer-facing,"Food preparation, Inventory management","Teamwork, Leadership, Creativity",2
+672,23,Female,Ruvuma,No formal qualification,Education,0,6,Medium,Intermediate,Internship,Education,Field,"Mechanical maintenance, Teaching support, Data analysis, Quality control","Creativity, Problem solving",0
+673,24,Male,Mara,Secondary,Health,1,5,High,Intermediate,Internship,Construction,Office,"Mechanical maintenance, Project management","Adaptability, Customer focus, Creativity",3
+674,20,Male,Zanzibar Urban/West,Diploma,Hospitality,0,2,Low,Basic,Full-time,Banking,Remote,"Data analysis, Inventory management","Communication, Creativity",1
+675,18,Male,Zanzibar Urban/West,Bachelor,Finance,0,0,High,Basic,Unemployed,Agriculture,Customer-facing,"Mechanical maintenance, Web development, Teaching support, Inventory management","Resilience, Communication",2
+676,21,Male,Singida,Bachelor,Business,0,0,Medium,Intermediate,Self-employed,Manufacturing,Office,"Teaching support, Microsoft Office","Resilience, Leadership, Critical thinking",2
+677,25,Female,Katavi,Higher Diploma,Arts,3,7,Low,Basic,Self-employed,Healthcare,Remote,"Digital marketing, Accounting, Inventory management, Logistics coordination","Leadership, Adaptability, Time management",1
+678,24,Male,Manyara,Vocational/Technical,Hospitality,3,6,Medium,Basic,Self-employed,Manufacturing,Customer-facing,"Quality control, Network support, English communication, Teaching support","Communication, Leadership, Customer focus",1
+679,23,Male,Pemba South,Higher Diploma,Arts,2,2,High,Basic,Informal work,Tourism,Field,"Logistics coordination, Programming (Python), Social media management","Leadership, Creativity",2
+680,19,Female,Kagera,Higher Diploma,Education,0,0,Medium,Basic,Unemployed,Education,Remote,"Network support, Graphic design","Time management, Communication",3
+681,24,Male,Zanzibar South,Bachelor,Health,0,0,High,Basic,Full-time,Tourism,Customer-facing,"Project management, Social media management","Critical thinking, Customer focus",1
+682,21,Female,Singida,Vocational/Technical,Education,0,0,High,Intermediate,Self-employed,Education,Remote,"Sales, Teaching support, Mechanical maintenance, Quality control","Teamwork, Leadership",1
+683,23,Male,Dar es Salaam,Bachelor,Education,0,2,Low,Intermediate,Informal work,Education,Remote,"Quality control, Graphic design, Microsoft Office, Inventory management","Resilience, Customer focus",0
+684,25,Female,Songwe,Higher Diploma,Finance,0,1,Medium,Intermediate,Internship,Healthcare,Remote,"Inventory management, Graphic design, Food preparation, Accounting","Customer focus, Communication",3
+685,25,Male,Rukwa,Vocational/Technical,Information Technology,0,0,Medium,Advanced,Part-time,Education,Field,"Graphic design, Accounting, Web development, Data analysis","Problem solving, Adaptability, Time management",1
+686,22,Male,Zanzibar South,Higher Diploma,Education,0,5,Medium,Intermediate,Full-time,Agriculture,Customer-facing,"Programming (Python), Microsoft Office, Sales","Communication, Critical thinking",0
+687,23,Female,Njombe,Vocational/Technical,Engineering,0,5,Medium,Basic,Full-time,Healthcare,Office,"Teaching support, Network support, Web development","Resilience, Time management",1
+688,22,Male,Morogoro,Secondary,Engineering,0,2,High,Intermediate,Self-employed,Tourism,Customer-facing,"Database management, Data analysis","Time management, Teamwork, Communication",1
+689,24,Male,Songwe,Bachelor,Hospitality,3,6,Medium,Intermediate,Informal work,Healthcare,Customer-facing,"Accounting, Network support, Microsoft Office","Adaptability, Customer focus",2
+690,21,Male,Singida,Vocational/Technical,Education,3,3,Medium,Basic,Part-time,Healthcare,Remote,"Web development, English communication, Social media management, Programming (Python)","Adaptability, Creativity",1
+691,26,Male,Katavi,Bachelor,Health,0,0,Medium,Intermediate,Unemployed,ICT,Field,"Network support, Food preparation, Graphic design, Microsoft Office","Creativity, Resilience, Adaptability",2
+692,22,Male,Kigoma,Vocational/Technical,Finance,4,4,Medium,Advanced,Full-time,Manufacturing,Remote,"Data analysis, Programming (Python)","Problem solving, Creativity, Leadership",1
+693,24,Female,Tabora,Bachelor,Finance,7,7,Medium,Basic,Unemployed,Transport,Field,"Mechanical maintenance, Social media management","Leadership, Critical thinking",0
+694,21,Male,Mwanza,Diploma,Logistics,0,1,Medium,Basic,Part-time,Trade,Field,"Quality control, Network support, Teaching support","Communication, Creativity",3
+695,29,Female,Arusha,No formal qualification,Hospitality,0,5,Low,Basic,Self-employed,Construction,Office,"Sales, Graphic design","Time management, Problem solving, Creativity",2
+696,22,Female,Mara,Bachelor,Logistics,1,3,Medium,Basic,Part-time,Transport,Remote,"Accounting, Mechanical maintenance, Programming (Python)","Time management, Customer focus",1
+697,22,Female,Tabora,No formal qualification,Education,0,5,Medium,Basic,Informal work,ICT,Remote,"Food preparation, Data analysis, English communication, Network support","Resilience, Critical thinking",1
+698,29,Male,Zanzibar Urban/West,Vocational/Technical,Agriculture,6,8,Medium,Basic,Informal work,Construction,Field,"English communication, Project management, Digital marketing","Problem solving, Creativity, Customer focus",0
+699,23,Male,Kigoma,Higher Diploma,Agriculture,1,4,Low,Advanced,Self-employed,Trade,Customer-facing,"Digital marketing, Microsoft Office, Web development, Accounting","Customer focus, Problem solving",0
+700,25,Male,Mwanza,Higher Diploma,Engineering,0,1,Medium,Intermediate,Unemployed,Manufacturing,Office,"Inventory management, Graphic design, Quality control","Resilience, Teamwork",1
+701,22,Female,Shinyanga,Bachelor,Education,0,2,Low,Intermediate,Unemployed,Manufacturing,Remote,"Mechanical maintenance, Accounting","Teamwork, Critical thinking",2
+702,23,Male,Shinyanga,Secondary,Education,0,2,Medium,Advanced,Internship,Transport,Remote,"Project management, English communication, Mechanical maintenance, Digital marketing","Problem solving, Resilience",1
+703,27,Female,Rukwa,Diploma,Arts,0,0,Medium,Intermediate,Informal work,ICT,Remote,"Project management, Accounting, Web development, Database management","Creativity, Resilience, Time management",2
+704,25,Male,Zanzibar Urban/West,Vocational/Technical,Information Technology,0,2,Medium,Intermediate,Informal work,Banking,Office,"Web development, Teaching support, Microsoft Office","Critical thinking, Customer focus",3
+705,19,Male,Njombe,Higher Diploma,Education,0,1,Medium,Advanced,Informal work,Agriculture,Field,"Sales, Data analysis","Resilience, Teamwork, Time management",1
+706,27,Female,Iringa,Higher Diploma,Arts,4,8,High,Intermediate,Internship,Tourism,Office,"Quality control, Programming (Python)","Problem solving, Customer focus, Creativity",2
+707,20,Female,Dodoma,Vocational/Technical,Logistics,0,3,Low,Intermediate,Unemployed,Construction,Office,"Sales, Microsoft Office, Inventory management, English communication","Creativity, Teamwork, Customer focus",1
+708,23,Male,Tabora,Secondary,Hospitality,1,3,High,Basic,Unemployed,Banking,Office,"Logistics coordination, Accounting, Food preparation","Teamwork, Creativity",2
+709,19,Male,Zanzibar Urban/West,Vocational/Technical,Finance,1,2,Low,Basic,Informal work,Tourism,Field,"Accounting, Digital marketing, Inventory management, Quality control","Customer focus, Time management, Problem solving",1
+710,20,Male,Pemba South,Diploma,Hospitality,0,2,Medium,Basic,Self-employed,Banking,Office,"Microsoft Office, Project management, Accounting, Quality control","Customer focus, Leadership, Adaptability",2
+711,21,Female,Katavi,Higher Diploma,Engineering,1,1,High,Intermediate,Internship,Trade,Customer-facing,"Graphic design, Microsoft Office, English communication","Communication, Critical thinking",0
+712,22,Male,Geita,Secondary,Logistics,1,3,Medium,Intermediate,Self-employed,Construction,Office,"Graphic design, Web development, English communication","Customer focus, Teamwork",1
+713,25,Male,Njombe,Vocational/Technical,Agriculture,5,5,Medium,Basic,Part-time,Banking,Office,"Accounting, Programming (Python)","Creativity, Communication, Leadership",2
+714,20,Female,Simiyu,Bachelor,Education,0,1,High,Basic,Internship,Manufacturing,Customer-facing,"Accounting, Digital marketing, Social media management","Problem solving, Resilience, Critical thinking",1
+715,22,Male,Katavi,Higher Diploma,Arts,1,1,High,Intermediate,Informal work,Education,Field,"Logistics coordination, Data analysis","Adaptability, Resilience",0
+716,20,Male,Kilimanjaro,Bachelor,Hospitality,1,1,Medium,Intermediate,Full-time,Trade,Customer-facing,"Data analysis, Social media management, Logistics coordination","Communication, Adaptability",1
+717,20,Female,Pemba North,Higher Diploma,Finance,2,2,Low,Basic,Unemployed,Transport,Remote,"Teaching support, English communication, Project management, Database management","Teamwork, Adaptability, Time management",1
+718,23,Male,Kigoma,Secondary,Hospitality,2,5,Medium,Intermediate,Informal work,Transport,Office,"Mechanical maintenance, Sales","Critical thinking, Problem solving",2
+719,23,Male,Njombe,Diploma,Education,1,1,Medium,Basic,Full-time,ICT,Customer-facing,"Inventory management, Data analysis","Communication, Adaptability, Teamwork",2
+720,21,Female,Pemba South,Diploma,Logistics,3,3,Medium,Basic,Part-time,Transport,Customer-facing,"Customer service, Digital marketing, Sales, Data analysis","Customer focus, Communication",2
+721,22,Female,Iringa,No formal qualification,Finance,0,1,High,Basic,Unemployed,Tourism,Customer-facing,"Project management, Social media management","Time management, Communication",3
+722,26,Female,Lindi,Secondary,Logistics,0,3,Low,Intermediate,Full-time,Trade,Office,"Data analysis, Sales","Adaptability, Resilience",2
+723,22,Female,Kigoma,Diploma,Finance,0,1,High,Intermediate,Self-employed,Healthcare,Office,"Social media management, Mechanical maintenance, Data analysis","Problem solving, Time management",2
+724,20,Male,Mbeya,Higher Diploma,Information Technology,0,2,High,Intermediate,Self-employed,Trade,Office,"Quality control, Customer service, Programming (Python), English communication","Problem solving, Creativity, Resilience",2
+725,22,Male,Mara,Vocational/Technical,Information Technology,2,5,Medium,Intermediate,Unemployed,Banking,Customer-facing,"Quality control, Logistics coordination","Creativity, Critical thinking, Problem solving",2
+726,20,Male,Pwani,No formal qualification,Agriculture,1,3,Low,Basic,Informal work,Agriculture,Customer-facing,"Mechanical maintenance, Food preparation, Microsoft Office, Graphic design","Problem solving, Critical thinking, Customer focus",3
+727,21,Female,Iringa,Secondary,Arts,0,1,Medium,Intermediate,Part-time,Banking,Customer-facing,"Network support, Inventory management, Teaching support, Customer service","Critical thinking, Problem solving, Adaptability",2
+728,22,Female,Geita,Diploma,Arts,0,4,Medium,Advanced,Full-time,Construction,Field,"English communication, Graphic design, Logistics coordination","Adaptability, Communication",0
+729,25,Female,Simiyu,Higher Diploma,Hospitality,3,4,Low,Intermediate,Unemployed,Tourism,Remote,"Teaching support, English communication, Accounting, Network support","Adaptability, Time management, Critical thinking",2
+730,27,Male,Njombe,No formal qualification,Finance,0,7,Medium,Intermediate,Unemployed,Healthcare,Office,"Sales, Social media management, Database management, Quality control","Critical thinking, Communication",3
+731,22,Male,Ruvuma,Diploma,Logistics,5,5,Low,Intermediate,Internship,Education,Office,"Accounting, English communication","Adaptability, Critical thinking, Problem solving",0
+732,23,Male,Manyara,Bachelor,Hospitality,0,3,Medium,Intermediate,Full-time,Tourism,Remote,"Food preparation, Sales, Inventory management","Teamwork, Resilience, Time management",2
+733,22,Female,Zanzibar Urban/West,Higher Diploma,Agriculture,0,0,Medium,Basic,Part-time,Agriculture,Office,"English communication, Mechanical maintenance","Creativity, Resilience",1
+734,24,Female,Mtwara,Higher Diploma,Business,0,2,Medium,Advanced,Full-time,Healthcare,Office,"Social media management, Data analysis, Inventory management","Leadership, Problem solving, Critical thinking",1
+735,23,Female,Rukwa,Higher Diploma,Finance,2,5,Medium,Intermediate,Unemployed,Agriculture,Remote,"Mechanical maintenance, Digital marketing","Adaptability, Resilience",2
+736,22,Female,Ruvuma,Secondary,Business,1,5,Medium,Basic,Self-employed,Education,Field,"Microsoft Office, Network support, Data analysis","Communication, Leadership, Customer focus",0
+737,29,Male,Songwe,Higher Diploma,Agriculture,3,3,Low,Basic,Part-time,Healthcare,Field,"Mechanical maintenance, Network support","Teamwork, Customer focus",2
+738,23,Female,Morogoro,Secondary,Health,0,0,High,Intermediate,Informal work,Banking,Field,"Social media management, Programming (Python), Teaching support","Creativity, Critical thinking",0
+739,19,Male,Tabora,Diploma,Engineering,0,0,Medium,Intermediate,Informal work,Agriculture,Field,"Inventory management, English communication, Quality control, Digital marketing","Customer focus, Communication, Critical thinking",0
+740,20,Male,Tabora,Diploma,Health,0,0,High,Basic,Full-time,Banking,Customer-facing,"Teaching support, Accounting, English communication, Quality control","Critical thinking, Leadership, Teamwork",1
+741,26,Female,Lindi,No formal qualification,Finance,1,1,Medium,Advanced,Informal work,ICT,Field,"Accounting, Customer service, Graphic design","Time management, Adaptability, Creativity",1
+742,22,Female,Simiyu,No formal qualification,Arts,5,5,High,Intermediate,Internship,Construction,Field,"Database management, Logistics coordination, Food preparation, Accounting","Resilience, Leadership",0
+743,24,Male,Zanzibar Urban/West,Bachelor,Finance,2,2,Low,Intermediate,Part-time,Construction,Office,"Accounting, Microsoft Office, Project management, Digital marketing","Problem solving, Critical thinking, Leadership",0
+744,28,Male,Dar es Salaam,Bachelor,Agriculture,4,7,Medium,Intermediate,Unemployed,Tourism,Office,"Sales, Quality control, Social media management, Network support","Problem solving, Teamwork, Leadership",0
+745,22,Female,Pemba South,Vocational/Technical,Business,0,0,High,Advanced,Full-time,Trade,Remote,"Teaching support, Project management, English communication","Adaptability, Customer focus, Leadership",2
+746,26,Male,Geita,Vocational/Technical,Arts,1,3,High,Intermediate,Internship,Agriculture,Office,"Logistics coordination, Data analysis","Problem solving, Time management",2
+747,24,Female,Mwanza,Secondary,Engineering,0,2,Low,Basic,Self-employed,Construction,Office,"Teaching support, Network support, Web development, Graphic design","Problem solving, Customer focus",1
+748,21,Male,Shinyanga,Diploma,Education,3,3,High,Intermediate,Unemployed,Healthcare,Office,"Accounting, Teaching support, Data analysis, Quality control","Resilience, Adaptability, Creativity",0
+749,24,Female,Mbeya,Vocational/Technical,Education,3,5,High,Intermediate,Informal work,Tourism,Office,"Food preparation, Customer service","Resilience, Communication",1
+750,25,Male,Songwe,Higher Diploma,Logistics,5,6,Medium,Intermediate,Part-time,Banking,Field,"Database management, Project management, Quality control","Teamwork, Adaptability",2
+751,26,Male,Pwani,Diploma,Agriculture,0,1,High,Intermediate,Self-employed,Manufacturing,Customer-facing,"Microsoft Office, English communication, Teaching support","Time management, Teamwork, Adaptability",1
+752,23,Male,Lindi,Vocational/Technical,Engineering,0,0,Medium,Intermediate,Informal work,Agriculture,Customer-facing,"Quality control, Social media management, Mechanical maintenance, Customer service","Adaptability, Problem solving",0
+753,18,Female,Iringa,Secondary,Engineering,0,1,High,Advanced,Unemployed,Trade,Customer-facing,"Project management, Inventory management","Leadership, Customer focus",3
+754,22,Male,Dodoma,Higher Diploma,Education,0,1,High,Intermediate,Unemployed,Construction,Office,"Web development, Mechanical maintenance","Adaptability, Teamwork",2
+755,25,Male,Kigoma,Secondary,Agriculture,6,7,Medium,Intermediate,Informal work,Healthcare,Customer-facing,"Food preparation, Network support, Project management, Inventory management","Teamwork, Leadership, Resilience",0
+756,25,Male,Mwanza,No formal qualification,Hospitality,2,5,High,Advanced,Part-time,Construction,Customer-facing,"Accounting, Quality control","Communication, Adaptability",1
+757,24,Male,Kilimanjaro,No formal qualification,Engineering,3,4,High,Basic,Unemployed,Healthcare,Customer-facing,"Network support, Web development, Food preparation","Adaptability, Resilience, Teamwork",1
+758,18,Male,Manyara,Bachelor,Business,0,0,Medium,Intermediate,Informal work,Tourism,Remote,"English communication, Database management, Inventory management, Quality control","Resilience, Problem solving",1
+759,27,Male,Pemba North,Higher Diploma,Health,4,8,High,Intermediate,Full-time,Banking,Remote,"Network support, Accounting, Web development","Customer focus, Creativity, Time management",1
+760,29,Male,Dodoma,Diploma,Hospitality,6,6,Medium,Intermediate,Full-time,ICT,Remote,"Network support, Accounting","Time management, Teamwork, Leadership",2
+761,21,Male,Lindi,Higher Diploma,Health,0,2,Low,Basic,Full-time,Tourism,Field,"Logistics coordination, Food preparation, Project management","Communication, Problem solving",0
+762,25,Female,Pwani,Diploma,Engineering,3,3,Low,Basic,Full-time,Manufacturing,Remote,"Web development, Accounting, Database management, Quality control","Customer focus, Leadership, Creativity",2
+763,20,Female,Geita,No formal qualification,Engineering,2,2,Low,Basic,Internship,Tourism,Office,"Accounting, Inventory management, English communication","Critical thinking, Communication, Time management",2
+764,18,Male,Katavi,Secondary,Information Technology,0,0,Medium,Basic,Self-employed,Transport,Customer-facing,"Network support, Social media management, Accounting","Problem solving, Adaptability, Teamwork",2
+765,24,Male,Manyara,Secondary,Arts,1,6,Medium,Advanced,Unemployed,Banking,Remote,"Customer service, Quality control, Food preparation","Customer focus, Adaptability, Critical thinking",1
+766,23,Male,Pemba South,No formal qualification,Engineering,1,1,High,Basic,Unemployed,Manufacturing,Remote,"Digital marketing, Data analysis","Leadership, Critical thinking",1
+767,23,Male,Zanzibar South,Higher Diploma,Arts,1,1,Low,Intermediate,Full-time,Banking,Remote,"Mechanical maintenance, English communication","Problem solving, Communication, Customer focus",3
+768,23,Male,Tabora,Diploma,Finance,3,3,High,Intermediate,Full-time,Transport,Remote,"English communication, Microsoft Office, Digital marketing, Web development","Teamwork, Leadership, Problem solving",1
+769,28,Male,Dar es Salaam,Diploma,Agriculture,7,7,Medium,Intermediate,Unemployed,Tourism,Office,"English communication, Accounting","Adaptability, Resilience",0
+770,24,Female,Pemba South,Higher Diploma,Arts,0,1,High,Intermediate,Self-employed,Manufacturing,Customer-facing,"Accounting, Food preparation, Customer service","Critical thinking, Customer focus, Problem solving",3
+771,26,Female,Singida,Vocational/Technical,Information Technology,1,6,Medium,Basic,Informal work,Construction,Office,"Quality control, Web development","Creativity, Resilience, Teamwork",2
+772,21,Female,Pemba South,Bachelor,Arts,1,4,High,Intermediate,Informal work,Tourism,Remote,"Accounting, Microsoft Office, Programming (Python)","Adaptability, Leadership",2
+773,22,Female,Pemba North,Diploma,Business,2,5,Medium,Advanced,Unemployed,Trade,Remote,"Inventory management, Graphic design, Food preparation","Creativity, Leadership",1
+774,20,Female,Pemba South,Bachelor,Health,1,1,Low,Intermediate,Self-employed,ICT,Customer-facing,"Web development, Programming (Python), English communication, Accounting","Critical thinking, Problem solving",1
+775,26,Female,Kilimanjaro,Vocational/Technical,Education,4,5,High,Basic,Informal work,Trade,Field,"Food preparation, Project management, Network support, Teaching support","Leadership, Adaptability",0
+776,21,Female,Katavi,Higher Diploma,Agriculture,0,0,Low,Basic,Internship,Transport,Office,"Inventory management, English communication","Resilience, Adaptability",1
+777,27,Female,Mtwara,Secondary,Engineering,1,5,Medium,Basic,Full-time,Manufacturing,Customer-facing,"Customer service, Quality control, Data analysis, Sales","Time management, Teamwork",2
+778,18,Female,Kagera,Bachelor,Agriculture,0,0,Medium,Intermediate,Unemployed,Transport,Remote,"Microsoft Office, Sales","Adaptability, Problem solving",2
+779,23,Female,Tanga,Secondary,Logistics,6,6,Medium,Intermediate,Part-time,ICT,Customer-facing,"Database management, Digital marketing","Teamwork, Critical thinking, Adaptability",1
+780,20,Male,Shinyanga,Bachelor,Health,0,0,High,Basic,Full-time,Transport,Field,"Database management, Data analysis, Accounting","Critical thinking, Problem solving, Customer focus",1
+781,24,Female,Simiyu,Higher Diploma,Information Technology,3,3,Medium,Intermediate,Unemployed,Banking,Field,"Programming (Python), Web development","Communication, Creativity",0
+782,18,Female,Kilimanjaro,Secondary,Finance,0,0,Low,Basic,Informal work,ICT,Remote,"Microsoft Office, Quality control, Food preparation, Accounting","Customer focus, Communication",2
+783,20,Female,Tanga,Higher Diploma,Finance,0,0,Low,Intermediate,Informal work,Construction,Office,"Project management, Accounting","Problem solving, Leadership, Creativity",0
+784,22,Male,Kilimanjaro,Secondary,Logistics,0,0,Medium,Intermediate,Informal work,Transport,Remote,"Sales, Teaching support, Project management","Creativity, Problem solving, Teamwork",1
+785,22,Male,Iringa,Secondary,Agriculture,0,4,Low,Intermediate,Full-time,Transport,Customer-facing,"English communication, Sales, Network support, Programming (Python)","Critical thinking, Problem solving, Creativity",1
+786,28,Male,Simiyu,Higher Diploma,Logistics,0,9,High,Intermediate,Part-time,Banking,Office,"Sales, Project management, Mechanical maintenance, Customer service","Creativity, Teamwork",1
+787,19,Female,Kigoma,Higher Diploma,Business,2,2,Medium,Advanced,Self-employed,Transport,Customer-facing,"Graphic design, Quality control, Logistics coordination, Customer service","Critical thinking, Adaptability",2
+788,24,Female,Tabora,Vocational/Technical,Engineering,1,2,Low,Intermediate,Full-time,Construction,Field,"Sales, Social media management, Project management, Quality control","Problem solving, Critical thinking",1
+789,18,Male,Zanzibar South,No formal qualification,Logistics,0,0,Medium,Basic,Unemployed,Trade,Remote,"Network support, Microsoft Office, Graphic design, Project management","Customer focus, Communication",2
+790,21,Female,Kigoma,Secondary,Arts,0,2,Medium,Basic,Full-time,Manufacturing,Customer-facing,"Social media management, Network support, Inventory management","Resilience, Adaptability, Teamwork",1
+791,18,Male,Njombe,Secondary,Business,0,1,Medium,Basic,Internship,Trade,Office,"English communication, Graphic design, Social media management, Sales","Teamwork, Time management, Leadership",0
+792,23,Male,Simiyu,Higher Diploma,Health,2,3,Medium,Basic,Unemployed,Construction,Office,"Project management, Mechanical maintenance, Quality control","Resilience, Teamwork",0
+793,18,Female,Lindi,Secondary,Arts,0,0,High,Intermediate,Unemployed,Manufacturing,Customer-facing,"Inventory management, English communication, Network support, Data analysis","Customer focus, Problem solving",1
+794,28,Male,Geita,Diploma,Finance,8,8,Low,Intermediate,Informal work,Trade,Field,"Accounting, Logistics coordination","Customer focus, Creativity, Communication",1
+795,22,Female,Mbeya,Diploma,Health,2,2,High,Intermediate,Informal work,ICT,Customer-facing,"Network support, Quality control","Adaptability, Creativity",0
+796,20,Male,Geita,Diploma,Business,1,2,High,Advanced,Self-employed,Manufacturing,Remote,"Microsoft Office, Customer service, Social media management, Programming (Python)","Resilience, Critical thinking",1
+797,22,Male,Zanzibar Urban/West,Diploma,Finance,1,1,High,Basic,Informal work,Tourism,Remote,"Food preparation, Web development, Graphic design","Creativity, Adaptability",2
+798,24,Female,Arusha,Diploma,Education,0,3,Medium,Basic,Self-employed,Trade,Office,"Social media management, Accounting","Problem solving, Leadership",1
+799,21,Male,Kigoma,Diploma,Engineering,1,4,High,Basic,Full-time,Trade,Customer-facing,"Mechanical maintenance, Teaching support","Communication, Teamwork",1
+800,18,Female,Dar es Salaam,Vocational/Technical,Business,0,0,High,Basic,Self-employed,Education,Customer-facing,"English communication, Social media management, Microsoft Office, Digital marketing","Resilience, Critical thinking",0
+801,25,Female,Kagera,Secondary,Hospitality,0,1,High,Basic,Self-employed,Education,Field,"Inventory management, Logistics coordination, Teaching support","Resilience, Teamwork, Adaptability",3
+802,28,Male,Tanga,Bachelor,Business,4,7,Medium,Intermediate,Informal work,Trade,Field,"English communication, Network support, Logistics coordination","Problem solving, Customer focus, Teamwork",3
+803,24,Female,Pwani,Secondary,Business,0,2,Medium,Intermediate,Unemployed,Agriculture,Field,"Inventory management, Logistics coordination","Adaptability, Leadership",1
+804,23,Male,Tanga,Higher Diploma,Information Technology,1,2,Medium,Advanced,Self-employed,Healthcare,Field,"Customer service, Digital marketing","Customer focus, Resilience",0
+805,19,Male,Mwanza,Bachelor,Business,0,1,High,Basic,Self-employed,Trade,Remote,"Accounting, Mechanical maintenance","Problem solving, Adaptability",1
+806,24,Female,Pwani,No formal qualification,Agriculture,0,0,Medium,Advanced,Unemployed,Manufacturing,Customer-facing,"Project management, Mechanical maintenance, Digital marketing","Customer focus, Leadership",1
+807,26,Female,Dodoma,Vocational/Technical,Information Technology,0,9,Medium,Intermediate,Part-time,Healthcare,Remote,"Teaching support, Programming (Python)","Time management, Adaptability",1
+808,27,Female,Tanga,Diploma,Logistics,4,4,High,Intermediate,Self-employed,Tourism,Field,"Inventory management, Customer service, Accounting","Communication, Creativity, Time management",2
+809,22,Male,Pemba South,Secondary,Agriculture,1,3,High,Intermediate,Full-time,Healthcare,Customer-facing,"Teaching support, Inventory management","Teamwork, Problem solving",0
+810,23,Male,Pwani,Bachelor,Agriculture,2,2,High,Intermediate,Full-time,Trade,Customer-facing,"Project management, Mechanical maintenance, Logistics coordination, Quality control","Adaptability, Leadership, Customer focus",1
+811,21,Female,Kigoma,Diploma,Agriculture,1,1,Medium,Basic,Self-employed,ICT,Customer-facing,"English communication, Mechanical maintenance, Data analysis","Critical thinking, Teamwork",1
+812,24,Female,Mara,Vocational/Technical,Business,0,4,Medium,Basic,Part-time,Tourism,Field,"Database management, English communication, Programming (Python)","Critical thinking, Adaptability",2
+813,22,Male,Zanzibar South,Bachelor,Finance,0,5,Medium,Intermediate,Unemployed,Construction,Customer-facing,"Food preparation, Inventory management, Teaching support, Data analysis","Problem solving, Creativity",1
+814,21,Female,Kigoma,Vocational/Technical,Business,1,1,Medium,Intermediate,Full-time,Banking,Remote,"Programming (Python), English communication, Customer service","Adaptability, Customer focus",3
+815,23,Male,Njombe,Diploma,Arts,1,3,Low,Advanced,Self-employed,ICT,Office,"Web development, Sales, Logistics coordination, Programming (Python)","Adaptability, Problem solving",2
+816,25,Male,Arusha,Higher Diploma,Engineering,1,5,High,Intermediate,Self-employed,Manufacturing,Remote,"Inventory management, Quality control, Accounting, Network support","Resilience, Leadership",2
+817,23,Male,Tanga,Diploma,Education,0,4,Medium,Intermediate,Full-time,ICT,Remote,"Network support, Accounting","Resilience, Time management, Leadership",2
+818,24,Female,Pwani,Bachelor,Health,3,3,Medium,Intermediate,Self-employed,Trade,Remote,"Teaching support, Digital marketing, Sales","Problem solving, Leadership, Time management",1
+819,23,Female,Pemba South,Higher Diploma,Logistics,1,3,High,Intermediate,Informal work,ICT,Field,"Customer service, Web development","Creativity, Customer focus, Critical thinking",0
+820,24,Male,Mtwara,Diploma,Logistics,1,4,Medium,Intermediate,Internship,Banking,Remote,"Customer service, Quality control, Network support","Critical thinking, Communication, Problem solving",0
+821,29,Female,Pemba North,Bachelor,Information Technology,0,0,Medium,Intermediate,Full-time,Trade,Office,"Web development, Digital marketing","Adaptability, Problem solving, Teamwork",2
+822,20,Male,Zanzibar Urban/West,Vocational/Technical,Business,1,3,Medium,Basic,Full-time,Healthcare,Office,"Microsoft Office, Graphic design, Inventory management, Project management","Communication, Problem solving, Adaptability",1
+823,28,Female,Mwanza,Vocational/Technical,Logistics,3,3,Low,Advanced,Internship,Transport,Field,"Programming (Python), Graphic design, Customer service","Customer focus, Problem solving, Communication",0
+824,23,Female,Songwe,No formal qualification,Finance,0,0,Low,Intermediate,Self-employed,Construction,Customer-facing,"Mechanical maintenance, Data analysis, Web development, Project management","Critical thinking, Customer focus",2
+825,25,Female,Ruvuma,Diploma,Hospitality,1,7,Low,Basic,Full-time,Banking,Office,"Food preparation, Customer service, Microsoft Office, Accounting","Time management, Communication",2
+826,19,Female,Iringa,Diploma,Education,0,0,Low,Basic,Informal work,Education,Customer-facing,"Social media management, Network support","Critical thinking, Communication",3
+827,21,Female,Zanzibar South,Secondary,Logistics,0,0,High,Basic,Full-time,Education,Field,"Teaching support, Database management, Customer service","Leadership, Communication",2
+828,21,Female,Dodoma,Bachelor,Business,0,3,Low,Advanced,Full-time,Tourism,Customer-facing,"Logistics coordination, Microsoft Office","Customer focus, Creativity, Teamwork",1
+829,21,Male,Ruvuma,Secondary,Finance,0,0,High,Intermediate,Part-time,Agriculture,Field,"Accounting, Food preparation, Teaching support, Sales","Adaptability, Time management, Critical thinking",1
+830,25,Female,Pwani,Bachelor,Arts,0,4,Low,Advanced,Self-employed,Education,Remote,"Inventory management, Social media management","Critical thinking, Problem solving, Communication",0
+831,27,Male,Songwe,Diploma,Hospitality,0,5,High,Basic,Full-time,ICT,Customer-facing,"English communication, Digital marketing","Communication, Resilience, Critical thinking",2
+832,25,Female,Pemba North,Bachelor,Engineering,5,6,High,Intermediate,Unemployed,Construction,Customer-facing,"Quality control, Web development","Customer focus, Time management, Critical thinking",0
+833,22,Male,Kigoma,Secondary,Arts,0,1,Medium,Intermediate,Self-employed,Healthcare,Office,"Programming (Python), Mechanical maintenance, Digital marketing","Communication, Critical thinking, Time management",0
+834,18,Male,Singida,Secondary,Agriculture,0,0,Low,Basic,Internship,Agriculture,Field,"Network support, Sales, Web development","Resilience, Communication",1
+835,24,Female,Manyara,Vocational/Technical,Finance,3,3,High,Intermediate,Full-time,Agriculture,Office,"Logistics coordination, Food preparation, Database management","Problem solving, Adaptability, Leadership",1
+836,24,Female,Zanzibar South,No formal qualification,Agriculture,2,2,Medium,Basic,Part-time,Transport,Remote,"Social media management, Project management","Communication, Adaptability, Resilience",1
+837,20,Female,Kagera,Bachelor,Hospitality,3,3,Medium,Basic,Unemployed,Trade,Field,"Digital marketing, Quality control, Logistics coordination, Mechanical maintenance","Adaptability, Time management",1
+838,25,Female,Tanga,Secondary,Logistics,7,7,High,Intermediate,Informal work,Transport,Field,"Inventory management, Mechanical maintenance","Critical thinking, Communication, Creativity",1
+839,19,Female,Rukwa,Secondary,Engineering,1,2,Medium,Advanced,Self-employed,Healthcare,Remote,"Quality control, Customer service, Network support","Communication, Creativity",2
+840,23,Male,Pwani,Higher Diploma,Engineering,1,6,High,Intermediate,Unemployed,Agriculture,Remote,"Database management, Data analysis, Accounting","Problem solving, Time management, Critical thinking",1
+841,26,Male,Songwe,Vocational/Technical,Information Technology,3,6,Low,Advanced,Full-time,Transport,Customer-facing,"Social media management, Logistics coordination","Leadership, Communication, Teamwork",0
+842,25,Female,Zanzibar Urban/West,Diploma,Logistics,3,3,Low,Intermediate,Full-time,Transport,Customer-facing,"Microsoft Office, English communication, Accounting, Inventory management","Problem solving, Time management",1
+843,22,Female,Njombe,Vocational/Technical,Hospitality,0,1,Low,Intermediate,Part-time,Education,Field,"Teaching support, Web development","Critical thinking, Problem solving, Leadership",2
+844,20,Female,Singida,Secondary,Business,1,3,Low,Intermediate,Part-time,Healthcare,Field,"Accounting, Inventory management","Resilience, Communication",2
+845,27,Male,Katavi,Diploma,Information Technology,2,3,High,Basic,Self-employed,Banking,Office,"Teaching support, Accounting, Web development","Communication, Problem solving",0
+846,23,Female,Zanzibar Urban/West,Bachelor,Education,1,2,High,Intermediate,Part-time,Tourism,Field,"Database management, English communication","Adaptability, Teamwork",2
+847,24,Male,Songwe,Bachelor,Arts,1,1,Medium,Basic,Full-time,Banking,Field,"Accounting, Quality control, Mechanical maintenance, Teaching support","Teamwork, Customer focus, Critical thinking",3
+848,21,Female,Katavi,Vocational/Technical,Health,2,4,High,Advanced,Informal work,Manufacturing,Office,"Database management, Data analysis, Quality control","Critical thinking, Leadership, Creativity",0
+849,23,Female,Ruvuma,Vocational/Technical,Arts,0,0,Medium,Intermediate,Informal work,Transport,Remote,"Quality control, Teaching support","Communication, Adaptability",1
+850,21,Female,Shinyanga,Vocational/Technical,Arts,0,0,Low,Basic,Unemployed,Banking,Customer-facing,"Sales, Accounting, Food preparation","Problem solving, Adaptability",2
+851,24,Female,Shinyanga,Bachelor,Business,0,1,Low,Intermediate,Unemployed,Trade,Customer-facing,"Sales, English communication","Communication, Creativity",0
+852,20,Female,Mtwara,Bachelor,Logistics,0,0,Medium,Intermediate,Informal work,Healthcare,Remote,"Database management, Microsoft Office, Customer service","Critical thinking, Teamwork, Leadership",3
+853,28,Female,Zanzibar Urban/West,No formal qualification,Hospitality,6,6,Low,Intermediate,Unemployed,Agriculture,Field,"Accounting, Inventory management, Teaching support","Leadership, Creativity, Critical thinking",3
+854,21,Female,Simiyu,Vocational/Technical,Arts,1,4,Medium,Intermediate,Self-employed,Manufacturing,Office,"Data analysis, Microsoft Office, Teaching support","Communication, Teamwork",2
+855,18,Female,Rukwa,Higher Diploma,Engineering,0,0,Medium,Advanced,Informal work,Manufacturing,Customer-facing,"Digital marketing, Graphic design, Data analysis","Creativity, Resilience, Communication",1
+856,20,Male,Tanga,Diploma,Logistics,1,2,High,Intermediate,Full-time,Tourism,Office,"Quality control, Customer service","Resilience, Customer focus, Time management",2
+857,27,Male,Simiyu,Bachelor,Finance,1,2,High,Advanced,Self-employed,Education,Field,"Logistics coordination, Sales, Microsoft Office, Graphic design","Teamwork, Adaptability",2
+858,27,Female,Pwani,No formal qualification,Agriculture,0,0,Medium,Advanced,Part-time,Tourism,Customer-facing,"Mechanical maintenance, Graphic design, Logistics coordination","Creativity, Communication, Teamwork",2
+859,22,Female,Morogoro,Higher Diploma,Business,1,2,Medium,Basic,Informal work,Transport,Customer-facing,"Microsoft Office, Network support, Teaching support","Creativity, Teamwork",2
+860,21,Male,Pemba South,Vocational/Technical,Hospitality,0,0,High,Advanced,Internship,Manufacturing,Office,"Digital marketing, Web development","Adaptability, Resilience",2
+861,19,Male,Kilimanjaro,Bachelor,Engineering,0,0,High,Basic,Informal work,ICT,Field,"Social media management, Mechanical maintenance, Sales, Teaching support","Customer focus, Problem solving, Time management",1
+862,18,Female,Kilimanjaro,Vocational/Technical,Logistics,0,1,Low,Advanced,Full-time,Banking,Customer-facing,"Social media management, Sales, Quality control","Resilience, Adaptability, Teamwork",2
+863,21,Female,Kilimanjaro,Vocational/Technical,Hospitality,0,3,High,Intermediate,Informal work,ICT,Office,"Mechanical maintenance, Food preparation","Resilience, Problem solving",0
+864,22,Female,Morogoro,Secondary,Logistics,3,4,Medium,Basic,Internship,Banking,Field,"Logistics coordination, Inventory management, Customer service, Microsoft Office","Communication, Problem solving",0
+865,21,Male,Kigoma,Bachelor,Logistics,2,2,Medium,Advanced,Full-time,Healthcare,Office,"Graphic design, Database management, Inventory management","Teamwork, Adaptability, Critical thinking",3
+866,22,Male,Simiyu,Vocational/Technical,Hospitality,0,2,Low,Intermediate,Internship,ICT,Customer-facing,"Web development, Digital marketing","Teamwork, Adaptability, Problem solving",0
+867,26,Male,Kigoma,Bachelor,Hospitality,5,5,High,Basic,Part-time,Transport,Field,"Teaching support, Graphic design","Customer focus, Critical thinking",3
+868,29,Male,Geita,Secondary,Agriculture,1,9,High,Basic,Self-employed,Agriculture,Remote,"Mechanical maintenance, Sales","Critical thinking, Resilience, Teamwork",0
+869,22,Female,Kigoma,Bachelor,Business,0,0,Medium,Basic,Self-employed,Banking,Office,"Graphic design, Teaching support","Time management, Adaptability",1
+870,24,Female,Simiyu,Higher Diploma,Business,1,2,Medium,Intermediate,Unemployed,Transport,Remote,"English communication, Mechanical maintenance","Problem solving, Time management",0
+871,25,Female,Zanzibar South,Higher Diploma,Logistics,1,5,High,Basic,Self-employed,ICT,Field,"Database management, Teaching support, Network support, Digital marketing","Adaptability, Creativity",0
+872,25,Male,Arusha,Diploma,Engineering,3,3,High,Basic,Part-time,Banking,Customer-facing,"Database management, Network support, English communication, Microsoft Office","Communication, Time management",3
+873,29,Male,Songwe,Secondary,Finance,4,5,High,Basic,Part-time,Trade,Field,"Teaching support, Programming (Python), Web development, Digital marketing","Critical thinking, Communication, Customer focus",1
+874,23,Female,Njombe,Secondary,Hospitality,0,0,Medium,Advanced,Self-employed,Trade,Field,"English communication, Programming (Python), Customer service, Food preparation","Communication, Creativity",3
+875,26,Female,Mwanza,Vocational/Technical,Education,4,4,High,Intermediate,Full-time,Banking,Customer-facing,"Social media management, Mechanical maintenance, Customer service","Resilience, Problem solving, Teamwork",2
+876,21,Male,Njombe,Higher Diploma,Engineering,0,0,Low,Intermediate,Part-time,Trade,Field,"Social media management, Logistics coordination","Problem solving, Resilience",1
+877,22,Male,Mwanza,Higher Diploma,Arts,0,0,Medium,Basic,Self-employed,Manufacturing,Customer-facing,"Programming (Python), Web development, Digital marketing, Graphic design","Critical thinking, Resilience",0
+878,23,Female,Mwanza,Vocational/Technical,Education,0,0,Medium,Intermediate,Unemployed,Construction,Field,"Mechanical maintenance, Sales, Graphic design","Communication, Critical thinking",1
+879,22,Male,Pwani,Secondary,Arts,0,1,Medium,Basic,Informal work,Education,Office,"Web development, Project management","Critical thinking, Customer focus, Teamwork",0
+880,19,Female,Singida,Bachelor,Health,1,2,High,Basic,Unemployed,Tourism,Office,"English communication, Accounting","Problem solving, Customer focus",0
+881,25,Male,Zanzibar Urban/West,Higher Diploma,Hospitality,4,4,High,Intermediate,Full-time,ICT,Customer-facing,"Data analysis, Accounting, Customer service, Digital marketing","Teamwork, Communication, Time management",2
+882,25,Female,Geita,Vocational/Technical,Education,6,7,Low,Intermediate,Part-time,Education,Remote,"Web development, Food preparation","Problem solving, Critical thinking, Leadership",2
+883,29,Female,Ruvuma,Higher Diploma,Hospitality,4,7,Low,Intermediate,Full-time,Education,Field,"Accounting, Social media management","Adaptability, Leadership",2
+884,19,Male,Geita,Bachelor,Agriculture,1,2,Low,Basic,Informal work,Construction,Field,"Microsoft Office, Data analysis, Graphic design","Communication, Leadership, Resilience",2
+885,18,Male,Tanga,Diploma,Business,0,0,High,Advanced,Informal work,Manufacturing,Field,"Teaching support, Food preparation, Inventory management","Teamwork, Problem solving, Leadership",3
+886,26,Female,Pwani,Secondary,Business,4,9,Low,Intermediate,Internship,Manufacturing,Office,"English communication, Logistics coordination, Microsoft Office","Problem solving, Resilience",3
+887,23,Male,Manyara,Bachelor,Hospitality,2,4,Medium,Basic,Self-employed,Trade,Customer-facing,"Programming (Python), Social media management, Quality control, Accounting","Problem solving, Teamwork, Adaptability",1
+888,21,Female,Kilimanjaro,Secondary,Agriculture,0,0,Medium,Intermediate,Internship,Construction,Field,"Social media management, Logistics coordination, Inventory management, Microsoft Office","Critical thinking, Resilience, Communication",1
+889,23,Female,Ruvuma,Diploma,Education,0,3,Medium,Basic,Informal work,Education,Field,"English communication, Logistics coordination, Food preparation","Creativity, Critical thinking",1
+890,28,Male,Iringa,Higher Diploma,Business,0,0,Medium,Basic,Full-time,Tourism,Field,"Project management, Social media management, Data analysis, Teaching support","Leadership, Time management, Teamwork",0
+891,22,Male,Shinyanga,Higher Diploma,Logistics,2,2,Low,Advanced,Part-time,Transport,Field,"Inventory management, Food preparation","Time management, Leadership",1
+892,25,Male,Ruvuma,Bachelor,Arts,1,2,Medium,Basic,Informal work,Transport,Office,"Food preparation, Digital marketing, Social media management, Data analysis","Problem solving, Time management",0
+893,20,Male,Pemba South,No formal qualification,Engineering,0,1,Medium,Basic,Unemployed,Tourism,Remote,"Mechanical maintenance, Customer service, Programming (Python)","Creativity, Leadership, Problem solving",1
+894,27,Male,Njombe,Vocational/Technical,Health,2,4,Medium,Basic,Full-time,Tourism,Customer-facing,"Programming (Python), Graphic design, English communication, Project management","Customer focus, Critical thinking",1
+895,28,Female,Mtwara,Higher Diploma,Business,2,8,Medium,Intermediate,Full-time,Transport,Remote,"Logistics coordination, Data analysis, Network support, Web development","Problem solving, Time management",0
+896,19,Male,Mara,Bachelor,Information Technology,0,0,Low,Intermediate,Informal work,Tourism,Customer-facing,"Social media management, Logistics coordination, Customer service, Network support","Time management, Leadership, Critical thinking",1
+897,18,Male,Mtwara,Diploma,Logistics,0,0,High,Basic,Full-time,Agriculture,Remote,"Quality control, Database management, Customer service, Network support","Creativity, Problem solving",0
+898,19,Male,Morogoro,Vocational/Technical,Health,2,2,Low,Intermediate,Part-time,Tourism,Customer-facing,"Social media management, Microsoft Office","Leadership, Time management",1
+899,24,Female,Lindi,No formal qualification,Engineering,1,4,High,Advanced,Unemployed,Trade,Customer-facing,"Network support, Project management, Logistics coordination","Critical thinking, Resilience, Customer focus",0
+900,23,Male,Songwe,Higher Diploma,Information Technology,2,6,Medium,Advanced,Part-time,Healthcare,Customer-facing,"Data analysis, Food preparation, Web development, English communication","Adaptability, Customer focus, Communication",1
+901,23,Male,Kagera,Secondary,Engineering,0,1,Low,Basic,Unemployed,Manufacturing,Office,"Accounting, Database management, Customer service, Programming (Python)","Critical thinking, Teamwork",2
+902,26,Male,Dodoma,Vocational/Technical,Information Technology,6,7,Low,Intermediate,Full-time,Construction,Office,"Accounting, Digital marketing","Communication, Problem solving, Leadership",0
+903,28,Male,Kagera,Diploma,Hospitality,4,4,Low,Intermediate,Informal work,Trade,Remote,"Quality control, Food preparation","Resilience, Customer focus, Teamwork",1
+904,20,Male,Pemba South,No formal qualification,Engineering,1,2,Low,Advanced,Informal work,Construction,Office,"Social media management, Project management","Critical thinking, Problem solving",0
+905,26,Male,Singida,Vocational/Technical,Business,5,7,High,Basic,Full-time,Tourism,Remote,"Logistics coordination, Database management, Mechanical maintenance","Time management, Leadership, Teamwork",1
+906,24,Male,Songwe,Diploma,Arts,2,3,Low,Intermediate,Internship,Construction,Remote,"Social media management, Project management","Creativity, Time management, Resilience",1
+907,24,Male,Njombe,Higher Diploma,Engineering,1,3,Low,Advanced,Unemployed,Transport,Office,"Teaching support, Digital marketing, Web development, Logistics coordination","Adaptability, Customer focus, Time management",2
+908,22,Male,Dar es Salaam,Higher Diploma,Education,4,4,Medium,Basic,Self-employed,Healthcare,Customer-facing,"Data analysis, Logistics coordination, Programming (Python), Digital marketing","Adaptability, Communication, Time management",1
+909,19,Female,Mwanza,Vocational/Technical,Health,2,2,Medium,Basic,Full-time,Education,Customer-facing,"English communication, Data analysis","Problem solving, Leadership",0
+910,20,Female,Shinyanga,Secondary,Hospitality,0,0,Medium,Basic,Unemployed,Banking,Customer-facing,"Social media management, Programming (Python), Logistics coordination","Leadership, Creativity",2
+911,24,Female,Njombe,Secondary,Hospitality,0,0,High,Intermediate,Self-employed,Healthcare,Customer-facing,"Network support, Food preparation, Social media management, Inventory management","Customer focus, Communication",1
+912,27,Male,Zanzibar South,Diploma,Business,1,7,High,Intermediate,Self-employed,Tourism,Field,"Digital marketing, Logistics coordination","Time management, Teamwork, Customer focus",0
+913,21,Male,Tabora,Higher Diploma,Hospitality,0,1,Medium,Basic,Informal work,Transport,Office,"Network support, Mechanical maintenance","Teamwork, Leadership",2
+914,20,Female,Geita,Secondary,Logistics,0,1,High,Basic,Self-employed,Agriculture,Field,"Data analysis, Teaching support","Leadership, Critical thinking",1
+915,26,Female,Simiyu,No formal qualification,Arts,7,8,Medium,Basic,Full-time,Construction,Field,"Network support, Digital marketing, English communication","Adaptability, Leadership",1
+916,21,Male,Tanga,No formal qualification,Logistics,0,0,Low,Basic,Internship,Transport,Field,"Accounting, English communication","Customer focus, Creativity, Problem solving",0
+917,18,Female,Mtwara,Bachelor,Finance,0,0,Low,Basic,Unemployed,ICT,Office,"Digital marketing, Accounting, Data analysis","Critical thinking, Customer focus",3
+918,24,Female,Dar es Salaam,Higher Diploma,Business,0,0,Low,Basic,Self-employed,Manufacturing,Field,"Data analysis, Web development, Logistics coordination","Problem solving, Critical thinking, Time management",2
+919,21,Male,Njombe,No formal qualification,Business,1,1,Medium,Basic,Full-time,Tourism,Office,"Network support, Web development","Leadership, Adaptability",1
+920,21,Male,Iringa,Bachelor,Education,0,3,Medium,Intermediate,Full-time,Agriculture,Customer-facing,"Digital marketing, Food preparation, Web development","Communication, Adaptability, Teamwork",0
+921,26,Male,Mwanza,Vocational/Technical,Health,8,8,Low,Basic,Self-employed,Manufacturing,Remote,"Database management, Microsoft Office, Digital marketing, Web development","Creativity, Leadership, Customer focus",3
+922,20,Male,Shinyanga,Secondary,Health,0,0,Medium,Intermediate,Unemployed,Manufacturing,Remote,"Logistics coordination, Microsoft Office, Project management, Digital marketing","Teamwork, Critical thinking, Time management",0
+923,21,Male,Iringa,Secondary,Information Technology,2,2,Medium,Basic,Self-employed,Transport,Customer-facing,"English communication, Database management, Quality control, Programming (Python)","Critical thinking, Leadership, Teamwork",0
+924,26,Female,Kagera,Secondary,Business,0,0,Low,Basic,Full-time,Education,Customer-facing,"Project management, Programming (Python), Web development","Adaptability, Teamwork",1
+925,25,Male,Morogoro,Vocational/Technical,Business,0,4,High,Intermediate,Full-time,Transport,Field,"Project management, Web development","Problem solving, Teamwork",3
+926,26,Male,Zanzibar South,Bachelor,Agriculture,0,5,Medium,Basic,Unemployed,Transport,Remote,"Sales, Food preparation","Communication, Teamwork, Resilience",3
+927,22,Male,Njombe,Diploma,Finance,0,0,High,Advanced,Internship,Trade,Field,"Programming (Python), Teaching support","Problem solving, Critical thinking, Creativity",2
+928,26,Female,Katavi,Bachelor,Agriculture,1,1,Medium,Basic,Unemployed,Agriculture,Office,"Food preparation, Logistics coordination, Graphic design","Creativity, Teamwork, Time management",1
+929,19,Female,Kilimanjaro,Bachelor,Engineering,2,2,Low,Advanced,Unemployed,Construction,Remote,"Digital marketing, Programming (Python)","Creativity, Communication, Teamwork",1
+930,25,Female,Dar es Salaam,Higher Diploma,Education,1,4,Low,Intermediate,Internship,Healthcare,Customer-facing,"Customer service, Accounting, Microsoft Office, Social media management","Critical thinking, Time management",3
+931,19,Female,Mara,Vocational/Technical,Logistics,1,2,Low,Advanced,Part-time,Transport,Customer-facing,"Accounting, Customer service","Time management, Critical thinking, Teamwork",1
+932,24,Male,Shinyanga,Secondary,Logistics,4,7,Medium,Intermediate,Part-time,Banking,Customer-facing,"Database management, Network support","Adaptability, Teamwork",2
+933,21,Male,Shinyanga,Diploma,Logistics,0,0,Medium,Intermediate,Internship,ICT,Remote,"Sales, Digital marketing","Resilience, Leadership",3
+934,22,Male,Singida,Higher Diploma,Engineering,2,2,Low,Intermediate,Self-employed,Agriculture,Field,"Data analysis, Network support, Database management, Customer service","Time management, Problem solving, Teamwork",3
+935,25,Female,Dar es Salaam,Diploma,Health,0,5,High,Advanced,Internship,Trade,Remote,"Sales, Accounting, Graphic design","Creativity, Time management",1
+936,28,Female,Manyara,Vocational/Technical,Hospitality,1,7,Low,Intermediate,Informal work,Healthcare,Remote,"Food preparation, Database management, Data analysis","Problem solving, Communication",0
+937,24,Male,Kilimanjaro,Diploma,Information Technology,0,3,High,Basic,Informal work,Education,Office,"Inventory management, English communication","Problem solving, Leadership",1
+938,25,Female,Ruvuma,Bachelor,Hospitality,2,2,Medium,Intermediate,Unemployed,Banking,Customer-facing,"Programming (Python), Database management","Problem solving, Communication, Leadership",1
+939,24,Female,Songwe,No formal qualification,Arts,0,0,Medium,Intermediate,Part-time,Trade,Field,"Inventory management, Project management, Microsoft Office","Adaptability, Time management",1
+940,23,Female,Mara,Higher Diploma,Finance,3,3,Medium,Intermediate,Informal work,Banking,Customer-facing,"Graphic design, Mechanical maintenance","Communication, Problem solving, Resilience",1
+941,25,Male,Ruvuma,Vocational/Technical,Logistics,4,7,High,Basic,Unemployed,ICT,Field,"Customer service, English communication","Problem solving, Customer focus, Communication",2
+942,25,Male,Zanzibar Urban/West,No formal qualification,Engineering,6,6,Medium,Intermediate,Self-employed,Transport,Office,"Project management, Customer service, Data analysis, Microsoft Office","Problem solving, Critical thinking",1
+943,23,Female,Dar es Salaam,Bachelor,Arts,1,2,Medium,Advanced,Full-time,Transport,Office,"Food preparation, Mechanical maintenance, Digital marketing","Customer focus, Critical thinking",1
+944,23,Male,Tabora,Bachelor,Hospitality,1,1,Medium,Advanced,Internship,Agriculture,Office,"Database management, Inventory management, Mechanical maintenance","Time management, Resilience",3
+945,27,Female,Ruvuma,Higher Diploma,Agriculture,1,5,High,Intermediate,Self-employed,Education,Office,"Mechanical maintenance, Sales, Teaching support, Digital marketing","Leadership, Problem solving, Resilience",2
+946,27,Female,Pemba South,Secondary,Arts,1,1,High,Intermediate,Full-time,Manufacturing,Customer-facing,"Web development, Quality control, Mechanical maintenance, Sales","Leadership, Customer focus, Communication",2
+947,18,Male,Kagera,Diploma,Health,0,0,Medium,Intermediate,Informal work,Transport,Office,"Inventory management, Project management","Time management, Communication, Problem solving",3
+948,24,Male,Pemba South,Higher Diploma,Business,0,0,Medium,Intermediate,Full-time,Education,Field,"Microsoft Office, Programming (Python), Project management, Digital marketing","Time management, Resilience, Customer focus",2
+949,23,Male,Iringa,Bachelor,Health,2,2,Medium,Basic,Self-employed,Agriculture,Remote,"Programming (Python), Graphic design","Time management, Teamwork",1
+950,22,Male,Mbeya,Secondary,Hospitality,0,1,High,Intermediate,Self-employed,Agriculture,Remote,"Accounting, Programming (Python), Social media management","Critical thinking, Adaptability, Communication",2
+951,24,Male,Songwe,Secondary,Engineering,3,5,Low,Basic,Full-time,Agriculture,Remote,"Data analysis, Mechanical maintenance, Digital marketing, Social media management","Resilience, Time management",1
+952,28,Male,Geita,No formal qualification,Education,3,8,High,Intermediate,Unemployed,Transport,Customer-facing,"Teaching support, Network support","Teamwork, Customer focus, Problem solving",2
+953,20,Female,Mbeya,Vocational/Technical,Logistics,1,2,Low,Advanced,Part-time,Trade,Office,"Network support, Microsoft Office","Customer focus, Leadership",2
+954,23,Male,Iringa,Vocational/Technical,Engineering,1,2,Medium,Basic,Informal work,Tourism,Field,"English communication, Graphic design, Customer service, Social media management","Communication, Time management, Critical thinking",0
+955,21,Male,Rukwa,Bachelor,Health,0,0,Low,Basic,Internship,Agriculture,Customer-facing,"Logistics coordination, Accounting, Project management, Microsoft Office","Leadership, Customer focus",2
+956,25,Male,Pemba North,Bachelor,Information Technology,1,1,High,Basic,Unemployed,Manufacturing,Office,"Customer service, Graphic design, Logistics coordination","Adaptability, Teamwork, Time management",3
+957,22,Female,Mbeya,Vocational/Technical,Health,1,1,Low,Advanced,Self-employed,Education,Remote,"Database management, Inventory management","Critical thinking, Communication, Creativity",3
+958,21,Female,Zanzibar Urban/West,Diploma,Agriculture,2,3,Medium,Intermediate,Part-time,Construction,Customer-facing,"Database management, Customer service","Creativity, Resilience, Time management",1
+959,18,Female,Ruvuma,Higher Diploma,Education,0,0,High,Basic,Full-time,Trade,Customer-facing,"English communication, Inventory management, Digital marketing, Accounting","Critical thinking, Teamwork",1
+960,26,Female,Dar es Salaam,Secondary,Finance,2,7,High,Advanced,Self-employed,Construction,Field,"Database management, Food preparation","Time management, Teamwork",1
+961,21,Male,Njombe,Vocational/Technical,Business,1,1,Low,Basic,Unemployed,Construction,Field,"Programming (Python), Web development, Social media management, Customer service","Adaptability, Problem solving, Communication",0
+962,20,Female,Lindi,Bachelor,Finance,0,1,Low,Basic,Internship,Healthcare,Remote,"Project management, Accounting, Mechanical maintenance, Graphic design","Time management, Teamwork, Critical thinking",3
+963,25,Female,Mtwara,Diploma,Arts,0,0,Medium,Intermediate,Self-employed,Trade,Office,"Microsoft Office, Customer service, Web development","Resilience, Teamwork, Critical thinking",1
+964,20,Male,Njombe,Higher Diploma,Engineering,0,0,High,Basic,Informal work,Banking,Field,"Logistics coordination, Digital marketing, Data analysis","Creativity, Leadership, Communication",0
+965,23,Male,Geita,Higher Diploma,Arts,1,3,High,Basic,Unemployed,ICT,Remote,"Network support, Inventory management","Resilience, Teamwork",3
+966,22,Male,Kagera,Vocational/Technical,Engineering,1,2,Medium,Intermediate,Part-time,Trade,Field,"Quality control, Customer service, Database management, Microsoft Office","Customer focus, Creativity, Adaptability",3
+967,20,Female,Morogoro,Secondary,Agriculture,0,1,High,Intermediate,Part-time,Education,Customer-facing,"Microsoft Office, Customer service","Critical thinking, Problem solving, Creativity",3
+968,19,Female,Geita,Bachelor,Information Technology,1,2,High,Basic,Full-time,Manufacturing,Field,"Network support, Programming (Python)","Communication, Resilience",0
+969,19,Male,Tabora,Bachelor,Engineering,0,0,Medium,Advanced,Part-time,Tourism,Customer-facing,"Project management, Network support, Quality control, Graphic design","Resilience, Time management, Teamwork",0
+970,18,Female,Kigoma,Higher Diploma,Information Technology,0,0,Medium,Intermediate,Unemployed,Agriculture,Customer-facing,"Food preparation, Microsoft Office, Mechanical maintenance, Logistics coordination","Critical thinking, Communication, Customer focus",1
+971,20,Female,Katavi,Vocational/Technical,Agriculture,1,3,High,Intermediate,Full-time,Construction,Office,"Quality control, Project management, Sales, Customer service","Resilience, Creativity",1
+972,18,Female,Tanga,No formal qualification,Finance,0,1,High,Intermediate,Unemployed,Tourism,Field,"Programming (Python), Inventory management, English communication","Adaptability, Resilience, Creativity",1
+973,23,Male,Ruvuma,Vocational/Technical,Education,0,4,Low,Advanced,Full-time,Banking,Remote,"Project management, Digital marketing, Food preparation","Creativity, Critical thinking, Time management",0
+974,22,Male,Shinyanga,No formal qualification,Health,1,1,Medium,Intermediate,Internship,Trade,Office,"Microsoft Office, Data analysis","Teamwork, Critical thinking, Customer focus",2
+975,27,Male,Mtwara,Higher Diploma,Health,0,4,Low,Intermediate,Internship,Tourism,Office,"Logistics coordination, Food preparation, Web development","Communication, Leadership, Resilience",1
+976,26,Male,Simiyu,Bachelor,Hospitality,0,3,Low,Advanced,Unemployed,Healthcare,Office,"Data analysis, Web development, Accounting, Inventory management","Leadership, Critical thinking, Creativity",1
+977,27,Male,Mbeya,Vocational/Technical,Logistics,0,1,Medium,Intermediate,Unemployed,Trade,Customer-facing,"Customer service, Sales","Communication, Teamwork",0
+978,20,Female,Manyara,Diploma,Business,3,3,High,Basic,Full-time,Construction,Office,"Programming (Python), Data analysis","Critical thinking, Leadership",1
+979,21,Female,Kilimanjaro,Secondary,Information Technology,3,4,Medium,Advanced,Informal work,Manufacturing,Office,"Network support, Database management","Communication, Time management, Creativity",0
+980,20,Female,Kilimanjaro,Vocational/Technical,Information Technology,1,1,High,Intermediate,Part-time,Construction,Office,"Mechanical maintenance, Web development, Food preparation, Digital marketing","Customer focus, Creativity",0
+981,24,Female,Shinyanga,No formal qualification,Education,0,0,Medium,Basic,Full-time,Healthcare,Office,"Graphic design, Social media management, English communication, Customer service","Creativity, Time management",3
+982,27,Male,Katavi,Vocational/Technical,Hospitality,3,4,Medium,Basic,Informal work,Construction,Customer-facing,"Customer service, English communication, Project management, Digital marketing","Customer focus, Problem solving, Critical thinking",1
+983,23,Female,Pwani,Bachelor,Education,2,2,Medium,Basic,Informal work,Tourism,Customer-facing,"Inventory management, Logistics coordination","Teamwork, Adaptability",0
+984,27,Male,Geita,Higher Diploma,Health,3,7,Low,Intermediate,Full-time,Transport,Customer-facing,"Customer service, Mechanical maintenance","Communication, Resilience",0
+985,23,Female,Lindi,Vocational/Technical,Hospitality,4,6,Medium,Basic,Internship,Tourism,Customer-facing,"Quality control, Food preparation, Microsoft Office","Communication, Adaptability",0
+986,20,Female,Mara,Secondary,Education,1,2,Low,Basic,Full-time,ICT,Remote,"Microsoft Office, Database management","Teamwork, Problem solving",1
+987,25,Male,Lindi,No formal qualification,Information Technology,2,3,Medium,Intermediate,Informal work,Trade,Office,"Food preparation, Graphic design","Time management, Creativity",1
+988,20,Male,Manyara,Secondary,Health,0,1,High,Advanced,Full-time,Trade,Field,"Mechanical maintenance, Graphic design, Social media management","Teamwork, Communication",2
+989,22,Male,Iringa,Vocational/Technical,Agriculture,0,0,Medium,Intermediate,Internship,Tourism,Office,"Data analysis, Programming (Python), Logistics coordination, Accounting","Customer focus, Time management",1
+990,25,Female,Dar es Salaam,No formal qualification,Engineering,7,7,Low,Basic,Unemployed,Trade,Customer-facing,"Accounting, Programming (Python)","Adaptability, Leadership",2
+991,25,Male,Iringa,Bachelor,Information Technology,3,6,Medium,Intermediate,Unemployed,Agriculture,Field,"Microsoft Office, Inventory management","Customer focus, Adaptability",0
+992,26,Male,Mwanza,Secondary,Education,0,1,High,Basic,Self-employed,Education,Customer-facing,"Web development, Teaching support, Digital marketing","Critical thinking, Resilience",1
+993,25,Female,Kagera,No formal qualification,Arts,1,5,Low,Basic,Unemployed,Banking,Field,"Digital marketing, Mechanical maintenance","Customer focus, Leadership",2
+994,25,Female,Dar es Salaam,Higher Diploma,Health,1,4,High,Intermediate,Part-time,ICT,Remote,"Web development, Mechanical maintenance","Teamwork, Time management",0
+995,25,Male,Rukwa,Bachelor,Health,4,4,Medium,Intermediate,Self-employed,Healthcare,Office,"Project management, Social media management, Sales","Time management, Communication",1
+996,19,Male,Kilimanjaro,Higher Diploma,Health,1,2,Medium,Basic,Informal work,Manufacturing,Field,"Accounting, Programming (Python)","Critical thinking, Customer focus, Time management",2
+997,23,Female,Manyara,No formal qualification,Logistics,0,0,High,Basic,Informal work,Manufacturing,Office,"Programming (Python), Customer service, Database management, Social media management","Problem solving, Resilience",2
+998,25,Male,Pemba North,Diploma,Health,1,3,Medium,Intermediate,Full-time,Construction,Customer-facing,"Teaching support, Accounting","Resilience, Problem solving",0
+999,27,Male,Pemba South,Vocational/Technical,Arts,7,8,High,Basic,Informal work,Agriculture,Field,"Network support, Mechanical maintenance","Creativity, Time management, Critical thinking",2
+1000,21,Male,Arusha,Diploma,Information Technology,0,0,High,Basic,Unemployed,Trade,Customer-facing,"Inventory management, Quality control, Teaching support, Accounting","Time management, Resilience",0
